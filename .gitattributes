@@ -1,0 +1,2 @@
+# Keep text files byte-stable with LF line endings
+* text=auto eol=lf
