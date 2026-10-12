@@ -38,7 +38,7 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 | `paper/` | the paper, `GENESIS-PAPER.md` |
 | `case-study/` | what the framework did on the Topological manuscript, its worked examples, and `LINEAGE.md` |
 | `CHANGELOG.md` | every change, one timestamped line each |
-| `genesis/captures/` | what earlier sessions on this repo decided, learned and left open |
+| `genesis/captures/` | what earlier sessions on this repo decided, learned and left open; also the four reader audits of 2026-10-11 (`g6r01` to `g6r04`), copied from the case study, which produced the late line's 9.3.0 to 9.3.3 |
 
 ## House style
 

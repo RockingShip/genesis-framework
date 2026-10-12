@@ -47,6 +47,12 @@ Send [`templates/closingPrompt.md`](templates/closingPrompt.md). Save the captur
 5. **Publish a new version** of the material or the onboarding, as a new file, with a changelog line
    naming the reader whose audit prompted it. Then wake the next reader against the new version.
 
+## Worked examples
+
+The four onboarding audits that produced `GENESIS-FRAMEWORK-LATE` 9.3.0 to 9.3.3 are kept in full in
+[`genesis/captures/`](../genesis/captures/), files `2026-10-11-g6r01` to `g6r04`. Each shows a
+reading order, stumbles as prior, truth and check, and the destination of every finding.
+
 ## The transport test
 
 The strongest audit gives your rules to a different model, ideally a small one. Rules that hold on

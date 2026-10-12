@@ -51,17 +51,17 @@ rules stay the same across projects, and the awakening carries what is different
 
 `GENESIS-FRAMEWORK-LATE.md` holds 9.0.0 to 9.3.3 in its history, tagged `framework-late-<version>`.
 The paper's [§8](../paper/GENESIS-PAPER.md) tells what each fresh reader found and which version it
-produced.
+produced; the four audits are kept in full in [`genesis/captures/`](../genesis/captures/).
 
 | version | what it brought |
 | :--- | :--- |
 | 9.0.0 | the first late-stage framework: a small core of rules each with its reason, modes chosen by the session's goal, red and blue stances |
 | 9.1.0 | a new first rule, *sessions are free; the record answers to evidence*, and corrections found in an earlier agent's review |
 | 9.2.0 | the author's handle, the voice document as a companion, and consensus before any change to the manuscript |
-| 9.3.0 | from reader 1: the airlock built from separate files, since a file is read whole; identification by generation and reader |
-| 9.3.1 | from reader 2: the document listing varies by surface, and every reader reports what arrived |
-| 9.3.2 | from reader 3, the baseline: a clearer capture rule, the exact identification format, the onboarding audit's scope, and the prior capture |
-| 9.3.3 | from reader 4: identification after the reading and in the final message, and the airlock rules placed first |
+| 9.3.0 | from [reader 1](../genesis/captures/2026-10-11-g6r01-onboardingAudit.md): the airlock built from separate files, since a file is read whole; identification by generation and reader |
+| 9.3.1 | from [reader 2](../genesis/captures/2026-10-11-g6r02-onboardingAudit.md): the document listing varies by surface, and every reader reports what arrived |
+| 9.3.2 | from [reader 3](../genesis/captures/2026-10-11-g6r03-onboardingAudit.md), the baseline: a clearer capture rule, the exact identification format, the onboarding audit's scope, and the prior capture |
+| 9.3.3 | from [reader 4](../genesis/captures/2026-10-11-g6r04-onboardingAudit.md): identification after the reading and in the final message, and the airlock rules placed first |
 
 `GENESIS-FRAMEWORK-LATE.md` was written for the case study and names its files and paths; the
 portable rules and templates carry the same design without them. Passages marked `[redacted]`

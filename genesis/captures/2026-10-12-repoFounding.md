@@ -33,6 +33,7 @@ developed on the Topological manuscript, with Topological as its case study. [AU
   explained in the README. [AUTHOR]
 - The README statement *How this was written*, agreed in full: the author holds the content, the agents hold the consistency, and each gets the credit due. [AUTHOR]
 - One folder to copy per line, `genesis-framework-early/` and `genesis-framework-late/`; the late line's portable rules follow its version numbers. [AUTHOR]
+- The four generation 6 reader audits sit in `genesis/captures/` as `2026-10-11-g6r01` to `g6r04`, verbatim, with three passages redacted: a time zone, one chapter title, and two words on the author's business. [AUTHOR]
 
 ## Learned
 
@@ -53,7 +54,6 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 
 ## Open
 
-- Whether the four generation 6 audits go into the repo themselves. [AUTHOR-VERIFY]
 - The `[UNVERIFIED]` quotations in the paper, settled from the archive. [AUTHOR-VERIFY]
 - The Pages view and the first tagged release. [AUTHOR-VERIFY]
 

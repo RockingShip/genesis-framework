@@ -691,7 +691,8 @@ given the same goal:
 
 Each reader's audit produced a new version before the next reader woke: seven versions were
 published that day, v9.0.0 to v9.3.3, the last four from the audits. Each example below gives what the reader met, why it counted
-as a stumble, and what it changed.
+as a stumble, and what it changed. The four audits are kept in full in the repository's
+[`genesis/captures/`](../genesis/captures/).
 
 **Reader 1: a file is read whole.** v9.2.0 asked a cold reader to read only certain rules of the
 framework and only the first section of the voice document. The reader opened the framework and
