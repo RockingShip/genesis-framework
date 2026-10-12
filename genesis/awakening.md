@@ -1,0 +1,86 @@
+# Awakening: genesis-framework
+
+*The entry file for agents working on this repository. The repo uses its own kit: the rules are in
+[`AGENTS.md`](../AGENTS.md), and this file carries what is particular to the repo.*
+
+**Updated:** 2026-10-12
+
+## The project
+
+This repository publishes the Genesis Framework: a method for writing a long work with AI agents
+across many sessions. It holds a portable kit, the v9 framework as used on its case study, the
+paper that accounts for the method, and the record of every earlier version. It is itself an
+example of the method in use.
+
+## The author
+
+The author is **xyzzy**, of RockingShip Research. Address him as Xyzzy. He holds the knowledge, the
+rulings and the accountability.
+
+Agents may fix typos, broken links and formatting directly. Everything else is proposed first and
+made once Xyzzy agrees: new files, changes of content, renames, and anything touching the verbatim files of either line or the case study.
+
+## Where things stand
+
+- Public in intent, with the whole repo as the release. It is private for a short while, so that
+  severe mistakes can still be corrected by rewriting history.
+- `genesis-framework-early` 8.2.3; `genesis-framework-late` 9.3.3; `paper/GENESIS-PAPER.md` r3.
+- Waiting: the late line's first outside test on a small local model; the Pages view on the
+  `RockingShip/moonwalk` theme; the first tagged release.
+
+## Where things are
+
+| file or folder | holds |
+| :--- | :--- |
+| `README.md` | the front door: contents, models, thanks, licences, contact |
+| `genesis-framework-late/` | the late line: rules in three forms, the full framework, templates, the reader audit guide |
+| `genesis-framework-early/` | the early line: the full framework and its roles |
+| `paper/` | the paper, `GENESIS-PAPER.md` |
+| `case-study/` | what the framework did on the Topological manuscript, its worked examples, and `LINEAGE.md` |
+| `CHANGELOG.md` | every change, one timestamped line each |
+| `genesis/captures/` | what earlier sessions on this repo decided, learned and left open |
+
+## House style
+
+Xyzzy's standing instruction, verbatim:
+
+> Avoid negative words. Frame from the positive. Avoid the use of NOT and all it's variations like
+> don't, won't can't, shouldn't. Avoid using dashes in prose as separator. Spelling British English.
+> Keep asking for clarifications until we mutually agree on the topic before presenting code or
+> proposals.
+
+## Conventions
+
+- **File names:** content files in lowerCamelCase, Latin-1, without spaces (`genesisCore.md`).
+  Products in capitals (`GENESIS-PAPER.md`, `GENESIS-FRAMEWORK-LATE.md`). Conventional files keep
+  their conventional names (`README.md`, `AGENTS.md`, `SKILL.md`, `LICENSE.txt`). Files that hold
+  verbatim history keep their original base names. The case study, which lives outside git, is
+  named with its revision: `TOPOLOGICAL-MANUSCRIPT-r47`.
+- **Versions:** one file per artefact; each version is a commit of that file, with the version in
+  the commit message, and a tag such as `framework-late-9.3.3` or `kit-1.0.0`. The EARLY and LATE
+  lines take their own version numbers.
+- **Licences:** method and prose under CC BY 4.0, including the kit's rules; templates and scripts
+  under MIT.
+- **Privacy:** the author appears only as `xyzzy` with `xyzzy@rockingship.org`. Material the author has
+  retired stays outside the repo; the history keeps only what `case-study/LINEAGE.md` lists. Outside testers stay
+  unnamed. The Topological software and its licensing live elsewhere.
+- **Record files** are verbatim; a removed passage reads `[redacted]`. Claims without a traceable
+  source are marked `[UNVERIFIED]`.
+- **Commits:** author `xyzzy <xyzzy@rockingship.org>`, committer `Claude <noreply@anthropic.com>`,
+  pushed to `main`. While the repo is private, rewriting history and force-pushing are allowed.
+- **Changelog:** one line per change, `YYYY-MM-DD HH:MM:SS Added|Changed|Fixed: …`, newest first.
+
+## Words to know
+
+| term | meaning here |
+| :--- | :--- |
+| kit | the portable part: ten rules and the templates |
+| the case study | the *Topological Computing* manuscript, where the framework was developed |
+| blue, red | the co-author's stance and the cold reader's stance |
+| generation, reader | the project's maturity level, and one session's agent within it |
+| capture | a session's record of what it decided, learned and left open |
+
+## Your first reply
+
+Open with what you read and the goal of this session as you understood it. Ask about anything
+unclear before you start work.
