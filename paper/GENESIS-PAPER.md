@@ -37,7 +37,6 @@ central observation.
 | **[FRAME]** | the frame reader of draft r2, 2026-08-19 |
 | *(session)* | said in conversation, where thinking runs free |
 | *(record)* | written into a governing document or the manuscript |
-| `[UNVERIFIED]` | carried from draft r2, with its source expected in the session archive |
 
 **Figures.** Every count carries the revision it was measured at. The case study moves weekly,
 so a figure is a reading on a date.
@@ -46,7 +45,7 @@ so a figure is a reading on a date.
 
 > **[AUTHOR]** *"Behind every sentence goes a 'why', and each should be answered in a direct or
 > indirect way. If the answer is 'dunno', that is where the thinking starts."*
-> *(session)* `[UNVERIFIED]`
+> *(session)*
 
 ---
 
@@ -72,16 +71,16 @@ The method of discovery explains the shape of what followed:
 
 > **[AUTHOR]** *"Try something out, see what sticks, understand what just happened, term the
 > observation with something appropriate, experiment, hit a wall, repeat."* *(session)*
-> `[UNVERIFIED]`
 
-Terminology arrived after contact with behaviour. The agents structured and translated; every
+It was the author's way of entering a new field of science: understand its mechanics by capturing
+them as software processes. Terminology arrived after contact with behaviour. The agents structured and translated; every
 ruling on what is true stayed with the researcher.
 
 **What was made.** Three layers, each answering to the one beneath:
 
 | layer | answers to | scale |
 | :--- | :--- | :--- |
-| the code | a running machine | about 480,000 lines `[UNVERIFIED]` |
+| the code | a running machine | about 480,000 lines |
 | the case-study manuscript | the code | 95,635 words across three volumes, plus 29,855 in front matter and reference, at r47 |
 | this paper | the manuscript | about 9,000 words |
 
@@ -111,7 +110,7 @@ framework this paper calls v9.
 
 > **[READER]** *"You're not measuring the agent's ability to collaborate. You're measuring the
 > reader's first encounter with the manuscript. Agent as collaborator versus agent as measuring
-> instrument."* The lens reader of draft r2 *(session)* `[UNVERIFIED]`
+> instrument."* The lens reader of draft r2 *(session)*
 
 ### 2.2 The boundary
 
@@ -272,7 +271,6 @@ awakening, read first by every agent (§8.3).
 
 > **[AUTHOR]** *"I never say you are wrong, but provide background and nuance to make your own
 > conclusions, which sometimes reveals surprising causes we both can learn from."* *(session)*
-> `[UNVERIFIED]`
 
 A correction is finished when the corrected party can carry the point forward and defend it to the
 next challenger. A verdict fails that test, because a verdict travels badly; background travels.
@@ -298,7 +296,7 @@ rules in the corpus.
 > **[READER]** *"The agent cannot comfortably write 'X is not Y.' So it has to discover 'What is
 > X?'"* *"And negative framing preserves the reader's existing concept. If I say 'this is not a
 > hash table in the conventional sense,' I have just put hash table into the reader's head."*
-> The lens reader of draft r2 *(session)* `[UNVERIFIED]`
+> The lens reader of draft r2 *(session)*
 
 For a project whose central teaching problem is keeping familiar concepts from colonising new
 ones, that matters. The second clause has a matching effect: agreeing on the object before
@@ -366,7 +364,7 @@ It exists because of an early and severe loss:
 
 > **[AUTHOR]** *"Back then agents were very strong in summarizing and dropping whole fields
 > because they did not understand where it fitted and why it was important… there was a lot of
-> regression. In the beginning a lot of knowledge was lost."* *(session)* `[UNVERIFIED]`
+> regression. In the beginning a lot of knowledge was lost."* *(session)*
 
 A summary drops what the summariser judges unimportant, and an agent still learning a paradigm
 judges wrongly. Whole fields went. The sweep was the recovery, run by a role built for it, the
@@ -384,7 +382,7 @@ Two agents can generate friction, and neither can supply ground both lack. **Der
 missing background looks, from inside, identical to genuine disagreement.**
 
 > **[AUTHOR]** *"In the past I only mediated when I sensed the session started to derail because
-> of lacking background, to correct and rail again."* *(session)* `[UNVERIFIED]`
+> of lacking background, to correct and rail again."* *(session)*
 
 So the author is the supply line, and an intervention supplies a fact. **Each intervention marks a
 gap in the book:** if an agent had to be handed a file to continue, the manuscript leaves that
@@ -477,7 +475,7 @@ argument for keeping every version.
 ### 5.4 Erosion
 
 **A fix with its reason unstated is undone by the next person tidying.** Three instances from the
-case study `[UNVERIFIED]`:
+case study:
 
 - a precedence rule ruled at one revision lived in a file deleted during consolidation eight
   revisions later, and the earlier rule returned by default;
@@ -496,7 +494,7 @@ The mirror of erosion, and probably the larger loss.
 
 > **[AUTHOR]** *"The thing that disappoints is that I have done this explanation many times, and
 > yet it doesn't stick with agents to add it to the manuscript, otherwise you would have known."*
-> *(session)* `[UNVERIFIED]`
+> *(session)*
 
 An explanation given repeatedly, understood in each session, and gone at the end of each, because
 it lived in conversation.
@@ -505,7 +503,7 @@ it lived in conversation.
 > session in which it was explained. The problem is that the understanding wasn't sufficiently
 > architecturally anchored for the next agent to reliably reconstruct it."* *"You were supplying
 > nodes and narratives, but the persistent artefact needs to preserve the edges between them."*
-> The lens reader of draft r2 *(session)* `[UNVERIFIED]`
+> The lens reader of draft r2 *(session)*
 
 The proposed remedy is a concept graph whose edges carry the discoveries. The earliest surviving
 framework, 3.1, already specifies a *Conceptual Dependency Graph* as its second cognitive system
@@ -566,7 +564,7 @@ silent. This is the fourth portable rule, and the one every other rule protects.
 Roughly twenty phrasings that appear at raised rates in unsteered model output were counted in the
 case study. At r35, as measured for draft r2, most returned zero: *delve*, *moreover*, *tapestry*,
 *underscore*, *leverage*, *pivotal*, *multifaceted*, *testament to*, *in conclusion*,
-*ever-evolving*. *Furthermore* returned five `[UNVERIFIED]`.
+*ever-evolving*. *Furthermore* returned five.
 
 **Re-measured at r47**, twelve revisions and a full restructuring later, by a fresh script over
 the three volumes with quotations and code left out: every one of those phrasings returns zero,
@@ -580,7 +578,7 @@ front matter.
 > **[READER]** *"Would I identify this as raw AI output? Very low. Would I suspect that the
 > architecture of the prose itself was shaped through repeated interaction with AI agents? Very
 > high."* *"The tell isn't a model's voice. The tell is the presence of an adversarial reader
-> behind the prose."* The lens reader of draft r2 *(session)* `[UNVERIFIED]`
+> behind the prose."* The lens reader of draft r2 *(session)*
 
 ### 7.2 Prohibitions against structural demands
 
@@ -595,7 +593,7 @@ outside quotations and code:
 | 2, developer | 32 | 43.8 |
 | 3, operations | 85 | 92.3 |
 
-The r35 counting method is unrecorded `[UNVERIFIED]`, so the columns compare approximately. The
+The r35 counting method is unrecorded, so the columns compare approximately. The
 house method in force at r47 ([`positiveFraming.md`](positiveFraming.md)) counts
 propositional *not* alone, a narrower measure than this table's, and sets a target of about 29 per ten thousand and weighs position above
 rate: a negation that the reader's model needs is kept, one that plants the wrong picture is
@@ -604,7 +602,7 @@ familiar concepts out of new constructs, §4.7 argues it does its work in the dr
 in the count.
 
 **The single voice** also failed as a prohibition: seams between authoring passes stayed visible,
-and the goal was later reversed by disclosure `[UNVERIFIED]`.
+and the goal was later reversed by disclosure.
 
 **One item was withdrawn from the failed list after the author corrected it.** An earlier draft
 counted the maximum-verbosity mandate as failed, because the manuscript is compact. **That
@@ -621,7 +619,7 @@ conclusion; the teaching architecture, uniform across three volumes and several 
 From a session record of 2026-08-14, as quoted in draft r2:
 
 > *"Two external readers were given the corpus. Both read the register first, as instructed. Both
-> then made errors those findings had already named."* *(record)* `[UNVERIFIED]`
+> then made errors those findings had already named."* *(record)*
 
 **A finding kept in a register stays inert; prose at the point of the stumble calibrates.** The
 register is where a finding is kept, and the bracket (§4.1) is where it acts. Small n, real n, and
@@ -638,7 +636,7 @@ successive reorganisations, each prompted by the author supplying further ground
 > **[READER]** *"Cancellation has moved from being an assumption to being an observed
 > consequence."* *"First preserve enough structure for relationships to emerge. Then let those
 > relationships determine what can collapse. And that, I think, is what the code is saying that
-> the prose alone couldn't quite say."* The lens reader of draft r2 *(session)* `[UNVERIFIED]`
+> the prose alone couldn't quite say."* The lens reader of draft r2 *(session)*
 
 That is a reading of the architecture, reached from the code by a reader whose stated risk one
 exchange earlier had been mistaking metaphor for mechanism. It is what the bracketing device exists
@@ -667,8 +665,8 @@ book draft, in late May 2026, once most of the knowledge was collected, and the 
 scrubbing, sanitising and organising. Every book draft until then was written with Gemini. On
 2026-08-14 the three volumes were combined into manuscript revision r19, the first revision Claude
 took part in, since Claude could manage the manuscript as a zip archive; the cold readers on Claude
-joined from there. **The late stage** began at manuscript revision r46 and consolidates a manuscript close
-to complete; v9 was written for it during r47.
+joined from there. **The late stage** began at manuscript revision r46 and consolidates a
+manuscript close to complete; v9 was written for it during r47.
 
 > **[AUTHOR]** *"Everything upto v9 was done, interacted and was tuned to "Gemini 3.1 Pro". v9 and
 > upward was done, interacted and was tuned to "Claude Opus 5.5". I think this also needs to be
@@ -845,7 +843,7 @@ between the implementation and a reader. **Interaction vocabulary** emerged from
 relationship: *stumble*, *the switch*, *red* and *blue*, *the airlock*, *disposable agents*.
 
 > **[READER]** *"The agents coined the terms. But you designed the conditions under which those
-> terms had to emerge."* The lens reader of draft r2 *(session)* `[UNVERIFIED]`
+> terms had to emerge."* The lens reader of draft r2 *(session)*
 
 **Metaphor becoming representation.** Several readers have reported the same two-stage reaction to
 an explanatory term: it reads as metaphor, then the grounding arrives and it reads as
@@ -871,7 +869,7 @@ also when reloading a large context grew costly. Both rise with context size, an
 separate poorly after the fact.
 
 **One technique depends on the platform.** Pruning low-value turns whilst keeping distilled output
-is available on one vendor's interface and absent from another's `[UNVERIFIED]`.
+is available on one vendor's interface and absent from another's.
 
 **Every reader here is an agent reading a corpus.** Where a reader agrees with a taxonomy the
 corpus already holds, the agreement is worth less than it looks. Where it names something the
@@ -897,18 +895,18 @@ data of the kind the method collects, and because a paper about unmarked inventi
 own.
 
 **Draft r2's frame reader made eight, all of one shape: a mechanism supplied one step ahead of the
-evidence** `[UNVERIFIED]`. Among them: three project terms called fabricated after a search of
+evidence**. Among them: three project terms called fabricated after a search of
 twelve files out of about three hundred, when all three existed; protocol numbers read as
 deletions when they had been reassigned; and a verbosity mandate counted as failed against the
 wrong axis (§7.2). Its own account of the first:
 
 > **[FRAME]** *"The agent and I failed the same way with opposite signs. It treated the edge of its
 > context as evidence of presence; I treated the edge of mine as evidence of absence. Both errors
-> come from mistaking a horizon for a boundary."* *(session, 2026-08-19)* `[UNVERIFIED]`
+> come from mistaking a horizon for a boundary."* *(session, 2026-08-19)*
 
 **Draft r2's lens reader made the same class of error at least twice**: using a term as established
 project vocabulary when it was yet to be coined, and attributing the explanatory vocabulary to the
-author when agents had coined it `[UNVERIFIED]`.
+author when agents had coined it.
 
 **This draft's compiler, which also wrote v9, made six**, each recorded in its session capture as
 prior, truth and check:
@@ -968,7 +966,7 @@ method.
 
 ### A.1 Two welcomes
 
-The fourth generation's welcome, used for late-stage sessions in August 2026 `[UNVERIFIED]`:
+The fourth generation's welcome, used for middle-stage sessions in August 2026:
 
 > *You are the fifth reader of the 4th generation of co-authoring army of agents responsible for
 > the writing of the manuscript on the new research field of topological computing. I am
@@ -1042,8 +1040,7 @@ gigabyte, some single transcripts larger than a reader can hold.
 
 **Filenames describe what a document is called, at the moment it was named**, and rarely what a
 later reader needs it for. One file specifying the manuscript's central teaching device was
-left unrequested by ten readers, and surfaced only when the author raised its topic
-`[UNVERIFIED]`.
+left unrequested by ten readers, and surfaced only when the author raised its topic.
 
 **A corpus indexed by content is a prerequisite** for any agent expected to answer questions about
 it, since a question phrased in the reader's words seldom matches a filename phrased in the

@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 21:51:39 Fixed: every `[UNVERIFIED]` mark in the paper settled; the author verified each claim, and the mark leaves the reader contract. The fourth generation's welcome dated to the middle stage.
 2026-10-12 21:50:08 Changed: paper §8.1, Gemini co-authored the early stage; from r19 the author set Gemini and Claude against each other.
 2026-10-12 21:47:12 Changed: paper §8.1 records r19 as Claude's first involvement, with every earlier book draft written with Gemini.
 2026-10-12 21:41:39 Changed: paper §8.1 dates the early stage from June 2025 and the middle stage from the tenth book draft, late May 2026, through r19.
