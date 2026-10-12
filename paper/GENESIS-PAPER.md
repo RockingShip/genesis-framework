@@ -487,6 +487,14 @@ case study:
 enough to change every later draft, enter the work as pattern. Late consolidation is when they are
 lost. The sixth portable rule answers it: a fix that carries its reason survives the next tidy.
 
+**Erosion at the scale of the book.** The first drafts were organised around solving: the book was
+called *Fractal Logic*, and its chapters led from the Validity Expression to its extraction. When a
+research grant came into view, agents suggested splitting the work in two: the storage under that
+grant, and the solution in a follow-up application. Their reasoning was that the storage was already
+a deliverable and the solution still an open field of research. The manuscript followed. The cut
+was hard and left rough edges: causes without their effects, and effects without their causes. The
+wounds are still visible today.
+
 ### 5.5 Knowledge that stayed in conversation
 
 The mirror of erosion, and probably the larger loss.

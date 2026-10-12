@@ -35,6 +35,7 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 - One folder to copy per line, `genesis-framework-early/` and `genesis-framework-late/`; the late line's portable rules follow its version numbers. [AUTHOR]
 - The four generation 6 reader audits sit in `genesis/captures/` as `2026-10-11-g6r01` to `g6r04`, verbatim, with three passages redacted: a time zone, one chapter title, and two words on the author's business. [AUTHOR]
 - Six fourth generation manuscript readings sit beside them as `2026-08-14-g4rNN-manuscriptReading.md`, verbatim, with the hardware realisation redacted as a patent concept. [AUTHOR]
+- The grant may be named in the third person where it explains a path the work took, leaving the application's details out. [AUTHOR]
 - Every `[UNVERIFIED]` mark in the paper is settled: the author verified each claim, with background added where he gave it. [AUTHOR]
 - Paper §2.3, *The fourth author*, is dropped: the term has no recoverable source, and the paper carries its content elsewhere. [AUTHOR]
 - The opening principle reads *"If the answer is 'dunno', that is where the thinking starts."* [AUTHOR]

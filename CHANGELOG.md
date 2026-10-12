@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 22:02:45 Added: paper §5.4, erosion at the scale of the book: the split between storage and solution, and the wounds it left.
 2026-10-12 21:55:10 Removed: a retracted subject from the paper §2.1 and, as `[redacted]`, from the late framework and the case study's awakening. Fixed: the lineage's two dated notes verified by the author.
 2026-10-12 21:51:39 Fixed: every `[UNVERIFIED]` mark in the paper settled; the author verified each claim, and the mark leaves the reader contract. The fourth generation's welcome dated to the middle stage.
 2026-10-12 21:50:08 Changed: paper §8.1, Gemini co-authored the early stage; from r19 the author set Gemini and Claude against each other.
