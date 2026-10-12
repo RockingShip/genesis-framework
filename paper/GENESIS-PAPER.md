@@ -371,9 +371,8 @@ Digital Archaeologist (§5.2). It is also why the early frameworks mandate maxim
 mandate targets lossy summarising during extraction, which is a different axis from the length of
 finished prose.
 
-**One direction remains unrun.** Every sweep so far asked what the sessions hold that the
-manuscript lacks. Run the other way, it asks what the manuscript once held and has since lost,
-which is the erosion of §5.4.
+The sweep also runs in reverse, asking what the manuscript once held and has since lost: the
+erosion of §5.4.
 
 ### 4.10 Mediation as supply line
 
@@ -960,11 +959,7 @@ agent teaches a cold one with both sides transcribed, has one session on record.
 exists as forty outputs. Mediation now has its log in the capture file, and still lacks a stated
 method.
 
-**The reverse sweep** of §4.9: what the manuscript once held and has since lost.
-
 **The concept graph** of §5.5, specified in 2025 and still unbuilt.
-
-**An index by content** (Appendix B).
 
 ---
 
@@ -1039,7 +1034,7 @@ an auditor of the onboarding, which is how the last four versions of §8.4 came 
 
 ---
 
-## Appendix B: The corpus and its indexing
+## Appendix B: The corpus
 
 Roughly three hundred markdown documents and over a hundred session transcripts, together beyond a
 gigabyte, some single transcripts larger than a reader can hold.
@@ -1047,12 +1042,6 @@ gigabyte, some single transcripts larger than a reader can hold.
 **Filenames describe what a document is called, at the moment it was named**, and rarely what a
 later reader needs it for. One file specifying the manuscript's central teaching device was
 left unrequested by ten readers, and surfaced only when the author raised its topic.
-
-**A corpus indexed by content is a prerequisite** for any agent expected to answer questions about
-it, since a question phrased in the reader's words seldom matches a filename phrased in the
-author's. An index built for that purpose, with one card per document, showed which fields earn
-their place: what each document **asks** of a reader and what it **provides** carried the most
-weight, ahead of dates and claims.
 
 ---
 

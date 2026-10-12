@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 23:06:05 Removed: from the paper, the corpus index and the reverse sweep as outstanding work, both belonging to the case study; Appendix B becomes *The corpus*.
 2026-10-12 23:03:19 Fixed: paper §8.1, Claude as cold reader from May and June 2026, as co-author from r19.
 2026-10-12 22:02:45 Added: paper §5.4, erosion at the scale of the book: the split between storage and solution, and the wounds it left.
 2026-10-12 21:55:10 Removed: a retracted subject from the paper §2.1 and, as `[redacted]`, from the late framework and the case study's awakening. Fixed: the lineage's two dated notes verified by the author.
