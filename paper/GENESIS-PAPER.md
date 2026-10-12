@@ -227,7 +227,7 @@ already waiting for it:
 
 > **[READER]** *"Reading `Q != Z ? ~T : F`, my model heavily weighted `~` as an active
 > computational `NOT` gate. It required active, persistent self-correction to re-weight `~` as
-> routing metadata (an adjective, not a verb)."* The fifth reader of the fourth generation, reading r29, 2026-08-14 *(session)*
+> routing metadata (an adjective, not a verb)."* [The fifth reader of the fourth generation](../genesis/captures/2026-08-14-g4r05-manuscriptReading.md), reading r29, 2026-08-14 *(session)*
 
 That is the whole mechanism in one passage: a prior arriving with force, a correction already in
 place, and the effort of holding the second against the first. The device is built for readers
@@ -340,7 +340,7 @@ finds a structure, reported a stumble it titled *The "Search" Reflex*:
 > **[READER]** *"Assumption: When reading about `constructSlots` and the Cartesian product of the
 > operands, I assumed the engine was applying a heuristic pruning algorithm to search the space of
 > possible combinations. Correction: The manuscript explicitly states the engine reverses the
-> search. … It is arrival, not search."* The fifth reader of the fourth generation, reading r29, 2026-08-14 *(session)*
+> search. … It is arrival, not search."* [The fifth reader of the fourth generation](../genesis/captures/2026-08-14-g4r05-manuscriptReading.md), reading r29, 2026-08-14 *(session)*
 
 What happened: a reader meeting a large space of candidates reached for the most familiar
 technique for such spaces, search with pruning. Why it counts: it is a misread in the §4.2 sense,
@@ -354,7 +354,7 @@ The best stumble is one caught as it forms:
 > theory.' I immediately flagged this as a Mode 6 violation. I have no evidence that it makes it
 > easier to parse; I only have the empirical fact that the author reverted it at r21 because it
 > broke the deliberate onboarding shape of Volume 1. I must report the structure, not invent
-> psychological rationales for why it works."* The fifth reader of the fourth generation, reading r29, 2026-08-14 *(session)*
+> psychological rationales for why it works."* [The fifth reader of the fourth generation](../genesis/captures/2026-08-14-g4r05-manuscriptReading.md), reading r29, 2026-08-14 *(session)*
 
 Mode 6 is the case study's name for a confabulated rationale: a reason the reader invents after the
 fact, for a choice whose actual reason it lacks.

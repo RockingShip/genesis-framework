@@ -34,6 +34,7 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 - The README statement *How this was written*, agreed in full: the author holds the content, the agents hold the consistency, and each gets the credit due. [AUTHOR]
 - One folder to copy per line, `genesis-framework-early/` and `genesis-framework-late/`; the late line's portable rules follow its version numbers. [AUTHOR]
 - The four generation 6 reader audits sit in `genesis/captures/` as `2026-10-11-g6r01` to `g6r04`, verbatim, with three passages redacted: a time zone, one chapter title, and two words on the author's business. [AUTHOR]
+- Six fourth generation manuscript readings sit beside them as `2026-08-14-g4rNN-manuscriptReading.md`, verbatim, with the hardware realisation redacted as a patent concept. [AUTHOR]
 
 ## Learned
 

@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 21:22:36 Added: six fourth generation manuscript readings of 2026-08-14 in `genesis/captures/` (readers 1 to 5 and 9); the paper's three G4R05 quotations link to their source.
 2026-10-12 21:19:14 Fixed: paper §4.1 and §4.8, three reader quotations settled against their source, the fifth reader of the fourth generation (r29, 2026-08-14); wording restored and labels corrected.
 2026-10-12 21:01:39 Changed: paper §5.1 gains the protocol counts of every early version and the bootstrap as detector; 8.2.3 carries eight core protocols.
 2026-10-12 20:53:51 Changed: `reachingConsensus.md` and `positiveFraming.md` move from `case-study/` to `paper/`, beside the paper, which links to them in §2.2 and §4.7.

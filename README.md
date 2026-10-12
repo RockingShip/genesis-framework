@@ -68,7 +68,7 @@ the house style and the conventions. Each working session leaves a capture in
 [`genesis/captures/`](genesis/captures/). So the `genesis/` folder is a live example of the folder
 `genesis-framework-late/INSTALL.md` asks you to create in your own project. The same folder also
 holds the four fresh readers' audits of the case study's onboarding, which produced the late line's
-9.3.0 to 9.3.3.
+9.3.0 to 9.3.3, and six readings of the manuscript by fourth generation cold readers.
 
 ## Models
 
