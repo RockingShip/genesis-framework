@@ -651,8 +651,11 @@ to produce. n of one.
 ### 8.1 What changed
 
 Every framework from 3.1 to 8.2.3 was written with, and tuned to, Gemini 3.1 Pro, the model that
-co-authored the case study's early and middle stages. The cold reader files followed 8.2.3, for
-the middle stage, written for readers on Claude Opus 5. On 2026-10-11 the project moved to a new
+co-authored the case study's early stage. From r19, in the middle stage, Claude joined: the author
+set the two models against each other, copying responses from one session into the other, which
+the author recalls as the source of *"the most interesting discussions"* (2026-10-12), and which
+§4.10 describes as mediation. The cold reader files followed 8.2.3, for the middle stage, written
+for readers on Claude Opus 5. On 2026-10-11 the project moved to a new
 workspace, and its framework was rebuilt
 for Claude Opus 5.5 as **v9**, for the late stage of authoring. The earlier framework stays in
 force for early and middle stages, by the author's ruling.
