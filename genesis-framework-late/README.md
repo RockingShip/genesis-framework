@@ -49,7 +49,7 @@ rules stay the same across projects, and the awakening carries what is different
 
 ## Versions
 
-`GENESIS-FRAMEWORK-LATE.md` holds 9.0.0 to 9.3.3 in its history, tagged `v<version>`.
+`GENESIS-FRAMEWORK-LATE.md` holds 9.0.0 to 9.3.3 in its history, tagged `late-<version>`.
 The paper's [§8](../paper/GENESIS-PAPER.md) tells what each fresh reader found and which version it
 produced; the four audits are kept in full in [`genesis/captures/`](../genesis/captures/).
 

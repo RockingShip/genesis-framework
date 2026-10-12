@@ -59,7 +59,8 @@ Xyzzy's standing instruction, verbatim:
   verbatim history keep their original base names. The case study, which lives outside git, is
   named with its revision: `TOPOLOGICAL-MANUSCRIPT-r47`.
 - **Versions:** one file per artefact; each version is a commit of that file, with the version in
-  the commit message; the two framework files' versions also carry a tag such as `v9.3.3`. The EARLY and LATE lines take their own
+  the commit message; the two framework files' versions also carry a tag such as `late-9.3.3`;
+  releases of the whole repository are tagged `vX.Y.Z`. The EARLY and LATE lines take their own
   version numbers, and the late line's portable rules follow its numbers.
 - **Licences:** method and prose under CC BY 4.0, including the portable rules and both
   frameworks; templates and scripts under MIT.

@@ -40,7 +40,7 @@ and the version. The framework's versions also carry a tag:
 
 | file | versions | tag |
 | :--- | :--- | :--- |
-| `GENESIS-FRAMEWORK-EARLY.md` | sixteen, 3.1 to 8.2.3 | `v<version>`, for example `v7.2` |
+| `GENESIS-FRAMEWORK-EARLY.md` | sixteen, 3.1 to 8.2.3 | `early-<version>`, for example `early-7.2` |
 | `roles/GENESIS-ROLE-Digital-Archaeologist.md` | ten, 2.1.3 to 5.3.0 | |
 | `roles/CLAUDE-COLDSTART-orientation.md` | 1.0.0, 1.1.0 and 2.0.0; 1.1.0 is the one in use | |
 | `roles/CLAUDE-REDTEAM-standing-instructions.md` | 1.0.0 | |
@@ -49,7 +49,7 @@ and the version. The framework's versions also carry a tag:
 
 ```sh
 git log --oneline --follow genesis-framework-early/roles/GENESIS-PIPELINE.md
-git show v7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md
+git show early-7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md
 ```
 
 Where each version came from, and what reads across them, is in the case study's

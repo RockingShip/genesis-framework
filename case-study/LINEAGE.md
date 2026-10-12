@@ -18,14 +18,14 @@ written for cold readers running on Claude Opus 5, the latest Opus at the time.
 
 | file | versions | tag | source |
 | :--- | :--- | :--- | :--- |
-| `genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md` | the co-creative framework, 3.1 to 8.2.3, sixteen versions | `v<version>` | see the table below |
+| `genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md` | the co-creative framework, 3.1 to 8.2.3, sixteen versions | `early-<version>` | see the table below |
 | `genesis-framework-early/roles/GENESIS-ROLE-Digital-Archaeologist.md` | 2.1.3 to 5.3.0, ten versions | | the Genesis r2 bundle |
 | `genesis-framework-early/roles/CLAUDE-COLDSTART-orientation.md` | 1.0.0, 1.1.0 and 2.0.0 | | the Genesis r2 bundle |
 | `genesis-framework-early/roles/CLAUDE-REDTEAM-standing-instructions.md` | 1.0.0 | | the Genesis r2 bundle |
 | `genesis-framework-early/roles/GENESIS-PIPELINE.md` | 1.3.0 | | the Genesis r2 bundle |
 | `genesis-framework-early/roles/GENESIS-ROLE-Lexicographer.md`<br>`genesis-framework-early/roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | | the Genesis r2 bundle |
 
-To read one version in full: `git show v7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md`. The
+To read one version in full: `git show early-7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md`. The
 other files' versions are found by their commit subjects: `git log --oneline --follow <file>`.
 
 Every version is verbatim. The only changes are four passages of personal detail in the cold-start
