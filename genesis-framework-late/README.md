@@ -21,6 +21,7 @@ rules follow its version numbers. Its first outside test, on a small local model
 | [`templates/readerWelcome.md`](templates/readerWelcome.md) | the message that wakes a fresh reader, and why each phrase is there |
 | [`templates/captureTemplate.md`](templates/captureTemplate.md) | what a session leaves behind for the next one |
 | [`templates/closingPrompt.md`](templates/closingPrompt.md) | the questions every session answers before it ends |
+| [`INSTALL.md`](INSTALL.md) | how to install it in each environment |
 | [`readerAudits.md`](readerAudits.md) | how to run fresh readers against your material or your onboarding, and fold their stumbles back |
 
 Each template names its worked example in the [case study](../case-study/).
@@ -34,32 +35,11 @@ Each template names its worked example in the [case study](../case-study/).
 3. **The full framework.** Modes, stances and reader audits for a long project:
    `GENESIS-FRAMEWORK-LATE.md`, with the voice templates and the welcome.
 
-## Setting it up
+## Installing
 
-Make a `genesis/` folder in your project with three things in it:
-
-```
-genesis/
-  awakening.md          from templates/awakening.md, filled in
-  captureTemplate.md    from templates/captureTemplate.md
-  captures/             one file per session
-```
-
-Then give your AI the rules:
-
-| where you work | what to do |
-| :--- | :--- |
-| ChatGPT (custom GPT or Project) | paste `genesisCore.md` into the instructions; upload `awakening.md` and the capture template as files |
-| Claude (Project) | paste `genesisCore.md` into the project instructions; add `awakening.md` and the capture template to the project files |
-| Gemini (Gem) | paste `genesisCore.md` into the Gem's instructions; attach `awakening.md` and the capture template |
-| a coding agent that reads `AGENTS.md` | copy the section in `AGENTS.md` into your project's `AGENTS.md`; it sits between its own markers alongside anything else there |
-| a coding agent that reads `CLAUDE.md` | copy the section into `CLAUDE.md`, or point `CLAUDE.md` at your `AGENTS.md` |
-| a coding agent that loads skills | copy `skills/genesis/` into the agent's skills folder |
-| a local model in a chat front end | paste `genesisCore.md` into the system prompt; paste the awakening at the start of each session |
-
-In a session limited to chat, the agent gives its capture in its final reply. You save it to
-`genesis/captures/` and paste the latest one into the next session. Carrying it by hand has a
-benefit of its own: you read every capture before it travels on.
+[`INSTALL.md`](INSTALL.md) gives the steps for Claude in a Project, Claude in a standalone chat,
+Gemini, Strada and other small local models, and coding agents. In every environment the order is
+the same: standing instructions, entry files, your welcome, and a capture at the close.
 
 ## Making it yours
 

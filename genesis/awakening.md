@@ -32,7 +32,7 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 
 | file or folder | holds |
 | :--- | :--- |
-| `README.md` | the front door: contents, models, thanks, licences, contact |
+| `README.md` | the front door: which line to use, how the pieces fit, models, thanks, licences, contact |
 | `genesis-framework-late/` | the late line: rules in three forms, the full framework, templates, the reader audit guide |
 | `genesis-framework-early/` | the early line: the full framework and its roles |
 | `paper/` | the paper, `GENESIS-PAPER.md` |
@@ -57,10 +57,10 @@ Xyzzy's standing instruction, verbatim:
   verbatim history keep their original base names. The case study, which lives outside git, is
   named with its revision: `TOPOLOGICAL-MANUSCRIPT-r47`.
 - **Versions:** one file per artefact; each version is a commit of that file, with the version in
-  the commit message, and a tag such as `framework-late-9.3.3` or `kit-1.0.0`. The EARLY and LATE
-  lines take their own version numbers.
-- **Licences:** method and prose under CC BY 4.0, including the kit's rules; templates and scripts
-  under MIT.
+  the commit message, and a tag such as `framework-late-9.3.3`. The EARLY and LATE lines take their own
+  version numbers, and the late line's portable rules follow its numbers.
+- **Licences:** method and prose under CC BY 4.0, including the portable rules and both
+  frameworks; templates and scripts under MIT.
 - **Privacy:** the author appears only as `xyzzy` with `xyzzy@rockingship.org`. Material the author has
   retired stays outside the repo; the history keeps only what `case-study/LINEAGE.md` lists. Outside testers stay
   unnamed. The Topological software and its licensing live elsewhere.
@@ -74,7 +74,7 @@ Xyzzy's standing instruction, verbatim:
 
 | term | meaning here |
 | :--- | :--- |
-| kit | the portable part: ten rules and the templates |
+| the late line, the early line | `genesis-framework-late/` and `genesis-framework-early/`, one folder each to copy |
 | the case study | the *Topological Computing* manuscript, where the framework was developed |
 | blue, red | the co-author's stance and the cold reader's stance |
 | generation, reader | the project's maturity level, and one session's agent within it |

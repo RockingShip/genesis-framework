@@ -127,7 +127,7 @@ the author is how unverified material reaches a place that answers to evidence: 
 in a session, carried forward through later sessions, and arriving in an outward-facing document
 with its provenance stripped. Each step looks reasonable. The boundary is what was missing.
 
-The kit's first rule holds this boundary: *the author decides; propose first, and change the work
+The first portable rule holds this boundary: *the author decides; propose first, and change the work
 once the author agrees.*
 
 ### 2.3 The fourth author
@@ -175,17 +175,17 @@ The report has a fixed shape, four fields per finding:
 3. **Type:** anticipated, unanticipated, or misread (§4.2).
 4. **Urgency:** how hard it pulled the reader away from the text.
 
-This is the kit's ninth rule. The shape stayed stable across every generation of readers, which is
+This is the ninth portable rule. The shape stayed stable across every generation of readers, which is
 why their reports can be compared and tallied.
 
 ---
 
 ## 4. Instruments
 
-Ten, each with its origin and the kit rule it became. Three generate findings: the stumble
+Ten, each with its origin and the portable rule it became. Three generate findings: the stumble
 harvest, the recovery sweep and mediation. The rest process what those three produce.
 
-| § | instrument | kit rule |
+| § | instrument | portable rule |
 | :--- | :--- | :--- |
 | 4.1 | the bracketing device | 5, evidence before conclusion |
 | 4.2 | the stumble taxonomy | 9, the stumble report |
@@ -278,7 +278,7 @@ next challenger. A verdict fails that test, because a verdict travels badly; bac
 material actually is, and **why the misunderstanding was available in the first place**. With
 both, an agent can predict where the same trap sits elsewhere. That is why the corrections in the
 onboarding brief take the form *prior, truth, check*: the prior is the why. It is also why every
-rule in the kit carries its reason.
+portable rule carries its reason.
 
 ### 4.7 Positive framing as a constraint on thought
 
@@ -449,7 +449,7 @@ case study `[UNVERIFIED]`:
 
 **The general form.** Fixes that arrive mid-session, too small for a framework revision and strong
 enough to change every later draft, enter the work as pattern. Late consolidation is when they are
-lost. The kit's sixth rule answers it: a fix that carries its reason survives the next tidy.
+lost. The sixth portable rule answers it: a fix that carries its reason survives the next tidy.
 
 ### 5.5 Knowledge that stayed in conversation
 
@@ -516,7 +516,7 @@ The dominant failure shape heads the brief that onboards readers at r47:
 > and it enters the record."* `TOPOLOGICAL-MANUSCRIPT-r47/AGENT-BRIEF.md`, §1 *(record)*
 
 The large majority of the 139 were somebody supplying a plausible detail where the source was
-silent. This is the kit's fourth rule, and the one every other rule protects.
+silent. This is the fourth portable rule, and the one every other rule protects.
 
 ---
 
@@ -653,7 +653,7 @@ The shape of v9 follows from asking only for conduct an agent can actually perfo
 - **versions published as new files**, with the current version named in a single place, and a
   changelog that lists corrections apart from new policy.
 
-The kit's ten rules are the portable core of that list. The late line itself is
+The ten portable rules are the core of that list. The late line itself is
 [`genesis-framework-late/GENESIS-FRAMEWORK-LATE.md`](../genesis-framework-late/GENESIS-FRAMEWORK-LATE.md), its seven versions in
 its history, with the awakening and the voice excerpt beside it.
 
@@ -764,10 +764,10 @@ case study, awaiting the author.
 Measured against §4.10, that is the airlock working: the material ran out nowhere the reader
 needed it.
 
-### 8.5 The kit
+### 8.5 The portable rules
 
-The kit distils v9 into ten rules and two templates that load into any environment that accepts
-standing instructions, from a chat assistant to a coding agent to a small local model. Its first
+The late line's portable rules distil v9 into ten rules, with six templates, that load into any environment that accepts
+standing instructions, from a chat assistant to a coding agent to a small local model. Their first
 outside test, on a heavily quantised local model, is under way. A rule set that holds on the
 smallest model it meets will hold anywhere; one that fails there shows which rules lean on the
 model's size.
@@ -825,7 +825,7 @@ authoring to be measured.
 
 **What would refute the central claims.** If the register counts of §7.1 fail to replicate on
 another corpus written under the same rules, the steering claim narrows to this corpus. If a reader
-with the corpus finds architectural defects among the 139 findings, §6 falls. If the kit's rules
+with the corpus finds architectural defects among the 139 findings, §6 falls. If the portable rules
 hold on large models and collapse on small ones, §8.5's claim of portability narrows to model size.
 
 ---
@@ -881,7 +881,7 @@ possible**, and each arrived as background, per §4.6.
 
 ## 12. Outstanding
 
-**The kit's first outside test**, on a small local model, is under way (§8.5).
+**The portable rules' first outside test**, on a small local model, is under way (§8.5).
 
 **v9 on authoring work.** Its evidence so far concerns onboarding. Its effect on drafting and
 revision is unmeasured.

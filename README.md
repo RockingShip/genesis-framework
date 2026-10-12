@@ -23,6 +23,11 @@ The framework comes in two lines, one per stage of a project. Pick the folder th
 | **written with** | Gemini 3.1 Pro; cold readers on Claude Opus 5 | Claude Opus 5.5 |
 | **current version** | 8.2.3 | 9.3.3 |
 
+Each folder has its own `INSTALL.md`, since the two lines load differently:
+[late](genesis-framework-late/INSTALL.md) covers Claude in a Project, Claude in a standalone chat,
+Gemini, Strada and other small local models, and coding agents;
+[early](genesis-framework-early/INSTALL.md) covers Gemini, Claude as cold reader, and coding agents.
+
 **If you are unsure, start late.** Its ten rules on one page are enough to change how a session works, and they load into ChatGPT, Claude, Gemini, a coding agent or a local model.
 
 ## How the pieces fit
@@ -53,6 +58,15 @@ Three of these are easy to confuse. The **standing instructions** sit in your en
 | [`paper`](paper/GENESIS-PAPER.md) | *Genesis*, the account of how the method arose, what each stumble taught, and what changed between the lines | r3 |
 | [`case-study`](case-study/) | *Topological Computing*, the manuscript the framework grew up with: worked examples and the lineage of every version | r47 |
 | [`genesis`](genesis/) | this repository's own use of the late line: its entry file and captures | |
+
+## This repository uses its own framework
+
+The repository is written the way the late line asks a project to be written. Its root
+[`AGENTS.md`](AGENTS.md) holds the ten rules, which coding agents load automatically, and tells every
+agent to read [`genesis/awakening.md`](genesis/awakening.md) first: what the repository is, who decides,
+the house style and the conventions. Each working session leaves a capture in
+[`genesis/captures/`](genesis/captures/). So the `genesis/` folder is a live example of the folder
+`genesis-framework-late/INSTALL.md` asks you to create in your own project.
 
 ## Models
 

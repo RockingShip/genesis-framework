@@ -12,7 +12,7 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 
 - Written as a public repo; private for a short while so severe mistakes can be corrected with a
   forced push. The repo is an example of the framework itself. [AUTHOR]
-- Licences: CC BY 4.0 for method and prose, including the kit's rules; MIT for templates and
+- Licences: CC BY 4.0 for method and prose, including the portable rules; MIT for templates and
   scripts. [AUTHOR]
 - Model attribution stated explicitly: Gemini 3.1 Pro up to v8.2.3, Claude Opus 5 for the cold
   readers of that period, Claude Opus 5.5 from v9. [AUTHOR]
@@ -22,13 +22,15 @@ developed on the Topological manuscript, with Topological as its case study. [AU
   and personal detail. [AUTHOR]
 - The Genesis r2 bundle rebuilt as the paper r3, in two voices with the frame reader where needed.
   [AUTHOR]
-- Naming: lowerCamelCase for content files; products in capitals with hyphenated revisions;
-  conventional and record files unchanged. [AUTHOR]
+- Naming: lowerCamelCase for content files; products in capitals; conventional files and
+  verbatim history unchanged; the case study, outside git, named `TOPOLOGICAL-MANUSCRIPT-r47`. [AUTHOR]
 - The whole repo is the release. [AUTHOR]
 - Commits authored by xyzzy and committed by Claude; force-push allowed while private. [AUTHOR]
 - A Thanks section for Gemini (blue team mindset) and Claude (red team mindset). [AUTHOR]
 - One file per artefact, with versions as git commits and tags, in place of versioned copies. [AUTHOR]
 - Two framework lines, EARLY (3.1 to 8.2.3) and LATE (9.0.0 onwards), each versioned on its own. [AUTHOR]
+- Installation steps per environment in each line's `INSTALL.md`, and the repo's own `genesis/`
+  explained in the README. [AUTHOR]
 - One folder to copy per line, `genesis-framework-early/` and `genesis-framework-late/`; the late line's portable rules follow its version numbers. [AUTHOR]
 
 ## Learned

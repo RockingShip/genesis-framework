@@ -9,6 +9,9 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 18:38:17 Added: `INSTALL.md` in each line's folder: Claude in a Project, Claude standalone, Gemini, Strada and other small local models, coding agents.
+2026-10-12 18:38:17 Changed: README explains the repository's own `genesis/` folder and links both install guides.
+2026-10-12 18:38:17 Changed: the paper names the late line's portable rules consistently.
 2026-10-12 18:28:29 Added: `AGENTS.md` and `genesis/`, the repository's own use of the late line.
 2026-10-12 18:28:29 Added: `case-study/`: the case study, its worked examples (`GENESIS-AWAKENING.md`, `VOICE-0-Reading-the-Author.md`) and `LINEAGE.md`.
 2026-10-12 18:28:29 Added: `paper/GENESIS-PAPER.md`, draft r3, rebuilt from r2 with a chapter on the late line.

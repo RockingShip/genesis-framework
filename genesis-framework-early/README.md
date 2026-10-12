@@ -19,6 +19,11 @@ were written for readers on Claude Opus 5.
 | [`roles/CLAUDE-REDTEAM-standing-instructions.md`](roles/CLAUDE-REDTEAM-standing-instructions.md) | the cold reader's invariant stance, sent with every red team session |
 | [`roles/CLAUDE-COLDSTART-orientation.md`](roles/CLAUDE-COLDSTART-orientation.md) | the cold reader's welcome, which carries what goes stale |
 
+## Installing
+
+[`INSTALL.md`](INSTALL.md) gives the steps for Gemini, the line's home, for Claude as cold reader,
+and for coding agents. Each session type gets its own setup.
+
 ## How it runs
 
 1. **Co-authoring sessions** load `GENESIS-FRAMEWORK-EARLY.md`, then one role from the pipeline.
