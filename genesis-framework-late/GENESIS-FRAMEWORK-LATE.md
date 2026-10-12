@@ -683,6 +683,10 @@ because the backlog is a new duty and the change is additive.
   each with its source, who acts, destination and status. The capture stays as written; an item is
   struck as resolved only on Xyzzy's ruling.
 - The awakening's digest of 1.12 and its closing prompt carry the backlog.
+- Amended in place, numbering unchanged, on Xyzzy's ruling of 2026-10-13: two backlogs, one per
+  layer. Topological's points in `claude/BACKLOG.md`, the framework's in `claude/GENESIS-BACKLOG.md`;
+  the layout and the sync between this project and the published framework in
+  `claude/STANDING-Project-Layout.md`, named from the awakening.
 
 **v9.3.3**, 2026-10-11. A patch from the onboarding audit of the fourth reader of the sixth
 generation (`claude/capture/r47/2026-10-11-g6r04-onboarding-audit.md`), whose closing list of three

@@ -11,6 +11,9 @@ Read this file and `claude/VOICE-0-Reading-the-Author.md`, then choose your mode
 files only when your mode says so. The reading tool returns whole files, so the airlock is made of
 files: what you open, you have read.
 
+How this project is laid out, and how the framework files stay in step with the published framework,
+is in `claude/STANDING-Project-Layout.md`; open it when your mode needs it.
+
 Fencing throughout: the author's words unmarked and verbatim, agent inferences `[READING]`, open
 rulings `[AUTHOR-VERIFY]`.
 
