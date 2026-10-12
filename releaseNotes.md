@@ -1,3 +1,5 @@
+<!-- Release title: genesis-framework 1.1.0  (this line stays hidden on the release page) -->
+
 This release adds the backlog to the late line of the framework, and tidies the repository around it.
 
 **What is new**
