@@ -8,14 +8,17 @@ Every agent session starts fresh. The Genesis Framework gives each newcomer the 
 
 Under construction. The repository stays private while its first contents take shape, and becomes public once they are ready.
 
-## Planned contents
+## Contents
 
-| part | contents |
-| :--- | :--- |
-| framework | the current framework, v9 onward, with its awakening and onboarding files |
-| lineage | the earlier versions, 3.1 to 8.2.3, kept verbatim with a provenance note |
-| templates | starting points for adapting the framework to another project, including a voice template |
-| case study | *Topological Computing*, the manuscript the framework grew up with |
+| part | contents | status |
+| :--- | :--- | :--- |
+| [kit](kit/) | ten rules and two templates, ready to load into ChatGPT, Claude, Gemini, coding agents or a local model | 1.0.0 |
+| framework | the current framework, v9 onward, with its awakening and onboarding files | planned |
+| paper | *Genesis*, the account of how the method arose and what it measured | planned |
+| record | the earlier versions, 3.1 to 8.2.3, kept verbatim with a provenance note | planned |
+| case study | *Topological Computing*, the manuscript the framework grew up with | planned |
+
+To start using it, go to the [kit](kit/).
 
 ## Models
 
