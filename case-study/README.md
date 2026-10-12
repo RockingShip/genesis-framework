@@ -36,10 +36,10 @@ incidents behind the rules, the measurements, and the four readers who tested v9
 
 ## Reaching consensus, shown
 
-[`reachingConsensus.md`](reachingConsensus.md) follows one paragraph, the closing lines of a letter
+[`reachingConsensus.md`](../paper/reachingConsensus.md), beside the paper, follows one paragraph, the closing lines of a letter
 saying what the work is, through fifteen versions to the one both co-authors agreed on.
 
-[`positiveFraming.md`](positiveFraming.md) holds the house style's reason, in the author's words,
+[`positiveFraming.md`](../paper/positiveFraming.md), beside it, holds the house style's reason, in the author's words,
 and the method agents use to apply it.
 
 ## Where to find more

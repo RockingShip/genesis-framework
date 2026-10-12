@@ -35,8 +35,8 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 | `README.md` | the front door: which line to use, how the pieces fit, models, thanks, licences, contact |
 | `genesis-framework-late/` | the late line: rules in three forms, the full framework, templates, the reader audit guide |
 | `genesis-framework-early/` | the early line: the full framework and its roles |
-| `paper/` | the paper, `GENESIS-PAPER.md` |
-| `case-study/` | what the framework did on the Topological manuscript, its worked examples, and `LINEAGE.md` |
+| `paper/` | the paper, `GENESIS-PAPER.md`, with its companions `reachingConsensus.md` and `positiveFraming.md` |
+| `case-study/` | what the framework did on the Topological manuscript, its worked examples (`GENESIS-AWAKENING.md`, `VOICE-0-Reading-the-Author.md`), and `LINEAGE.md` |
 | `CHANGELOG.md` | every change, one timestamped line each |
 | `genesis/captures/` | what earlier sessions on this repo decided, learned and left open; also the four reader audits of 2026-10-11 (`g6r01` to `g6r04`), copied from the case study, which produced the late line's 9.3.0 to 9.3.3 |
 

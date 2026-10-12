@@ -9,6 +9,8 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 20:53:51 Changed: `reachingConsensus.md` and `positiveFraming.md` move from `case-study/` to `paper/`, beside the paper, which links to them in §2.2 and §4.7.
+2026-10-12 20:53:51 Changed: paper r3 per the author's reading: the island and mainland defined at §4, transcript size in §4.9, the cold reader files dated after 8.2.3, the count behind §6, the purpose of the switch, the reasons for the airlock and the captures.
 2026-10-12 19:30:33 Added: the four generation 6 reader audits in `genesis/captures/`, which produced the late line's 9.3.0 to 9.3.3; linked from the README, the late README, `readerAudits.md`, the paper's §8.4 and `genesis/awakening.md`.
 2026-10-12 19:14:59 Added: `case-study/positiveFraming.md`, the house style's reason in the author's words and the negation method; linked from the case study, the voice template and the paper's §7.2.
 2026-10-12 19:12:13 Added: `case-study/reachingConsensus.md`, one paragraph through fifteen versions to consensus.

@@ -55,7 +55,7 @@ Three of these are easy to confuse. The **standing instructions** sit in your en
 | :--- | :--- | :--- |
 | [`genesis-framework-late`](genesis-framework-late/) | the late line: rules in three forms, the full framework, six templates, the reader audit guide | 9.3.3 |
 | [`genesis-framework-early`](genesis-framework-early/) | the early line: the full framework and its roles | 8.2.3 |
-| [`paper`](paper/GENESIS-PAPER.md) | *Genesis*, the account of how the method arose, what each stumble taught, and what changed between the lines | r3 |
+| [`paper`](paper/) | [`GENESIS-PAPER.md`](paper/GENESIS-PAPER.md), *Genesis*: the account of how the method arose, what each stumble taught, and what changed between the lines; beside it, two documents that go deeper, [`reachingConsensus.md`](paper/reachingConsensus.md) and [`positiveFraming.md`](paper/positiveFraming.md) | r3 |
 | [`case-study`](case-study/) | *Topological Computing*, the manuscript the framework grew up with: worked examples and the lineage of every version | r47 |
 | [`genesis`](genesis/) | this repository's own use of the late line: its entry file and captures | |
 
@@ -74,7 +74,7 @@ holds the four fresh readers' audits of the case study's onboarding, which produ
 
 The framework has been shaped with two models, and each line names the model it was configured for.
 
-* The early line, up to 8.2.3, was written with, and tuned to, Gemini 3.1 Pro. Its cold readers ran on Claude Opus 5.
+* The early line, up to 8.2.3, was written with, and tuned to, Gemini 3.1 Pro. The cold reader files followed 8.2.3, as the first late-stage protocols, for readers on Claude Opus 5.
 * The late line, from 9.0.0, is written with, and tuned to, Claude Opus 5.5.
 
 How well a line carries over to other models is an open question, and this repository will record the evidence as it arrives.
@@ -91,7 +91,7 @@ This repository was written by AI agents at the sentence level, in co-authorship
 
 So the sentences are generated, and the content is authored. A generative tool produces content from a prompt. Here the content comes from the author, and what the agents contribute is that it holds together. The models involved are named under *Models*. Every commit names xyzzy as its author and Claude as its committer.
 
-[`case-study/reachingConsensus.md`](case-study/reachingConsensus.md) shows the process on a single paragraph: fifteen versions, each a proposal, each move from one to the next the author's response to it.
+[`paper/reachingConsensus.md`](paper/reachingConsensus.md) shows the process on a single paragraph: fifteen versions, each a proposal, each move from one to the next the author's response to it.
 
 ## Thanks
 

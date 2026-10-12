@@ -128,7 +128,8 @@ in a session, carried forward through later sessions, and arriving in an outward
 with its provenance stripped. Each step looks reasonable. The boundary is what was missing.
 
 The first portable rule holds this boundary: *the author decides; propose first, and change the work
-once the author agrees.*
+once the author agrees.* [`reachingConsensus.md`](reachingConsensus.md) shows the rule at work on
+one paragraph, through fifteen versions to consensus.
 
 ### 2.3 The fourth author
 
@@ -181,6 +182,14 @@ why their reports can be compared and tallied.
 ---
 
 ## 4. Instruments
+
+The case study names two worlds. **The island** is its architecture as found, by observation of a
+running system, and named in the author's own vocabulary. **The mainland** is the established
+literature. The instruments exist to handle island language when it reaches the mainland. A reader
+who meets an unknown term and reads on grows used to it, and the flag that marked the term as
+unknown fades. The reader then maps the term to its nearest familiar neighbour, and for the case
+study that neighbour is most likely the wrong one. A cold reader still holds the flag, which is
+why cold readers mattered so much.
 
 Ten, each with its origin and the portable rule it became. Three generate findings: the stumble
 harvest, the recovery sweep and mediation. The rest process what those three produce.
@@ -302,7 +311,8 @@ ones, that matters. The second clause has a matching effect: agreeing on the obj
 proposing anything makes the agent build a positive description, the author accepts or redirects,
 and the surviving wording spreads.
 
-The rule's limits are measured in §7.2. It shapes thinking more reliably than it shapes counts.
+[`positiveFraming.md`](positiveFraming.md) gives the rule's reason in the author's words, and the
+method the case study uses to apply it. The rule's limits are measured in §7.2. It shapes thinking more reliably than it shapes counts.
 
 ### 4.8 The stumble harvest
 
@@ -350,7 +360,9 @@ it reaches later readers only because the accumulated tally becomes the onboardi
 ### 4.9 The recovery sweep
 
 An agent reads session transcripts, compares them with the manuscript of that moment, and reports
-what the sessions hold and the manuscript lacks. Forty numbered addenda came out of it.
+what the sessions hold and the manuscript lacks. Forty numbered addenda came out of it. The
+difficulty lay in the reading: most raw transcript logs were larger than an agent's context
+window, swollen by formatting overhead and by the internal states recorded in them.
 
 It exists because of an early and severe loss:
 
@@ -396,8 +408,8 @@ The recovered lineage, with its sources, is in [`case-study/LINEAGE.md`](../case
 | :--- | :--- | :--- |
 | the co-creative framework | sixteen: 3.1, 3.2, 3.3, 3.6, 3.7, 4.0, 5.0, 6.0, 7.1, 7.2, 7.3, 7.4, 7.7, 8.1.0, 8.2.0, 8.2.3 | 2025 to 2026, Gemini 3.1 Pro |
 | the Digital Archaeologist role | ten: 2.1.3 to 5.3.0 | Gemini 3.1 Pro |
-| the cold reader welcome | 1.0.0, 1.1.0, 2.0.0 | written for Claude Opus 5 readers |
-| the red team standing instructions | 1.0.0 | written for Claude Opus 5 readers |
+| the cold reader welcome | 1.0.0, 1.1.0, 2.0.0 | after 8.2.3, as late-stage protocols, for Claude Opus 5 readers |
+| the red team standing instructions | 1.0.0 | after 8.2.3, as late-stage protocols, for Claude Opus 5 readers |
 | the framework, late stage | v9.0.0 to v9.3.3 | 2026-10-11, Claude Opus 5.5 |
 
 **Growth by accretion.** 3.1 carries four core protocols, six cognitive systems and nine executable
@@ -506,7 +518,7 @@ From the case study's onboarding note for its next cold code reader:
 > Aim there."* *(record)*
 
 **The engineering was sound, and the defects lived in the account.** This is the most useful
-single characterisation in the corpus. It has an n, it says where to aim, and it says what to
+single characterisation in the corpus. It rests on a count of about 139 findings, it says where to aim, and it says what to
 doubt first: the description before the design.
 
 The dominant failure shape heads the brief that onboards readers at r47:
@@ -557,7 +569,7 @@ outside quotations and code:
 | 3, operations | 85 | 92.3 |
 
 The r35 counting method is unrecorded `[UNVERIFIED]`, so the columns compare approximately. The
-house method in force at r47 ([`positiveFraming.md`](../case-study/positiveFraming.md)) counts
+house method in force at r47 ([`positiveFraming.md`](positiveFraming.md)) counts
 propositional *not* alone, a narrower measure than this table's, and sets a target of about 29 per ten thousand and weighs position above
 rate: a negation that the reader's model needs is kept, one that plants the wrong picture is
 rewritten. Measured by rate alone, the prohibition holds poorly. Measured by its purpose, keeping
@@ -612,8 +624,8 @@ to produce. n of one.
 ### 8.1 What changed
 
 Every framework from 3.1 to 8.2.3 was written with, and tuned to, Gemini 3.1 Pro, the model that
-co-authored the case study's early and middle stages. The cold readers of that period ran on
-Claude Opus 5. On 2026-10-11 the project moved to a new workspace, and its framework was rebuilt
+co-authored the case study's early and middle stages. The cold reader files followed 8.2.3, as
+the first late-stage protocols, written for readers on Claude Opus 5. On 2026-10-11 the project moved to a new workspace, and its framework was rebuilt
 for Claude Opus 5.5 as **v9**, for the late stage of authoring. The earlier framework stays in
 force for early and middle stages, by the author's ruling.
 
@@ -647,7 +659,9 @@ The shape of v9 follows from asking only for conduct an agent can actually perfo
 - **eight modes chosen by the session's goal**, each naming which files to open next, so a session
   reads what its work needs;
 - **two stances**, red for a first encounter and blue for co-authoring, with **the switch**
-  between them;
+  between them. The switch belongs to the capture of a cold reader's stumbles: the author explains
+  what was missing or misread, the agent turns blue, and in that role it can update the manuscript
+  to match;
 - **fencing:** the author's words verbatim and unmarked, the agent's inferences marked `[READING]`,
   open rulings marked `[AUTHOR-VERIFY]`;
 - **a capture file** written by each session before it ends;
@@ -671,10 +685,13 @@ cold read: it says how to work, and leaves the content to the files a mode opens
 **The capture file** is the session's own record, written at milestones and before the session
 ends: rulings, explanations that landed, stumbles, interventions, open questions with what each
 waits on, and a destination for each entry. It answers §5.5: the explanation given today is on file
-tomorrow. It also keeps the intervention log that §4.10 called a coverage map.
+tomorrow. It also keeps the intervention log that §4.10 called a coverage map. The captures were
+also used on purpose: the four reader audits of §8.4 are captures, and they fine-tuned the v9
+protocols.
 
 **The airlock** is the arrangement of files that keeps a cold reader's first encounter clean: what
-a mode leaves closed, the reader has yet to meet. §8.4 shows how the airlock was found to need
+a mode leaves closed, the reader has yet to meet. It is needed because a Claude project shares its
+documents with every chat, and a cold reader loses its value once it reads spoilers. §8.4 shows how the airlock was found to need
 separate files.
 
 **The closing prompt** asks every session, before it ends, what it came to understand beyond
