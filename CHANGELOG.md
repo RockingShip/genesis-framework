@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 23:25:48 Fixed: Strata named correctly, as the engine that runs a small local model rather than the model itself.
 2026-10-12 23:15:37 Added: the GitHub Pages view on the `RockingShip/moonwalk` theme (`_config.yml`, `_data/home.yml`, favicons); the README serves as the home page.
 2026-10-12 23:07:17 Changed: history rewritten so that no version carries the retracted subject; the version tags are re-pointed to match.
 2026-10-12 23:06:05 Removed: from the paper, the corpus index and the reverse sweep as outstanding work, both belonging to the case study; Appendix B becomes *The corpus*.

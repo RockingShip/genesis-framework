@@ -38,7 +38,7 @@ Each template names its worked example in the [case study](../case-study/).
 ## Installing
 
 [`INSTALL.md`](INSTALL.md) gives the steps for Claude in a Project, Claude in a standalone chat,
-Gemini, Strada and other small local models, and coding agents. In every environment the order is
+Gemini, small local models such as those run on Strata, and coding agents. In every environment the order is
 the same: standing instructions, entry files, your welcome, and a capture at the close.
 
 ## Making it yours

@@ -25,7 +25,7 @@ The framework comes in two lines, one per stage of a project. Pick the folder th
 
 Each folder has its own `INSTALL.md`, since the two lines load differently:
 [late](genesis-framework-late/INSTALL.md) covers Claude in a Project, Claude in a standalone chat,
-Gemini, Strada and other small local models, and coding agents;
+Gemini, small local models such as those run on Strata, and coding agents;
 [early](genesis-framework-early/INSTALL.md) covers Gemini, Claude as cold reader, and coding agents.
 
 **If you are unsure, start late.** Its ten rules on one page are enough to change how a session works, and they load into ChatGPT, Claude, Gemini, a coding agent or a local model.

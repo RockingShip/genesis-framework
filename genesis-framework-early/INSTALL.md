@@ -58,7 +58,7 @@ The cold reader files were written for readers on Claude.
 framework and one role as project knowledge, the instruction to assimilate them as project
 instructions. Expect differences: the line was tuned to another model.
 
-## Strada and other small local models
+## Small local models
 
 The early line is too large for a small model to hold. Use the
 [late line](../genesis-framework-late/INSTALL.md), whose rules fit on one page.

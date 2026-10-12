@@ -73,9 +73,11 @@ Claude runs in several places, and each takes the four steps in its own way.
 **In a standalone chat**, follow *Claude, standalone chat* above: the same files in the first
 message.
 
-## Strada, a small local model
+## Small local models, for example on Strata
 
-A heavily quantised local model has a short attention span and little room, so keep the load small.
+[Strata](https://stratallm.org/) is an open-source engine for running language models on your own
+hardware, such as a heavily quantised Qwen3.8-Flash-Next. A model that small has a short attention
+span and little room, so keep the load small.
 
 1. **System prompt:** paste `genesisCore.md` only.
 2. **First message:** paste a short `awakening.md` (a page at most), then your welcome. Leave
