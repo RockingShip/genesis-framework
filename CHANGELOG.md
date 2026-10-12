@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 21:01:39 Changed: paper §5.1 gains the protocol counts of every early version and the bootstrap as detector; 8.2.3 carries eight core protocols.
 2026-10-12 20:53:51 Changed: `reachingConsensus.md` and `positiveFraming.md` move from `case-study/` to `paper/`, beside the paper, which links to them in §2.2 and §4.7.
 2026-10-12 20:53:51 Changed: paper r3 per the author's reading: the island and mainland defined at §4, transcript size in §4.9, the cold reader files dated after 8.2.3, the count behind §6, the purpose of the switch, the reasons for the airlock and the captures.
 2026-10-12 19:30:33 Added: the four generation 6 reader audits in `genesis/captures/`, which produced the late line's 9.3.0 to 9.3.3; linked from the README, the late README, `readerAudits.md`, the paper's §8.4 and `genesis/awakening.md`.

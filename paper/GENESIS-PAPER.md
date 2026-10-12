@@ -413,9 +413,38 @@ The recovered lineage, with its sources, is in [`case-study/LINEAGE.md`](../case
 | the framework, late stage | v9.0.0 to v9.3.3 | 2026-10-11, Claude Opus 5.5 |
 
 **Growth by accretion.** 3.1 carries four core protocols, six cognitive systems and nine executable
-protocols. 8.2.3 carries seven, twelve and twenty-nine. All nineteen elements of 3.1 are still
+protocols. 8.2.3 carries eight, twelve and twenty-nine. All nineteen elements of 3.1 are still
 present in 8.2.3 at their original numbers, four under new names. The framework roughly tripled
 by addition alone. v9 is the first redesign, and §8 is its account.
+
+| version | core protocols | cognitive systems | executable protocols | bootstrap |
+| :--- | ---: | ---: | ---: | :--- |
+| 3.1 | 4 | 6 | 9 | |
+| 3.2, 3.3 | 4 | 7 | 12 | |
+| 3.6 | 4 | 9 | 15 | |
+| 3.7, 4.0 | 5 | 9 | 17 | |
+| 5.0 | 5 | 9 | 19 | |
+| 6.0 | 5 | 10 | 19 | |
+| 7.1 | 5 | 11 | 22 | 0.0 |
+| 7.2 | 6 | 11 | 22 | 0.0, 0.0-F, 0.1 |
+| 7.3 | 6 | 11 | 25 | 0.0 |
+| 7.4 | 6 | 11 | 24 | 0.0, 0.0-F, 0.1 |
+| 7.7 | 6 | 11 | 25 | 0.0, 0.0-F, 0.1 |
+| 8.1.0 | 6 | 11 | 27 | 0.0, 0.0-F, 0.1 |
+| 8.2.0 | 7 | 11 | 27 | 0.0, 0.0-F, 0.1 |
+| 8.2.3 | 8 | 12 | 29 | 0.0, 0.0-F, 0.1 |
+
+Counted from the files in [`genesis-framework-early`](../genesis-framework-early/). 6.0 and 7.3
+summarise their executable protocols, and their rows give the counts those summaries state. 7.3
+is a draft written while 7.2 was in operation (see [`LINEAGE.md`](../case-study/LINEAGE.md)).
+
+**The bootstrap was also a detector.** From 7.1 the framework opens with a handshake, Protocol 0.0,
+and from 7.2 a failure diagnostic sits beside it. Its first use was to verify that a co-authoring
+agent had ingested the protocols. Its second use mattered more: it showed when data had escaped the
+sandbox. An archaeology agent that ingested the framework from a transcript, and processed it as
+its own system prompt, took on functions that belonged to another role. Asked to read a file, it
+answered with a protocol status report, and the report was the alarm. The price was a boot in
+several steps, each awaiting the author's confirmation.
 
 The record begins with a documented restart: the earliest recoverable document announces itself as
 **attempt 4** of a chronological reconstruction, opening on an agent conceding it had organised the
