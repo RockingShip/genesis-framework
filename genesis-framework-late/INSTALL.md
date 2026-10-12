@@ -49,6 +49,16 @@ A single chat outside any project: everything travels in the first message.
 3. **At the end:** send the closing prompt and save the capture. Attach the latest capture to the
    first message of your next chat.
 
+## Claude, other ways in
+
+Claude runs in several places, and each takes the four steps in its own way.
+
+| where | standing instructions | entry files | notes |
+| :--- | :--- | :--- | :--- |
+| Claude Code, in a terminal, the desktop app or the web | the `AGENTS.md` section or `CLAUDE.md` in the repository, or the skill | `genesis/` in the repository | see *Coding agents* below; Claude Code reads `CLAUDE.md` and skills by itself |
+| the Claude API | `genesisCore.md` as the system prompt | the awakening and voice0 in the first user message | your own code saves each capture from the final reply |
+| claude.ai personal preferences | your house style, which then applies to every chat | | keep the ten rules in the project or the first message, so they apply to this work alone |
+
 ## Gemini
 
 **In a Gem**, the reusable form:

@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 18:44:20 Added: the late install guide covers Claude Code, the Claude API and claude.ai personal preferences.
 2026-10-12 18:38:17 Added: `INSTALL.md` in each line's folder: Claude in a Project, Claude standalone, Gemini, Strada and other small local models, coding agents.
 2026-10-12 18:38:17 Changed: README explains the repository's own `genesis/` folder and links both install guides.
 2026-10-12 18:38:17 Changed: the paper names the late line's portable rules consistently.
