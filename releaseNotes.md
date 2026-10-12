@@ -1,4 +1,4 @@
-The backlog, and a cleaner repository.
+This release adds the backlog to the late line of the framework, and tidies the repository around it.
 
 **What is new**
 
