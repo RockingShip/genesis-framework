@@ -1,8 +1,8 @@
-# Genesis Framework v9.3.3
+# Genesis Framework v9.4.0
 
 **The working constitution for agents co-authoring the Topological Computing manuscript.**
 
-Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.3.2, v9.3.1, v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
+Stamped to `MANUSCRIPTr47`, 2026-10-13. Supersedes v9.3.3, v9.3.2, v9.3.1, v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
 their own paths under `claude/` so that documents citing them point at real prior versions.
 
 **Agents enter through `claude/GENESIS-AWAKENING.md`**, a small file safe for a cold read: the
@@ -359,11 +359,17 @@ move on.
 **Route to prose.** A finding kept only in a register protects nobody. The capture is complete
 when each entry has a destination, and the work is complete when the destinations are applied.
 
+**The backlog.** A capture stays as written: it is the record of its moment. Every open entry in
+it is carried to the project's backlog, `claude/BACKLOG.md`, one line each: the item, its source,
+who acts (Xyzzy, an agent, or both), its destination, and its status. An agent adds to the backlog
+when it closes its session; an item is struck as resolved only on Xyzzy's ruling.
+
 **One capture file per session, written by the session that held it.** An agent writing up a
 session it was absent from is carrying another's material by summary, which 1.10 rules out. Two
 sessions on one date sit together under different topics.
 
-*Why:* this is a new sub-system, added at r47. The record shows the loss twice over: an author's
+*Why:* resolving an open point takes both sides, so it lives on the one list both see, rather than
+in a dated file nobody reopens. The capture sub-system itself is new, added at r47. The record shows the loss twice over: an author's
 explanation given many times, understood in each session and gone at the end of each (Genesis
 paper §5.5); and [redacted]. The Capture-r47 document is the model that already works.
 
@@ -667,6 +673,16 @@ elements in force for early- and mid-stage authoring.
 ## Part 5. Changelog
 
 ### r47
+
+**v9.4.0**, 2026-10-13. A new file; earlier versions are kept at their own paths. Minor version,
+because the backlog is a new duty and the change is additive.
+
+*New rules and policy, from Xyzzy's rulings of 2026-10-13:*
+
+- 1.12: the backlog. Every open entry of a capture is carried to `claude/BACKLOG.md`, one line
+  each with its source, who acts, destination and status. The capture stays as written; an item is
+  struck as resolved only on Xyzzy's ruling.
+- The awakening's digest of 1.12 and its closing prompt carry the backlog.
 
 **v9.3.3**, 2026-10-11. A patch from the onboarding audit of the fourth reader of the sixth
 generation (`claude/capture/r47/2026-10-11-g6r04-onboarding-audit.md`), whose closing list of three
