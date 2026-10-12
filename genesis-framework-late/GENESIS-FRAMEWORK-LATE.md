@@ -18,8 +18,7 @@ pair and the three role briefings, all of which remain on file as the incident r
 
 **Generation** names the project's maturity level, combining content and framework: how late the
 late stage is. The fifth generation is deprecated; its contributions were carried into the sixth,
-which began on
-2026-10-11, with this framework series and `MANUSCRIPTr47`.
+which began on 2026-10-11, with this framework series and `MANUSCRIPTr47`.
 
 **Fitted to the late stage.** The v9 series, from v9.0.0 on, is intended for **late-stage
 authoring**: consolidation of a manuscript close to complete. **v8.2.3 is the framework for early-
