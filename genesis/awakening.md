@@ -71,6 +71,9 @@ Xyzzy's standing instruction, verbatim:
   source are marked `[UNVERIFIED]`.
 - **Commits:** author `xyzzy <xyzzy@rockingship.org>`, committer `Claude <noreply@anthropic.com>`,
   pushed to `main`. While the repo is private, rewriting history and force-pushing are allowed.
+- **Release notes:** each versioned artefact is named by its path, with its version in brackets,
+  for example `genesis-framework-late/GENESIS-FRAMEWORK-LATE.md` (9.4.0). The first line carries the
+  release title as an HTML comment, for copying into the release form.
 - **Changelog:** one line per change, `YYYY-MM-DD HH:MM:SS Added|Changed|Fixed: …`, newest first.
 
 ## Words to know

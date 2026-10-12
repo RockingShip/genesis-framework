@@ -8,6 +8,10 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 
 ## [Unreleased]
 
+```
+2026-10-13 01:50:06 Added: a convention for release notes, naming each versioned artefact by its path with the version in brackets; the backlog updated after release 1.1.0.
+```
+
 ## [1.1.0] - 2026-10-13
 
 The backlog, and a cleaner repository.
