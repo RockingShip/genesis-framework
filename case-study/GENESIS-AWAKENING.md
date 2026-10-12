@@ -137,7 +137,7 @@ Match the goal to one mode. Where it fits none, or two, ask.
 | **M4 Discussion** | open exploration with Xyzzy | the framework; the rest as the discussion needs |
 | **M5 Papers** | translating the manuscript for outside readers | the framework, the papers standing document, `MASTERPLAN.md` |
 | **M6 Archive harvest** | recovering what the archive holds and the manuscript lacks | the framework |
-| **M7 Pre-read audit** | preparing a volume for Xyzzy's own read | the framework |
+| **M7 Pre-read audit** | preparing a volume or paper for Xyzzy's own read | the framework |
 | **M8 Onboarding audit** | testing this awakening itself, in the red stance | nothing more. The material is everything that reached you before and including this file: the project instructions, any preference block, any document listing, Xyzzy's welcome, this file and VOICE-0. After the switch, only the files Xyzzy names, by path |
 
 **A note on cold reads inside this project.** Depending on the surface a session runs in, the
