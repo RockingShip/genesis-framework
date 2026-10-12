@@ -2,7 +2,7 @@
 
 ### How a manuscript was written with AI agents, and what each stumble taught
 
-**Draft r3 · 2026-10-12 · RockingShip Research · case study observed at `TOPOLOGICAL-MANUSCRIPT-r47`**
+**r3 · 2026-10-12 · RockingShip Research · case study observed at `TOPOLOGICAL-MANUSCRIPT-r47`**
 
 ---
 
@@ -1045,7 +1045,7 @@ left unrequested by ten readers, and surfaced only when the author raised its to
 
 ---
 
-*Draft r3, 2026-10-12. Rebuilt from draft r2 of 2026-08-19, which was compiled by a frame reader
+*r3, 2026-10-12. Rebuilt from draft r2 of 2026-08-19, which was compiled by a frame reader
 working from the corpus and a lens reader working from the frame, both corrected by the author. This
 draft was compiled by Claude Opus 5.5, working from draft r2, the record in this repository, and the
 captures of the sixth generation's first four readers, under the author's rulings. Every quotation

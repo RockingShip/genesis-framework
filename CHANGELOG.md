@@ -8,7 +8,23 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-10-12
+
+The first release: the Genesis Framework as a method for writing a long work with AI agents across
+many sessions, with its own history and its case study.
+
+- `genesis-framework-late/` at 9.3.3: the portable rules in three forms, the full framework, six
+  templates, the reader audit guide and an install guide per environment.
+- `genesis-framework-early/` at 8.2.3: the full framework and its roles, every recovered version
+  tagged.
+- `paper/GENESIS-PAPER.md` at r3, with its two companions, `reachingConsensus.md` and
+  `positiveFraming.md`.
+- `case-study/`: the worked examples and the lineage.
+- `genesis/`: the repository's own use of the late line, with the reader audits and readings that
+  shaped it.
+
 ```
+2026-10-12 23:26:32 Changed: release state: README status, paper r3 out of draft, awakening updated.
 2026-10-12 23:25:48 Fixed: Strata named correctly, as the engine that runs a small local model rather than the model itself.
 2026-10-12 23:15:37 Added: the GitHub Pages view on the `RockingShip/moonwalk` theme (`_config.yml`, `_data/home.yml`, favicons); the README serves as the home page.
 2026-10-12 23:07:17 Changed: history rewritten so that no version carries the retracted subject; the version tags are re-pointed to match.

@@ -22,11 +22,13 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 
 ## Where things stand
 
-- Public in intent, with the whole repo as the release. It is private for a short while, so that
-  severe mistakes can still be corrected by rewriting history.
+- Released as 1.0.0 on 2026-10-12, with the whole repo as the release. From here, history stays as
+  it is: corrections arrive as new commits.
 - `genesis-framework-early` 8.2.3; `genesis-framework-late` 9.3.3; `paper/GENESIS-PAPER.md` r3.
-- Waiting: the late line's first outside test on a small local model; the Pages view on the
-  `RockingShip/moonwalk` theme; the first tagged release.
+- The Pages view runs on the `RockingShip/moonwalk` theme, outside the RockingShip showcase until
+  the case study's manuscript is published.
+- Waiting: the late line's first outside test on a small local model; a ChatGPT section in the late
+  install guide; a lean download of the late line.
 
 ## Where things are
 

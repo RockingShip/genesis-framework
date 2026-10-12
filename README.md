@@ -6,7 +6,8 @@ Every agent session starts fresh. The Genesis Framework gives each newcomer the 
 
 ## Status
 
-Under construction: contents may still change before the first tagged release.
+Release 1.0.0, 2026-10-12: the early line at 8.2.3, the late line at 9.3.3, and the paper at r3.
+The [changelog](CHANGELOG.md) records every change.
 
 ## Start here: early or late?
 
