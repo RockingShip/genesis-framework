@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-13 00:15:45 Changed: tags only on the framework versions, as `v<version>`; every other version is named in its commit subject.
 2026-10-12 23:55:39 Fixed: Pages tables: the first column fits its content and the others share the width (`assets/genesis.css`, with the theme's head include extended to load it).
 2026-10-12 23:55:39 Fixed: 8.2.3 carries eight core protocols, in the README and the lineage, as in the paper.
 ```

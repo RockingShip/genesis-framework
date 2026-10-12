@@ -35,20 +35,21 @@ and for coding agents. Each session type gets its own setup.
 
 ## Versions
 
-Every file holds its recovered versions in its history, each tagged:
+Every file holds its recovered versions in its history, each a commit whose subject names the file
+and the version. The framework's versions also carry a tag:
 
-| file | versions | tags |
+| file | versions | tag |
 | :--- | :--- | :--- |
-| `GENESIS-FRAMEWORK-EARLY.md` | sixteen, 3.1 to 8.2.3 | `framework-early-<version>` |
-| `roles/GENESIS-ROLE-Digital-Archaeologist.md` | ten, 2.1.3 to 5.3.0 | `archaeologist-<version>` |
-| `roles/CLAUDE-COLDSTART-orientation.md` | 1.0.0, 1.1.0 and 2.0.0; 1.1.0 is the one in use | `coldstart-<version>` |
-| `roles/CLAUDE-REDTEAM-standing-instructions.md` | 1.0.0 | `redteam-1.0.0` |
-| `roles/GENESIS-PIPELINE.md` | 1.3.0 | `pipeline-1.3.0` |
-| `roles/GENESIS-ROLE-Lexicographer.md`<br>`roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | `lexicographer-1.0.0`<br>`technical-author-1.0.0` |
+| `GENESIS-FRAMEWORK-EARLY.md` | sixteen, 3.1 to 8.2.3 | `v<version>`, for example `v7.2` |
+| `roles/GENESIS-ROLE-Digital-Archaeologist.md` | ten, 2.1.3 to 5.3.0 | |
+| `roles/CLAUDE-COLDSTART-orientation.md` | 1.0.0, 1.1.0 and 2.0.0; 1.1.0 is the one in use | |
+| `roles/CLAUDE-REDTEAM-standing-instructions.md` | 1.0.0 | |
+| `roles/GENESIS-PIPELINE.md` | 1.3.0 | |
+| `roles/GENESIS-ROLE-Lexicographer.md`<br>`roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | |
 
 ```sh
-git log --follow genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md
-git show framework-early-7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md
+git log --oneline --follow genesis-framework-early/roles/GENESIS-PIPELINE.md
+git show v7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md
 ```
 
 Where each version came from, and what reads across them, is in the case study's

@@ -103,7 +103,7 @@ had shown.
 
 ## Versioning
 
-Each artefact is one file, and its versions are its commits in git, each with a tag: `framework-early-8.2.3`, `framework-late-9.3.3`, `paper-r3`. The two lines take their own version numbers, so a bump in one leaves the other untouched; the late line's portable rules follow its numbers. A release of the whole repository is tagged `v<n>`. See each file's history with `git log --follow <file>`, or its *History* view on GitHub. The [changelog](CHANGELOG.md) summarises every change.
+Each artefact is one file, and its versions are its commits in git, each named in its commit's subject, such as `GENESIS-FRAMEWORK-LATE 9.3.3` or `GENESIS-PAPER r3`. Every version of the two framework files also carries a tag, the version number after a `v`: `v3.1` to `v8.2.3` for the early line, `v9.0.0` to `v9.3.3` for the late. The two lines take their own version numbers and never share one, so a bump in one leaves the other untouched; the late line's portable rules follow its numbers. Releases of the whole repository are tagged as well, starting with `v1.0.0`. See each file's history with `git log --follow <file>`, or its *History* view on GitHub. The [changelog](CHANGELOG.md) summarises every change.
 
 ## Licence
 
