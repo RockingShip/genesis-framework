@@ -77,6 +77,18 @@ The framework has been shaped with two models, and each line names the model it 
 
 How well a line carries over to other models is an open question, and this repository will record the evidence as it arrives.
 
+## How this was written
+
+This repository was written by AI agents at the sentence level, in co-authorship with its author. The division of the work is the method itself.
+
+* **The author holds the content:** the knowledge, the insights, every ruling on what is true, and the accountability for all of it.
+* **The agents hold the consistency:** turning rulings into prose, keeping terms, numbers and cross-references aligned across every file, and reporting where the text trips a fresh reader. They also propose (a term, a structure, a reading), and every proposal is marked as theirs.
+* **Nothing is committed until both agree.** An agent's proposal waits for the author's ruling. An author's ruling is checked by the agent against the record, which says where it conflicts.
+
+**The sentences are generated with the author's attention to detail and in his voice,** drawn from his own prose and from his corrections to earlier drafts. Each text then goes through rounds of revision until both agree on every sentence, so that it reads as spoken from a shared voice. Where a text is still on its way there, it is marked as a draft.
+
+So the sentences are generated, and the content is authored. A generative tool produces content from a prompt. Here the content comes from the author, and what the agents contribute is that it holds together. The models involved are named under *Models*. Every commit names xyzzy as its author and Claude as its committer.
+
 ## Thanks
 
 The framework grew from two models in two roles. Gemini 3.1 Pro brought the blue team mindset: an
