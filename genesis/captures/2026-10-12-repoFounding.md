@@ -31,6 +31,7 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 - Two framework lines, EARLY (3.1 to 8.2.3) and LATE (9.0.0 onwards), each versioned on its own. [AUTHOR]
 - Installation steps per environment in each line's `INSTALL.md`, and the repo's own `genesis/`
   explained in the README. [AUTHOR]
+- The README statement *How this was written*, agreed in full: the author holds the content, the agents hold the consistency, and each gets the credit due. [AUTHOR]
 - One folder to copy per line, `genesis-framework-early/` and `genesis-framework-late/`; the late line's portable rules follow its version numbers. [AUTHOR]
 
 ## Learned
