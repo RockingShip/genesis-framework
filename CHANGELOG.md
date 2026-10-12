@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 21:47:12 Changed: paper §8.1 records r19 as Claude's first involvement, with every earlier book draft written with Gemini.
 2026-10-12 21:41:39 Changed: paper §8.1 dates the early stage from June 2025 and the middle stage from the tenth book draft, late May 2026, through r19.
 2026-10-12 21:38:50 Added: paper §8.1 describes the case study's three stages, with the late stage from r46.
 2026-10-12 21:33:59 Fixed: the cold reader files served the middle stage, written after 8.2.3; they stay in the early line, which covers the early and middle stages.

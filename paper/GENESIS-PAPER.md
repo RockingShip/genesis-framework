@@ -661,8 +661,10 @@ The case study passed through three stages. **The early stage**, from June 2025,
 collection, in two phases because of account separation; the second phase introduced the Digital
 Archaeologist to recover the knowledge of the first. **The middle stage** began around the tenth
 book draft, in late May 2026, once most of the knowledge was collected, and the work turned to
-scrubbing, sanitising and organising; the cold readers on Claude joined here, and on 2026-08-14 the
-three volumes were combined into manuscript revision r19. **The late stage** began at manuscript revision r46 and consolidates a manuscript close
+scrubbing, sanitising and organising. Every book draft until then was written with Gemini. On
+2026-08-14 the three volumes were combined into manuscript revision r19, the first revision Claude
+took part in, since Claude could manage the manuscript as a zip archive; the cold readers on Claude
+joined from there. **The late stage** began at manuscript revision r46 and consolidates a manuscript close
 to complete; v9 was written for it during r47.
 
 > **[AUTHOR]** *"Everything upto v9 was done, interacted and was tuned to "Gemini 3.1 Pro". v9 and
