@@ -179,6 +179,13 @@ The report has a fixed shape, four fields per finding:
 This is the ninth portable rule. The shape stayed stable across every generation of readers, which is
 why their reports can be compared and tallied.
 
+**A reader endorses the layout it believes it met.** The first reader of the fourth generation, at
+r23, praised the Lexicon moved out of the first volume into the register, a move that, by the fifth
+reader's account, had been reversed at r21. The second reader, at r24, praised the Lexicon inside
+the first volume as *"absolutely correct"*. Readers disagreed, and each found reasons for the
+arrangement in front of it. So a report states the effect a layout had, and leaves its reasons to
+the author.
+
 ---
 
 ## 4. Instruments
@@ -254,6 +261,12 @@ The brief that onboards readers lists its corrections in numbered form, and some
 how many independent readers made that error before it was named. **This converts anecdote into
 measurement.** One reader's mistake is an opinion, and the author must judge whether it
 generalises. Four readers making the same mistake independently is a rate.
+
+Six readers of the fourth generation, on 2026-08-14 across revisions r23 to r31, met the same text
+independently. Four read the tilde as a computing operation, four read oversizing as a search for
+density, and three each read V-solving as search, primeness as an intrinsic property, and
+`GroupTree_t` as evaluating the switch. Each count is a rate, and each rate names a place for a
+correction. The six readings are in [`genesis/captures/`](../genesis/captures/).
 
 Its only cost is keeping the tally across sessions, which is what the capture file is for.
 
