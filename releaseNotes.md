@@ -1,13 +1,13 @@
-The first release of the Genesis Framework: a working method for writing a long manuscript together with AI agents, across many sessions and many agents. The author keeps the final word; agents act as challengers and as co-authors.
+The backlog, and a cleaner repository.
 
-**What is in it**
+**What is new**
 
-- **`genesis-framework-late/` 9.3.3**, for consolidating a manuscript close to complete: the ten portable rules (as one page, as an `AGENTS.md` section and as a skill), the full framework, six templates, the reader audit guide, and an [install guide](https://github.com/RockingShip/genesis-framework/blob/main/genesis-framework-late/INSTALL.md) for Claude, Gemini, small local models and coding agents.
-- **`genesis-framework-early/` 8.2.3**, for the early and middle stages: the full framework and its roles, every recovered version in its history, with its own [install guide](https://github.com/RockingShip/genesis-framework/blob/main/genesis-framework-early/INSTALL.md).
-- **`paper/GENESIS-PAPER.md` r3**: how the method arose and what each stumble taught, with two companions, `reachingConsensus.md` and `positiveFraming.md`.
-- **`case-study/`**: the worked examples from the *Topological Computing* manuscript, and the lineage of every version.
-- **`genesis/`**: the repository's own use of the late line, including the fresh readers' audits and readings that shaped it.
+- **`genesis-framework-late/` 9.4.0:** open points from every capture are carried to one backlog, with their source, who acts, where they land and their status, and struck as resolved only on the author's ruling. The ten rules in all three forms, a new [`templates/backlog.md`](https://github.com/RockingShip/genesis-framework/blob/main/genesis-framework-late/templates/backlog.md), and the capture and closing templates follow.
+- **`genesis/backlog.md`:** this repository's own backlog, paired with the one its case study keeps.
+- **Tags:** `vX.Y.Z` for releases, `early-<version>` and `late-<version>` for the framework's versions.
+- **History:** every commit signed.
+- **Pages:** tables fitted to their content.
 
-**Where to start:** the README's *Start here: early or late?* If you are unsure, start late.
+The full list is in the [changelog](https://github.com/RockingShip/genesis-framework/blob/main/CHANGELOG.md).
 
 Method and prose under CC BY 4.0; templates and scripts under MIT.

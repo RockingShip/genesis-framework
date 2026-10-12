@@ -8,7 +8,20 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-10-13
+
+The backlog, and a cleaner repository.
+
+- `genesis-framework-late/` at 9.4.0: open points from every capture are carried to one backlog and
+  struck as resolved only on the author's ruling. Rule 10 in its three forms, a new
+  `templates/backlog.md`, and the capture and closing templates follow.
+- `genesis/backlog.md`: this repository's own backlog, paired with the case study's.
+- Tags: `vX.Y.Z` for releases, `early-<version>` and `late-<version>` for the framework.
+- Every commit signed, and every commit message free of session links.
+- The Pages view's tables fitted to their content.
+
 ```
+2026-10-13 01:36:00 Changed: every commit signed; session links removed from every commit message.
 2026-10-13 01:32:01 Changed: `GENESIS-FRAMEWORK-LATE` 9.4.0, amended in place: one backlog per layer in the case study, its layout recorded in `claude/STANDING-Project-Layout.md`; `genesis/backlog.md` paired with the case study's `claude/GENESIS-BACKLOG.md`.
 2026-10-13 01:21:22 Added: `GENESIS-FRAMEWORK-LATE` 9.4.0, the backlog: open points from every capture carried to one list; rule 10 in its three forms, the capture and closing templates, a new `templates/backlog.md`, the install guide, and this repository's own `genesis/backlog.md`.
 2026-10-13 01:15:44 Changed: the fifth generation named as deprecated, its contributions carried into the sixth, in the paper §2.1, the late framework and the case study's awakening.

@@ -22,13 +22,12 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 
 ## Where things stand
 
-- Released as 1.0.0 on 2026-10-12, with the whole repo as the release. From here, history stays as
+- Released as 1.0.0 on 2026-10-12 and 1.1.0 on 2026-10-13, with the whole repo as the release. From here, history stays as
   it is: corrections arrive as new commits.
 - `genesis-framework-early` 8.2.3; `genesis-framework-late` 9.4.0; `paper/GENESIS-PAPER.md` r3.
 - The Pages view runs on the `RockingShip/moonwalk` theme, outside the RockingShip showcase until
   the case study's manuscript is published.
-- Waiting: the late line's first outside test on a small local model; a ChatGPT section in the late
-  install guide; a lean download of the late line.
+- Waiting: everything open is in [`backlog.md`](backlog.md).
 
 ## Where things are
 
