@@ -27,6 +27,8 @@ the author gave · [READER] the agent's own reading, awaiting confirmation
 
 ## Open
 
+*Carry each line to the backlog as well; this section stays as the record of the moment.*
+
 - <question for the author> [AUTHOR-VERIFY]
 
 ## For the next agent

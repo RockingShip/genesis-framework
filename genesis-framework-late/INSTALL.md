@@ -16,6 +16,7 @@ genesis/
   awakening.md          from templates/awakening.md, filled in
   voice0.md             from templates/voice0.md, filled in (optional, recommended)
   captureTemplate.md    from templates/captureTemplate.md
+  backlog.md            from templates/backlog.md, the one list of open points
   captures/             one file per session, saved by you or written by the agent
 ```
 

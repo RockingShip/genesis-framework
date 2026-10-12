@@ -4,7 +4,7 @@ The Genesis Framework for the **late stage**: consolidating a long manuscript th
 complete, with fresh AI agents joining session after session. Copy this one folder into your own
 setup; everything in it is a working file.
 
-Written with, and tuned to, Claude Opus 5.5. The full framework is at 9.3.3, and the portable
+Written with, and tuned to, Claude Opus 5.5. The full framework is at 9.4.0, and the portable
 rules follow its version numbers. Its first outside test, on a small local model, is under way.
 
 ## What is here
@@ -20,6 +20,7 @@ rules follow its version numbers. Its first outside test, on a small local model
 | [`templates/voice.md`](templates/voice.md) | a model of the author's voice, for agents drafting in the author's name |
 | [`templates/readerWelcome.md`](templates/readerWelcome.md) | the message that wakes a fresh reader, and why each phrase is there |
 | [`templates/captureTemplate.md`](templates/captureTemplate.md) | what a session leaves behind for the next one |
+| [`templates/backlog.md`](templates/backlog.md) | the one list where open points from every capture live until the author resolves them |
 | [`templates/closingPrompt.md`](templates/closingPrompt.md) | the questions every session answers before it ends |
 | [`INSTALL.md`](INSTALL.md) | how to install it in each environment |
 | [`readerAudits.md`](readerAudits.md) | how to run fresh readers against your material or your onboarding, and fold their stumbles back |
@@ -49,7 +50,7 @@ rules stay the same across projects, and the awakening carries what is different
 
 ## Versions
 
-`GENESIS-FRAMEWORK-LATE.md` holds 9.0.0 to 9.3.3 in its history, tagged `late-<version>`.
+`GENESIS-FRAMEWORK-LATE.md` holds 9.0.0 to 9.4.0 in its history, tagged `late-<version>`.
 The paper's [§8](../paper/GENESIS-PAPER.md) tells what each fresh reader found and which version it
 produced; the four audits are kept in full in [`genesis/captures/`](../genesis/captures/).
 
@@ -62,6 +63,7 @@ produced; the four audits are kept in full in [`genesis/captures/`](../genesis/c
 | 9.3.1 | from [reader 2](../genesis/captures/2026-10-11-g6r02-onboardingAudit.md): the document listing varies by surface, and every reader reports what arrived |
 | 9.3.2 | from [reader 3](../genesis/captures/2026-10-11-g6r03-onboardingAudit.md), the baseline: a clearer capture rule, the exact identification format, the onboarding audit's scope, and the prior capture |
 | 9.3.3 | from [reader 4](../genesis/captures/2026-10-11-g6r04-onboardingAudit.md): identification after the reading and in the final message, and the airlock rules placed first |
+| 9.4.0 | the backlog: every open point in a capture is carried to one list, and struck as resolved only on the author's ruling |
 
 `GENESIS-FRAMEWORK-LATE.md` was written for the case study and names its files and paths; the
 portable rules and templates carry the same design without them. Passages marked `[redacted]`

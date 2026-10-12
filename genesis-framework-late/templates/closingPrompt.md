@@ -12,6 +12,7 @@ Before we close, please finish your capture file:
 1. Give every entry a destination and a status.
 2. List your open questions, each with what it waits on.
 3. Record every piece of background I supplied during the session as an intervention.
+4. Carry every open item to the backlog.
 
 Then answer two questions:
 
@@ -29,5 +30,6 @@ End with your identification line.
 | a destination and a status per entry | which findings are waiting, and where each one lands |
 | open questions with what each waits on | which rulings are blocked, and by what |
 | interventions | every place you had to supply background; each marks something the files lack |
+| open items carried to the backlog | every unresolved point on the one list both of you keep, so it outlives the session |
 | what the reader came to understand beyond the files | knowledge that lived only in conversation, before the session ends with it |
 | three changes, in order | the next version of your onboarding, prioritised by the reader who just used it |

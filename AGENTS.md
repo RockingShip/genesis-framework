@@ -1,4 +1,4 @@
-<!-- genesis:begin late-9.3.3 -->
+<!-- genesis:begin late-9.4.0 -->
 ## Genesis: co-authoring rules
 
 This project is a long piece of writing made with an author across many sessions.
@@ -28,6 +28,8 @@ capture to `genesis/captures/` before you finish.
    Why: where you trip, the next reader trips too.
 10. Before you finish, write `genesis/captures/<date>-<topic>.md` from
     `genesis/captureTemplate.md`: decided, learned, open.
-    Mark each line [VERIFIED], [AUTHOR] or [READER].
-    Why: what lives only in conversation ends with the session.
+    Mark each line [VERIFIED], [AUTHOR] or [READER], and carry each open
+    line to `genesis/backlog.md`.
+    Why: what lives only in conversation ends with the session, and an open
+    point left in a capture fades with it.
 <!-- genesis:end -->

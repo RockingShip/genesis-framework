@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-13 01:21:22 Added: `GENESIS-FRAMEWORK-LATE` 9.4.0, the backlog: open points from every capture carried to one list; rule 10 in its three forms, the capture and closing templates, a new `templates/backlog.md`, the install guide, and this repository's own `genesis/backlog.md`.
 2026-10-13 01:15:44 Changed: the fifth generation named as deprecated, its contributions carried into the sixth, in the paper §2.1, the late framework and the case study's awakening.
 2026-10-13 01:11:11 Fixed: rule 10 in `AGENTS.md` now asks for the [VERIFIED], [AUTHOR] or [READER] mark, as `genesisCore.md` and `SKILL.md` do.
 2026-10-13 00:58:26 Changed: `GENESIS-FRAMEWORK-LATE` 9.3.3, amended in place: M7 kept, for preparing any volume or paper for the author's read.

@@ -62,10 +62,7 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 
 ## Open
 
-- Candidates for 1.1.0, from Gemini's review of 2026-10-13: an island and mainland section in the
-  awakening template, a script listing open `[AUTHOR-VERIFY]` marks across captures, and an init
-  script. [AUTHOR-VERIFY]
-- A ChatGPT section in the late install guide, and a lean download of the late line. [AUTHOR]
+- Every open point now lives in [`../backlog.md`](../backlog.md). [AUTHOR]
 
 ## For the next agent
 

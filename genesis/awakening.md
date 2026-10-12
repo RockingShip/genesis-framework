@@ -24,7 +24,7 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 
 - Released as 1.0.0 on 2026-10-12, with the whole repo as the release. From here, history stays as
   it is: corrections arrive as new commits.
-- `genesis-framework-early` 8.2.3; `genesis-framework-late` 9.3.3; `paper/GENESIS-PAPER.md` r3.
+- `genesis-framework-early` 8.2.3; `genesis-framework-late` 9.4.0; `paper/GENESIS-PAPER.md` r3.
 - The Pages view runs on the `RockingShip/moonwalk` theme, outside the RockingShip showcase until
   the case study's manuscript is published.
 - Waiting: the late line's first outside test on a small local model; a ChatGPT section in the late
@@ -39,6 +39,7 @@ made once Xyzzy agrees: new files, changes of content, renames, and anything tou
 | `genesis-framework-early/` | the early line: the full framework and its roles |
 | `paper/` | the paper, `GENESIS-PAPER.md`, with its companions `reachingConsensus.md` and `positiveFraming.md` |
 | `case-study/` | what the framework did on the Topological manuscript, its worked examples (`GENESIS-AWAKENING.md`, `VOICE-0-Reading-the-Author.md`), and `LINEAGE.md` |
+| `genesis/backlog.md` | every open point from the captures, with who acts and where it lands, until resolved |
 | `CHANGELOG.md` | every change, one timestamped line each |
 | `genesis/captures/` | what earlier sessions on this repo decided, learned and left open; also the four reader audits of 2026-10-11 (`g6r01` to `g6r04`), copied from the case study, which produced the late line's 9.3.0 to 9.3.3, and six fourth generation manuscript readings of 2026-08-14 (`g4r01` to `g4r09`) |
 

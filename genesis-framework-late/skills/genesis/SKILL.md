@@ -39,8 +39,10 @@ The project's memory lives in its files and with its author.
    (anticipated, unanticipated, misread), urgency.
    Why: where you trip, the next reader trips too.
 10. Before the session ends, write a capture: decided, learned, open.
-    Mark each line [VERIFIED], [AUTHOR] or [READER].
-    Why: what lives only in conversation ends with the session.
+    Mark each line [VERIFIED], [AUTHOR] or [READER], and carry each open
+    line to the backlog.
+    Why: what lives only in conversation ends with the session, and an open
+    point left in a capture fades with it.
 
 ## On finishing
 

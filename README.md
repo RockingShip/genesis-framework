@@ -22,7 +22,7 @@ The framework comes in two lines, one per stage of a project. Pick the folder th
 | **memory** | the author carries findings between sessions by hand | an entry file read first, and a capture written before each session ends |
 | **portable** | written for its case study; adapt it by hand | the rules come in three portable forms, with templates for everything else |
 | **written with** | Gemini 3.1 Pro; cold readers on Claude Opus 5 | Claude Opus 5.5 |
-| **current version** | 8.2.3 | 9.3.3 |
+| **current version** | 8.2.3 | 9.4.0 |
 
 Each folder has its own `INSTALL.md`, since the two lines load differently:
 [late](genesis-framework-late/INSTALL.md) covers Claude in a Project, Claude in a standalone chat,
@@ -43,6 +43,7 @@ Each piece has one job and a moment at which it is loaded.
 | writing as the author | when drafting | `templates/voice.md` | kept private by the case study |
 | first message | to start a session | `templates/readerWelcome.md` | the two welcomes in the paper's Appendix A |
 | session record | as the session goes | `templates/captureTemplate.md` | this repository's own [`genesis/captures/`](genesis/captures/) |
+| open points | at the close, and until resolved | `templates/backlog.md` | this repository's own [`genesis/backlog.md`](genesis/backlog.md) |
 | close | at the end | `templates/closingPrompt.md` | §5 of `GENESIS-AWAKENING.md` |
 | full rules and modes | when a mode calls for them | `GENESIS-FRAMEWORK-LATE.md` | the same file, written for the case study |
 | fresh readers | when testing material or onboarding | `readerAudits.md` | the paper's §8.4 |
@@ -54,7 +55,7 @@ Three of these are easy to confuse. The **standing instructions** sit in your en
 
 | folder | holds | current |
 | :--- | :--- | :--- |
-| [`genesis-framework-late`](genesis-framework-late/) | the late line: rules in three forms, the full framework, six templates, the reader audit guide | 9.3.3 |
+| [`genesis-framework-late`](genesis-framework-late/) | the late line: rules in three forms, the full framework, seven templates, the reader audit guide | 9.3.3 |
 | [`genesis-framework-early`](genesis-framework-early/) | the early line: the full framework and its roles | 8.2.3 |
 | [`paper`](paper/) | [`GENESIS-PAPER.md`](paper/GENESIS-PAPER.md), *Genesis*: the account of how the method arose, what each stumble taught, and what changed between the lines; beside it, two documents that go deeper, [`reachingConsensus.md`](paper/reachingConsensus.md) and [`positiveFraming.md`](paper/positiveFraming.md) | r3 |
 | [`case-study`](case-study/) | *Topological Computing*, the manuscript the framework grew up with: worked examples and the lineage of every version | r47 |

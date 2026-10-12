@@ -2,7 +2,7 @@
 
 **The first file every agent reads in this project.**
 
-**Current framework: `claude/GENESIS-FRAMEWORK-v9.3.3.md`**, which holds the full rules and their
+**Current framework: `claude/GENESIS-FRAMEWORK-v9.4.0.md`**, which holds the full rules and their
 reasons. This line is the single place the current version is named; earlier versions stay on file
 at their own paths as the record. This file is safe for a cold read: it carries how to
 work, and nothing about the architecture or the manuscript's content.
@@ -116,7 +116,8 @@ first report. After that, write at milestones only (the switch, the close of eac
 the session ends), because each write to a project document refreshes the cache for every chat in
 the project. Its entries are rulings, explanations that landed, implied principles put to Xyzzy,
 stumbles, interventions, open questions with what each waits on, and a destination and status for
-each. One file per session, written by that session.
+each. One file per session, written by that session. When the session closes, carry every open
+entry to the backlog, `claude/BACKLOG.md`; the capture stays as written.
 
 **1.13 Public and private.** The manuscript is public: one file per chapter, collected as a ZIP,
 changed only after consensus. `claude/` is private and freeform: write there directly, fenced.
@@ -168,6 +169,7 @@ Xyzzy may close with this prompt. Every session answers it before closing, asked
 > 1. Give every entry a destination and a status.
 > 2. List your open questions, each with what it waits on.
 > 3. Record every piece of background I supplied during the session as an intervention.
+> 4. Carry every open item to `claude/BACKLOG.md`.
 >
 > Then answer two questions:
 >
@@ -178,5 +180,5 @@ Xyzzy may close with this prompt. Every session answers it before closing, asked
 
 ---
 
-*v9.3.3, 2026-10-11. Amend this file and the framework together, and record each change in the
+*v9.4.0, 2026-10-13. Amend this file and the framework together, and record each change in the
 framework's changelog.*
