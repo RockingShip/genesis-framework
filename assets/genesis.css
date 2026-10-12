@@ -1,0 +1,26 @@
+/* Table layout for the genesis-framework Pages view, loaded after moonwalk.css.
+   moonwalk.css gives th and td a width of 100%, which hands all spare width to the first column. */
+
+th, td {
+	width: auto;
+}
+
+/* The first column shrinks to fit its content. */
+th:first-child, td:first-child {
+	width: 1%;
+	white-space: nowrap;
+}
+
+/* The remaining columns share the rest evenly, for tables of two to six columns. */
+th:first-child:nth-last-child(2) ~ th { width: 99%; }
+th:first-child:nth-last-child(3) ~ th { width: 49.5%; }
+th:first-child:nth-last-child(4) ~ th { width: 33%; }
+th:first-child:nth-last-child(5) ~ th { width: 24.75%; }
+th:first-child:nth-last-child(6) ~ th { width: 19.8%; }
+
+/* On narrow screens the first column may wrap again. */
+@media (max-width: 600px) {
+	th:first-child, td:first-child {
+		white-space: normal;
+	}
+}

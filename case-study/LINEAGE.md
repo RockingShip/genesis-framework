@@ -57,7 +57,7 @@ and are removed.
 | 8.2.3 | original | | the last version before v9 |
 
 **Read across versions.** 3.1 carries four core protocols, six cognitive systems and nine
-executable protocols. 8.2.3 carries seven core protocols, twelve systems and twenty-nine
+executable protocols. 8.2.3 carries eight core protocols, twelve systems and twenty-nine
 executable protocols. All nineteen elements of 3.1 are still present in 8.2.3 at their
 original numbers, and four carry new names: the State Vector Snapshot became Dynamic State
 Persistence, Revert to Snapshot became Revert to Dynamic State, the Canon Evolution
@@ -131,7 +131,8 @@ were adjusted here:
 
 - the Artifact Containment Mandate first appears at 3.2.0, before 4.4.0;
 - Gated Streaming first appears at 5.2.0, and 5.3.0 adds `AWAITING_RELEASE`;
-- 8.2.3 carries seven core protocols, where the earlier note gave ten; and four of the
+- 8.2.3 carries eight core protocols, counting Protocol 1.7 outside the numbered list, where the
+  earlier note gave ten; and four of the
   nineteen 3.1 elements were renamed rather than kept under the same name.
 
 ## The paper's own revisions

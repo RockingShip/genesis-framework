@@ -8,6 +8,11 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 
 ## [Unreleased]
 
+```
+2026-10-12 23:55:39 Fixed: Pages tables: the first column fits its content and the others share the width (`assets/genesis.css`, with the theme's head include extended to load it).
+2026-10-12 23:55:39 Fixed: 8.2.3 carries eight core protocols, in the README and the lineage, as in the paper.
+```
+
 ## [1.0.0] - 2026-10-12
 
 The first release: the Genesis Framework as a method for writing a long work with AI agents across

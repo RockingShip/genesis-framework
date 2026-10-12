@@ -17,7 +17,7 @@ The framework comes in two lines, one per stage of a project. Pick the folder th
 | :--- | :--- | :--- |
 | **the stage** | early and middle: the subject is still being found, and knowledge sits scattered across sessions | late: the manuscript is close to complete, and the work is consolidation |
 | **what agents do** | propose, extrapolate and overreach, so the author can react | check, ground and refine; every change waits for consensus |
-| **how it is built** | a constitution of 7 core protocols, 12 cognitive systems and 29 executable protocols, which the model runs and reports on | ten conduct rules, each with its reason, and eight modes chosen by the session's goal |
+| **how it is built** | a constitution of 8 core protocols, 12 cognitive systems and 29 executable protocols, which the model runs and reports on | ten conduct rules, each with its reason, and eight modes chosen by the session's goal |
 | **who does the work** | a pipeline of roles: archaeologist, lexicographer, technical author, with cold readers on the side | one agent per session, cold reader first and co-author after the switch |
 | **memory** | the author carries findings between sessions by hand | an entry file read first, and a capture written before each session ends |
 | **portable** | written for its case study; adapt it by hand | the rules come in three portable forms, with templates for everything else |

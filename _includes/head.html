@@ -1,0 +1,43 @@
+{%- comment -%} The theme's head.html (RockingShip/moonwalk), with one added line: assets/genesis.css. {%- endcomment -%}
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {%- if page.redirect -%}
+  <link rel="canonical" href="{{ page.redirect | absolute_url }}">
+  <script>location="{{ page.redirect | absolute_url }}"</script>
+  <meta http-equiv="refresh" content="0; url={{ page.redirect | absolute_url }}">
+  <meta name="robots" content="noindex">
+  {%- endif -%}
+
+  <title>
+    {%- if page.title -%}
+      {{ page.title }}
+    {%- else -%}
+      {{ site.title }}
+    {%- endif -%}
+  </title>
+
+  {%- seo title=false -%}
+  {%- feed_meta -%}
+
+  {%- if site.favicon -%}
+  <link rel="shortcut icon" type="image/png" sizes="32x32" href="{{ site.favicon }}" />
+  {%- endif -%}
+  {%- if site.favicon152 -%}
+  <link rel="apple-touch-icon" type="image/png" sizes="152x152" href="{{ site.favicon152 }}" />
+  {%- endif -%}
+  {%- if site.favicon160 -%}
+  <link rel="shortcut icon" type="image/png" sizes="160x160" href="{{ site.favicon160 }}" />
+  {%- endif -%}
+  {%- if site.favicon192 -%}
+  <link rel="shortcut icon" type="image/png" sizes="192x192" href="{{ site.favicon192 }}" />
+  {%- endif -%}
+  {%- if site.favicon196 -%}
+  <link rel="shortcut icon" type="image/png" sizes="196x196" href="{{ site.favicon196 }}" />
+  {%- endif -%}
+  <link rel="stylesheet" href="{{ "assets/moonwalk.css" | relative_url }}"  />
+  <link rel="stylesheet" href="{{ "assets/genesis.css" | relative_url }}"  />
+  {%- include toggle_theme_js.html -%}
+
+</head>
