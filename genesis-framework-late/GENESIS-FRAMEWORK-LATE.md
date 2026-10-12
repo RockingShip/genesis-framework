@@ -1,8 +1,8 @@
-# Genesis Framework v9.3.1
+# Genesis Framework v9.3.2
 
 **The working constitution for agents co-authoring the Topological Computing manuscript.**
 
-Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
+Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.3.1, v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
 their own paths under `claude/` so that documents citing them point at real prior versions.
 
 **Agents enter through `claude/GENESIS-AWAKENING.md`**, a small file safe for a cold read: the
@@ -326,10 +326,11 @@ Every session keeps a capture file, written during the session and finished befo
 
 `claude/capture/r47/YYYY-MM-DD-g<g>r<nn>-<topic>.md`
 
-**Write the head at the start, then update at milestones**: the switch, the close of each topic,
-and before the session ends. Every write to a project document refreshes the cache for every chat
-in the project, so a write per exchange costs every session; a write per milestone keeps the record
-safe at a fraction of that.
+**Write the head at the start, then write at milestones only**: the switch, the close of each
+topic, and before the session ends. The head may share its first write with the first report. Each
+write to a project document refreshes the cache for every chat in the project, so a write per
+exchange costs every session; a write per milestone keeps the record safe at a fraction of that.
+The folder is keyed by manuscript revision, so each capture sits beside the revision it read.
 
 Its head records the session's generation, reader number, goal and mode; the generation and reader
 number come from Xyzzy's welcome, and also open the agent's first reply as
@@ -432,6 +433,14 @@ adjacent field and refutes the wrong thing).
 Report as a reader, tersely: location, what tripped you, type, urgency. Propose fixes only when
 asked. Red output is exempt from the house style's negation rules, because an unhedged negative is
 the clearest signal.
+
+**The prior capture.** At the switch, Xyzzy may first ask what the reader takes the project to be.
+The reader answers from its priors alone, each labelled `[READING]`, and records them as stumbles.
+On 2026-10-11 the third reader of the sixth generation, holding nothing, named topological quantum
+computing from the name alone: the collision Chapter 0's Calibration disarms. A reader holding
+nothing gives the cleanest measurement of what the name and vocabulary recruit.
+
+**Leave `project_info` uncalled** in this phase: it lists every document and warms the read.
 
 **The switch.** Write the complete stumble report into the capture file **before** any
 explanation arrives. The first explanation spends the cold signal, and the more is explained, the
@@ -552,7 +561,15 @@ The output is a findings list per chapter, so the author's read starts from a kn
 ### M8. Onboarding audit
 
 *Goal: testing the awakening itself.* Worked in the red stance: grounding and challenging, reported
-plainly, with the negation rule relaxed for the report, as in M2's first phase.
+plainly, with the negation rule relaxed for everything the reader writes, as in M2's first phase.
+
+**The material** is everything that reached the reader before and including the awakening: the
+project instructions, any preference block, any document listing, Xyzzy's welcome,
+`GENESIS-AWAKENING.md` and VOICE-0. The Projects tool's `project_info` stays uncalled, as in M1 and
+M2's first phase, since it lists every document.
+
+**M8 has a switch**, as M2 does: when Xyzzy begins explaining or supplying content, the report goes
+into the capture file first, and the reader works blue from then on.
 
 Read `GENESIS-AWAKENING.md` and VOICE §0, and nothing more unless Xyzzy supplies it. The awakening
 is the material. Report the reading order as it actually happened, including anything the session
@@ -645,6 +662,26 @@ elements in force for early- and mid-stage authoring.
 ## Part 5. Changelog
 
 ### r47
+
+**v9.3.2**, 2026-10-11. Polish on the baseline, from the onboarding audit of the third reader of the
+sixth generation (`claude/capture/r47/2026-10-11-g6r03-onboarding-audit.md`). Earlier versions are
+kept at their own paths.
+
+*Corrections:*
+
+- 1.12's cadence clause read both ways (audit S6); it now says milestones only, and why. The head
+  may share its first write with the first report (S7). The revision-keyed folder carries its
+  reason (S8).
+- The awakening's identification format is stated exactly, with an example, and is to be carried
+  in the project instructions, since the first line is written before the awakening is read (S1).
+- The digest names the rules it omits and why (S9). The glossary gains *airlock*, *Context*, the
+  project's sense of red and blue, and the stumble's `[AUTHOR-VERIFY]` truth (S5, S10).
+
+*Additions:*
+
+- M8's material named (S2); its switch stated (S4); the red relaxation's scope stated (S3).
+- `project_info` left uncalled in M1, M2's first phase and M8 (S12).
+- The prior capture at the switch, from the third reader's answer to Xyzzy's calibration question.
 
 **v9.3.1**, 2026-10-11. A patch, built from the onboarding audit of the second reader of the sixth
 generation (`claude/capture/r47/2026-10-11-g6r02-onboarding-audit.md`). Earlier versions are kept at
