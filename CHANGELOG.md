@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 21:25:15 Fixed: the revision each fourth generation reader read (r23 to r31), as the author confirms.
 2026-10-12 21:22:36 Added: six fourth generation manuscript readings of 2026-08-14 in `genesis/captures/` (readers 1 to 5 and 9); the paper's three G4R05 quotations link to their source.
 2026-10-12 21:19:14 Fixed: paper §4.1 and §4.8, three reader quotations settled against their source, the fifth reader of the fourth generation (r29, 2026-08-14); wording restored and labels corrected.
 2026-10-12 21:01:39 Changed: paper §5.1 gains the protocol counts of every early version and the bootstrap as detector; 8.2.3 carries eight core protocols.

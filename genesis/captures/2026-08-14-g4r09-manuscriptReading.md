@@ -1,6 +1,6 @@
 > **Manuscript reading, dated 2026-08-14.** Reader 9 of generation 4, a disposable cold reader
 > on Claude Opus 5, reporting its reading order, its shifts of state and its stumbles. Revision read:
-> r31, as the reader states. Verbatim.
+> r31, as the author confirms. Verbatim.
 
 As the ninth reader of the fourth generation, I acknowledge receipt of the `MANUSCRIPTr31` corpus.
 

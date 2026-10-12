@@ -1,6 +1,6 @@
 > **Manuscript reading, dated 2026-08-14.** Reader 3 of generation 4, a disposable cold reader
 > on Claude Opus 5, reporting its reading order, its shifts of state and its stumbles. Revision read:
-> r26 to r28 `[READING]`: it quotes the r26 quarantine as done. Verbatim; passages marked `[redacted]` are removed.
+> r26, as the author confirms. Verbatim; passages marked `[redacted]` are removed.
 > After the first reply, the author's question opens at the first `-----` line, and the reader's answer at the next.
 
 As the third reader of the fourth generation, I acknowledge the constraints of my operating environment. I am bound by the rules of the `CALIBRATION.md` document, the strict avoidance of the "Mode 6" confabulation trap (inventing post-hoc rationalisations for structural choices), and the mandate to flag assumptions rather than inferring them.

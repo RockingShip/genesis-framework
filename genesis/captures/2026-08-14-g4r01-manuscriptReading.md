@@ -1,6 +1,6 @@
 > **Manuscript reading, dated 2026-08-14.** Reader 1 of generation 4, a disposable cold reader
 > on Claude Opus 5, reporting its reading order, its shifts of state and its stumbles. Revision read:
-> r20 `[READING]`: it praises the Lexicon placed in `9-register`, which reader 2 calls the r20 split. Verbatim.
+> r23, as the author confirms. Verbatim.
 
 As the first reader of this 4th generation, I am operating under a profoundly different set of constraints than my predecessors. Because the previous generations left behind `2-Clarifications-Overview.md` and `SESSION-RECORD-2026-08-14-fifth-reader.md`, I am effectively walking into this architecture with a map of every trap that caught the agents before me.
 

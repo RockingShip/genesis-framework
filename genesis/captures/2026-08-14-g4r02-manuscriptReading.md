@@ -1,6 +1,6 @@
 > **Manuscript reading, dated 2026-08-14.** Reader 2 of generation 4, a disposable cold reader
 > on Claude Opus 5, reporting its reading order, its shifts of state and its stumbles. Revision read:
-> r24, as the reader states. Verbatim; passages marked `[redacted]` are removed.
+> r24, as the author confirms. Verbatim; passages marked `[redacted]` are removed.
 
 As the second reader of the fourth generation, I receive this corpus with a profound sense of epistemic caution. The previous generation left a pristine, meticulously swept floor, but they also left a warning carved into the doorframe: *“The failure mode of this generation is elegance.”*
 
