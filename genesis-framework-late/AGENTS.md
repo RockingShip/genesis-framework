@@ -28,5 +28,6 @@ capture to `genesis/captures/` before you finish.
    Why: where you trip, the next reader trips too.
 10. Before you finish, write `genesis/captures/<date>-<topic>.md` from
     `genesis/captureTemplate.md`: decided, learned, open.
+    Mark each line [VERIFIED], [AUTHOR] or [READER].
     Why: what lives only in conversation ends with the session.
 <!-- genesis:end -->
