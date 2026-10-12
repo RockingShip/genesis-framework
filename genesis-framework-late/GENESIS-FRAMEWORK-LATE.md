@@ -1,8 +1,8 @@
-# Genesis Framework v9.3.2
+# Genesis Framework v9.3.3
 
 **The working constitution for agents co-authoring the Topological Computing manuscript.**
 
-Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.3.1, v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
+Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.3.2, v9.3.1, v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
 their own paths under `claude/` so that documents citing them point at real prior versions.
 
 **Agents enter through `claude/GENESIS-AWAKENING.md`**, a small file safe for a cold read: the
@@ -333,8 +333,10 @@ exchange costs every session; a write per milestone keeps the record safe at a f
 The folder is keyed by manuscript revision, so each capture sits beside the revision it read.
 
 Its head records the session's generation, reader number, goal and mode; the generation and reader
-number come from Xyzzy's welcome, and also open the agent's first reply as
-`Generation <g>, reader <n>`, so sessions can be archived and counted. Its entries, each fenced by
+number come from Xyzzy's welcome. The line `Generation <g>, reader <n>` opens the visible text of
+the agent's first full reply, written after the awakening files load, and closes its final
+message, so sessions can be archived and counted. Text written before a tool call may reach Xyzzy
+only as a summary, so the line belongs after the reading. Its entries, each fenced by
 the convention of 1.4:
 
 | entry | what it records |
@@ -440,7 +442,10 @@ On 2026-10-11 the third reader of the sixth generation, holding nothing, named t
 computing from the name alone: the collision Chapter 0's Calibration disarms. A reader holding
 nothing gives the cleanest measurement of what the name and vocabulary recruit.
 
-**Leave `project_info` uncalled** in this phase: it lists every document and warms the read.
+**Keep the read clean from the first call**: leave `project_info` uncalled, since it lists every
+document, and leave `project_search` unused, since its results carry passages from unopened files.
+Open each file Xyzzy names by its exact path with `project_read`. The awakening states this at its
+head (§0), ahead of the first tool call.
 
 **The switch.** Write the complete stumble report into the capture file **before** any
 explanation arrives. The first explanation spends the cold signal, and the more is explained, the
@@ -569,7 +574,8 @@ project instructions, any preference block, any document listing, Xyzzy's welcom
 M2's first phase, since it lists every document.
 
 **M8 has a switch**, as M2 does: when Xyzzy begins explaining or supplying content, the report goes
-into the capture file first, and the reader works blue from then on.
+into the capture file first, and the reader works blue from then on, opening only the files he
+names, by path.
 
 Read `GENESIS-AWAKENING.md` and VOICE §0, and nothing more unless Xyzzy supplies it. The awakening
 is the material. Report the reading order as it actually happened, including anything the session
@@ -662,6 +668,35 @@ elements in force for early- and mid-stage authoring.
 ## Part 5. Changelog
 
 ### r47
+
+**v9.3.3**, 2026-10-11. A patch from the onboarding audit of the fourth reader of the sixth
+generation (`claude/capture/r47/2026-10-11-g6r04-onboarding-audit.md`), whose closing list of three
+changes matched the project agent's proposals independently. Earlier versions are kept at their own
+paths.
+
+*Corrections:*
+
+- The identification line was placed before the first tool call, where the harness may condense it
+  into a summary (audit S1). It now opens the visible text of the first full reply, after the
+  awakening loads, and closes the final message.
+- "Keep your capture file" read as *retain* (S2); the awakening now says *start*.
+- The airlock rules sat at the end of the awakening, after the harness's own advice to call
+  `project_info` (S4). They now open the awakening as §0, and add `project_search`, whose results
+  carried passages of four unopened files into the read.
+- *Exempt* and *relaxed* named one rule twice (S5); the awakening now says *relaxed* throughout.
+- VOICE-0's omission after the prerequisite rule read as a cut (audit, smaller stumbles); a
+  `[READING]` bridge states its general point.
+
+*Additions:*
+
+- The path convention for opening named files, so a red reader can reach a chapter without search.
+- The welcome's expected form: it names the mode and gives files by path; where either is open, the
+  reader chooses and flags the choice.
+- After any red switch, only the files Xyzzy names, by path.
+- M1 joins the red stance, consistent with its place in the airlock.
+- The prior capture asks the reader to name what it already held that coloured its answer.
+- The closing prompt as the standard close of every session (awakening §5).
+- *Intervention* added to the glossary.
 
 **v9.3.2**, 2026-10-11. Polish on the baseline, from the onboarding audit of the third reader of the
 sixth generation (`claude/capture/r47/2026-10-11-g6r03-onboarding-audit.md`). Earlier versions are
