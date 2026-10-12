@@ -10,6 +10,8 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 
 ## Decided
 
+- Release 1.0.0 published on 2026-10-12, with the Pages view prepared on the moonwalk theme. Tags: `vX.Y.Z` for releases, `early-<version>` and `late-<version>` for the framework. Every commit signed; the session link removed from all commit messages. [AUTHOR]
+
 - Written as a public repo; private for a short while so severe mistakes can be corrected with a
   forced push. The repo is an example of the framework itself. [AUTHOR]
 - Licences: CC BY 4.0 for method and prose, including the portable rules; MIT for templates and
@@ -60,7 +62,10 @@ developed on the Topological manuscript, with Topological as its case study. [AU
 
 ## Open
 
-- The Pages view and the first tagged release. [AUTHOR-VERIFY]
+- Candidates for 1.1.0, from Gemini's review of 2026-10-13: an island and mainland section in the
+  awakening template, a script listing open `[AUTHOR-VERIFY]` marks across captures, and an init
+  script. [AUTHOR-VERIFY]
+- A ChatGPT section in the late install guide, and a lean download of the late line. [AUTHOR]
 
 ## For the next agent
 
