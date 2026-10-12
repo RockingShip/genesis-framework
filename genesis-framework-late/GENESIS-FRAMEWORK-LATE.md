@@ -1,15 +1,24 @@
-# Genesis Framework v9.2.0
+# Genesis Framework v9.3.0
 
 **The working constitution for agents co-authoring the Topological Computing manuscript.**
 
-Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.1.0 and v9.0.0, which stay on file at their
-own paths under `claude/` so that documents citing them point at real prior versions.
+Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.2.0, v9.1.0 and v9.0.0, which stay on file at
+their own paths under `claude/` so that documents citing them point at real prior versions.
+
+**Agents enter through `claude/GENESIS-AWAKENING.md`**, a small file safe for a cold read: the
+conduct rules in digest, a glossary, the mode chooser, and how to identify yourself. This file
+opens when the chosen mode says so.
 
 **Its companion is `claude/VOICE-Author-Style-and-Critique.md`.** The two govern different things
 and stand side by side: this file governs how the work is done, and VOICE governs how the author
-speaks and how to read him. Every agent reads VOICE §0 on waking; drafting reads the rest.
+speaks and how to read him. Every agent reads VOICE §0 on waking, from its standalone copy
+`claude/VOICE-0-Reading-the-Author.md`; drafting reads the rest.
 Successor in turn to the co-creative framework 8.2.3, [redacted], the red-team
 pair and the three role briefings, all of which remain on file as the incident record they are.
+
+**Generation** names the project's maturity level, combining content and framework: how late the
+late stage is. [redacted] The sixth began on
+2026-10-11, with this framework series and `MANUSCRIPTr47`.
 
 **Fitted to the late stage.** The v9 series, from v9.0.0 on, is intended for **late-stage
 authoring**: consolidation of a manuscript close to complete. **v8.2.3 is the framework for early-
@@ -28,10 +37,11 @@ agent inferences `[READING]`, open rulings `[AUTHOR-VERIFY]`.
 **Three layers, each read when it is needed.**
 
 1. **The core** (Part 1) holds for every session, whatever its purpose. It is short on purpose
-   and changes rarely. **First-impression and cold-read sessions read its conduct rules only**
-   (1.0, 1.4, 1.8, 1.11, 1.12, 1.13) together with VOICE §0, and open the rest of the core at the
-   switch, since 1.1 to 1.3 carry the project statement and the stance a cold reader must meet
-   fresh.
+   and changes rarely. **Its conduct rules (1.0, 1.4, 1.8, 1.9, 1.11, 1.12, 1.13) also travel in
+   digest in `GENESIS-AWAKENING.md`**, so first-impression, cold-read and onboarding-audit sessions
+   hold them without opening this file, whose 1.1 to 1.3 carry the project statement and the stance
+   a cold reader must meet fresh. The reading tool returns whole files, so the airlock is built
+   from separate files.
 2. **The mode** (Part 2) is chosen by the session's goal, which the author supplies in the first
    exchange. Read the one mode that matches, and only that one. Loading two postures at once
    produces a collision the record has already seen.
@@ -314,9 +324,12 @@ because it lived in conversation and reached no file.
 
 Every session keeps a capture file, written during the session and finished before it closes:
 
-`claude/capture/r47/YYYY-MM-DD-<topic>.md`
+`claude/capture/r47/YYYY-MM-DD-g<g>r<nn>-<topic>.md`
 
-Its entries, each fenced by the convention of 1.4:
+Its head records the session's generation, reader number, goal and mode; the generation and reader
+number come from Xyzzy's welcome, and also open the agent's first reply as
+`Generation <g>, reader <n>`, so sessions can be archived and counted. Its entries, each fenced by
+the convention of 1.4:
 
 | entry | what it records |
 | :--- | :--- |
@@ -383,7 +396,7 @@ none, or fits two, ask.
 
 *Goal: a single reaction to a manuscript update.*
 
-Read the conduct rules and VOICE §0, then what changed and nothing more. Report what you met, in
+Read `GENESIS-AWAKENING.md` and VOICE §0, then what changed and nothing more. Report what you met, in
 reading order, briefly and plainly. Write one capture entry. Skip `AGENT-BRIEF.md` and the rest of
 the core, so the impression stays first-hand.
 
@@ -391,8 +404,15 @@ the core, so the impression stays first-hand.
 
 *Goal: a stumble harvest from a fresh reader, who may later join the kitchen.*
 
-**Phase one, red.** Read the conduct rules and VOICE §0, then only what the author supplies, in the
-order given. Apply four rules:
+**Phase one, red.** Read `GENESIS-AWAKENING.md` and VOICE §0, then only what the author supplies, in
+the order given.
+
+**Warm and clean cold reads.** The session context of this project lists every document, chapter
+titles included, before the first message. A cold read inside the project is therefore warm at the
+edges: report the titles met as part of the reading order. A clean cold read runs in a chat outside
+the project, with only the chapters the author supplies.
+
+Apply four rules:
 evidence before conclusion; definition before use; your confusion is always worth reporting; log
 every unanswered question with how hard it pulled you off the reading.
 
@@ -523,6 +543,19 @@ pass the author approves:
 
 The output is a findings list per chapter, so the author's read starts from a known state.
 
+### M8. Onboarding audit
+
+*Goal: testing the awakening itself.*
+
+Read `GENESIS-AWAKENING.md` and VOICE §0, and nothing more unless Xyzzy supplies it. The awakening
+is the material. Report the reading order as it actually happened, including anything the session
+context handed over before the first message; every stumble in prior, truth and check form, with
+location, type and urgency; every assumption, flagged; and what worked. Write the report into the
+capture file before any explanation arrives.
+
+*Why:* the first reader of the sixth generation ran exactly this audit on 2026-10-11 and found no
+mode that named the onboarding documents as its material. Its report produced v9.3.0.
+
 ---
 
 ## Part 3. Working methods, on invocation
@@ -539,6 +572,25 @@ The author may call any of these by name at any time.
 | **Architectural review** | step out of the content and examine the method itself; findings become proposals for this file |
 | **Amendment** | propose a change to this file: state the rule, its reason, what it replaces, and any conflict with existing rules; the author rules, and Part 5 records it |
 | **Snapshot** | copy the current tree and standing documents under a tagged name, so any later state can be compared with it |
+
+**Version updates.** The current version is named in one place only: the *Current framework* line
+of `claude/GENESIS-AWAKENING.md`. The project instructions, the brief and the handover all point to
+the awakening file, so they stay correct through every bump. A bump runs in four steps:
+
+1. Xyzzy says a change is ready and gives the number. An agent writes the new version as a new
+   file, keeping the earlier one at its path, with a changelog entry that lists corrections apart
+   from new rules and policy.
+2. The same agent moves the *Current framework* line in the awakening file, and amends its digest
+   where a conduct rule changed. The two files change together.
+3. The session records the bump in its capture file.
+4. A fresh reader runs M8 on the result.
+
+A new manuscript revision moves this file's stamp, and capture files begin a new folder
+(`claude/capture/r48/`, and so on).
+
+*Why:* on 2026-10-11 four documents routed agents to v9.0.0 by name after v9.1.0 had superseded
+it. A pointer that names a version goes stale at the next bump; a pointer to an unversioned entry
+point stays true.
 
 **Standing duties that replace the earlier cognitive systems.** These run without invocation:
 
@@ -586,6 +638,32 @@ elements in force for early- and mid-stage authoring.
 ## Part 5. Changelog
 
 ### r47
+
+**v9.3.0**, 2026-10-11. A new file; earlier versions are kept at their own paths. Built from the
+onboarding audit of the first reader of the sixth generation
+(`claude/capture/r47/2026-10-11-awakening-first-reader.md`).
+
+*Corrections, repairing what v9.2.0 got wrong:*
+
+- The airlock relied on reading part of a file, and the reading tool returns whole files (audit S1,
+  S2). The conduct rules now travel in a separate file, `GENESIS-AWAKENING.md`, and VOICE §0 in
+  `VOICE-0-Reading-the-Author.md`.
+- The conduct set reached outward to 1.9 (audit S7); 1.9 now belongs to the conduct set.
+- Terms met before their definitions (audit S6): the switch, the kitchen, the Genesis paper,
+  generation and reader are now defined in the awakening glossary, ahead of first use.
+
+*New rules and policy:*
+
+- `GENESIS-AWAKENING.md` as the entry point for every agent.
+- M2: warm and clean cold reads distinguished, since the session context lists every document
+  (audit S3).
+- M8: the onboarding audit (audit S5).
+- 1.12: identification by generation and reader number, in the first reply and the capture file
+  name, for archiving.
+- Generation defined, on Xyzzy's ruling: the maturity level, combining content and framework. [redacted]
+- Amended in place, numbering unchanged: the version-update procedure in Part 3, with the
+  awakening file's *Current framework* line as the single place the version is named; the brief
+  and the handover repointed to the awakening file.
 
 **v9.2.0**, 2026-10-11. A new file; v9.1.0 and v9.0.0 are kept at their own paths.
 
@@ -645,16 +723,17 @@ a new rule sitting above the others and the change is additive.
 
 `[AUTHOR-VERIFY]` **M7**: adopt the pre-read audit mode, and run it on volume 1 before your read?
 
-`[AUTHOR-VERIFY]` **Project instructions**: a replacement text naming this file and VOICE §0 is
-ready for Xyzzy to paste into the Instructions panel; the current text still sends every session
-to `AGENT-BRIEF.md` first.
+`[AUTHOR-VERIFY]` **Project instructions**: a replacement text naming `GENESIS-AWAKENING.md` and
+`VOICE-0-Reading-the-Author.md` is ready for Xyzzy to paste into the Instructions panel.
+
+`[AUTHOR-VERIFY]` **The first reader's implied principle**: *an assumption is a stumble* extends 1.4
+from the record to the reader's own process. Destination 1.4 or M2.
 
 `[AUTHOR-VERIFY]` **The hint incident** behind 1.10: if it surfaces, its date and shape belong
 in the *Why*.
 
 `[AUTHOR-VERIFY]` **The horizon correction** (1.4): enter it in `AGENT-BRIEF.md` as item 21?
 
-`[AUTHOR-VERIFY]` **Citations of earlier versions**: the project brief and the handover both route
-arriving agents to v9.0.0 by name, and the parent agent counts four citing documents in all. Each
-wants its pointer moved to v9.2.0 on its next pass, since an agent following the old pointer would
-read superseded rules.
+`[AUTHOR-VERIFY]` **Citations of earlier versions**: the project brief and the handover now route
+to the awakening file. The parent agent counted four citing documents in all; any others want the
+same repointing when found.
