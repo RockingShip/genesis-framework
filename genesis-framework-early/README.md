@@ -44,7 +44,7 @@ Every file holds its recovered versions in its history, each tagged:
 | `roles/CLAUDE-COLDSTART-orientation.md` | 1.0.0, 1.1.0 and 2.0.0; 1.1.0 is the one in use | `coldstart-<version>` |
 | `roles/CLAUDE-REDTEAM-standing-instructions.md` | 1.0.0 | `redteam-1.0.0` |
 | `roles/GENESIS-PIPELINE.md` | 1.3.0 | `pipeline-1.3.0` |
-| `roles/GENESIS-ROLE-Lexicographer.md`, `roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | `lexicographer-1.0.0`, `technical-author-1.0.0` |
+| `roles/GENESIS-ROLE-Lexicographer.md`<br>`roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | `lexicographer-1.0.0`<br>`technical-author-1.0.0` |
 
 ```sh
 git log --follow genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md

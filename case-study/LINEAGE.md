@@ -22,7 +22,7 @@ written for cold readers running on Claude Opus 5, the latest Opus at the time.
 | `genesis-framework-early/roles/CLAUDE-COLDSTART-orientation.md` | 1.0.0, 1.1.0 and 2.0.0 | `coldstart-<version>` | the Genesis r2 bundle |
 | `genesis-framework-early/roles/CLAUDE-REDTEAM-standing-instructions.md` | 1.0.0 | `redteam-1.0.0` | the Genesis r2 bundle |
 | `genesis-framework-early/roles/GENESIS-PIPELINE.md` | 1.3.0 | `pipeline-1.3.0` | the Genesis r2 bundle |
-| `genesis-framework-early/roles/GENESIS-ROLE-Lexicographer.md`, `genesis-framework-early/roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | `lexicographer-1.0.0`, `technical-author-1.0.0` | the Genesis r2 bundle |
+| `genesis-framework-early/roles/GENESIS-ROLE-Lexicographer.md`<br>`genesis-framework-early/roles/GENESIS-ROLE-Technical-Author.md` | 1.0.0 each | `lexicographer-1.0.0`<br>`technical-author-1.0.0` | the Genesis r2 bundle |
 
 To read one version in full: `git show framework-early-7.2:genesis-framework-early/GENESIS-FRAMEWORK-EARLY.md`.
 
