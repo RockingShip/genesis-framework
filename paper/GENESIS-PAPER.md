@@ -131,26 +131,6 @@ The first portable rule holds this boundary: *the author decides; propose first,
 once the author agrees.* [`reachingConsensus.md`](reachingConsensus.md) shows the rule at work on
 one paragraph, through fifteen versions to consensus.
 
-### 2.3 The fourth author
-
-Each session begins empty. What persists is the record, and the record was kept by hand. The
-corrections that onboard a reader today are what remained after many agents stumbled in the same places and someone kept the tally.
-
-**Memory across sessions is the scarce contribution**, and the human supplies it.
-
-> **[READER]** *"The obvious assumption is that the AI's accumulating context is the valuable
-> thing. Your method says almost the opposite: accumulated context destroys one of the
-> measurements you need, while human memory across sessions is what preserves the
-> discoveries."* The lens reader of draft r2 *(session)* `[UNVERIFIED]`
-
-**Findings travel between sessions by hand**, for five reasons. It keeps the boundary intact. It
-makes the author read what would otherwise pass unexamined. It preserves the path, since an
-automated hand-off delivers conclusions with their reasoning already absorbed. It protects each
-agent's budget, because a reader asked to edit must first build a frame. And it tests
-transmission: material that lands with a reader new to the history has shown something.
-
-v9 put this memory into files, as §8.3 describes. The hand that carries them stays the author's.
-
 ---
 
 ## 3. Reporting discipline

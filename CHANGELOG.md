@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 21:31:17 Removed: paper §2.3, "The fourth author", a term without a recoverable source; the rest of the paper carries its content.
 2026-10-12 21:27:35 Changed: paper §3 gains the layout paradox and §4.3 the stumble rates of six fourth generation readers.
 2026-10-12 21:25:15 Fixed: the revision each fourth generation reader read (r23 to r31), as the author confirms.
 2026-10-12 21:22:36 Added: six fourth generation manuscript readings of 2026-08-14 in `genesis/captures/` (readers 1 to 5 and 9); the paper's three G4R05 quotations link to their source.
