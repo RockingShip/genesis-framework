@@ -9,8 +9,7 @@ what can be read across versions, and what was left out.
 tuned to, Gemini 3.1 Pro. The red team and cold-start files followed 8.2.3, for the middle stage,
 written for cold readers running on Claude Opus 5, the latest Opus at the time.
 
-**Marks.** `[UNVERIFIED]`: stated in an earlier note, with its source expected in the
-archive. `[redacted]`: a passage removed from a verbatim file.
+**Marks.** `[redacted]`: a passage removed from a verbatim file.
 
 ---
 
@@ -90,7 +89,7 @@ Ten versions. Byte sizes are measured on the files here.
 | 5.1.0 → 5.2.0 | +2,416 bytes; Silent Processing renamed Gated Streaming | the overflow fix strengthened |
 | 5.2.0 → 5.3.0 | `AWAITING_RELEASE` state added; the forensic series added | a rescope rather than a repair |
 
-`[UNVERIFIED]` An earlier note dates nine of the ten versions to six days, 2025-11-19 to
+An earlier note, verified by the author, dates nine of the ten versions to six days, 2025-11-19 to
 2025-11-25, with a six-month gap before 5.3.0. The files themselves are undated.
 
 **Two incidents named in the protocol text.**
@@ -120,7 +119,7 @@ produces false additions and deletions.
 | 2.0.0 | 4,132 | a file manifest, tiers of pointers, and status fields left as templates |
 
 The middle version holds the idea: teaching a cold reader in advance spends the cold read.
-`[UNVERIFIED]` An earlier note dates the three to 2026-05-28, 2026-05-29 and 2026-06-22.
+An earlier note, verified by the author, dates the three to 2026-05-28, 2026-05-29 and 2026-06-22.
 
 The red team standing instructions, 1.0.0, were written as the invariant partner of the
 welcome: they ride along unchanged, and the welcome carries whatever goes stale.

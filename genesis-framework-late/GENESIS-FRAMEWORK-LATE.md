@@ -761,7 +761,8 @@ onboarding audit of the first reader of the sixth generation
 - M8: the onboarding audit (audit S5).
 - 1.12: identification by generation and reader number, in the first reply and the capture file
   name, for archiving.
-- Generation defined, on Xyzzy's ruling: the maturity level, combining content and framework. [redacted]
+- Generation defined, on Xyzzy's ruling: the maturity level, combining content and framework.
+  [redacted]
 - Amended in place, numbering unchanged: the version-update procedure in Part 3, with the
   awakening file's *Current framework* line as the single place the version is named; the brief
   and the handover repointed to the awakening file.

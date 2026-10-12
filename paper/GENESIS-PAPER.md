@@ -105,8 +105,7 @@ and once.
 This is a claim about knowledge, and it produces an unusual architecture: **instruments designed
 to be spent.** A stream of fresh readers in place of one long collaborator, because understanding
 consumes the measurement. The project later named them *disposable agents*. Its sixth generation
-of readers began on 2026-10-11 with the
-framework this paper calls v9.
+of readers began on 2026-10-11 with the framework this paper calls v9.
 
 > **[READER]** *"You're not measuring the agent's ability to collaborate. You're measuring the
 > reader's first encounter with the manuscript. Agent as collaborator versus agent as measuring
@@ -653,9 +652,8 @@ co-authored the case study's early stage. From r19, in the middle stage, Claude 
 set the two models against each other, copying responses from one session into the other, which
 the author recalls as the source of *"the most interesting discussions"* (2026-10-12), and which
 §4.10 describes as mediation. The cold reader files followed 8.2.3, for the middle stage, written
-for readers on Claude Opus 5. On 2026-10-11 the project moved to a new
-workspace, and its framework was rebuilt
-for Claude Opus 5.5 as **v9**, for the late stage of authoring. The earlier framework stays in
+for readers on Claude Opus 5. On 2026-10-11 the project moved to a new workspace, and its
+framework was rebuilt for Claude Opus 5.5 as **v9**, for the late stage of authoring. The earlier framework stays in
 force for early and middle stages, by the author's ruling.
 
 The case study passed through three stages. **The early stage**, from June 2025, was pure knowledge
@@ -664,8 +662,7 @@ Archaeologist to recover the knowledge of the first. **The middle stage** began 
 book draft, in late May 2026, once most of the knowledge was collected, and the work turned to
 scrubbing, sanitising and organising. Every book draft until then was written with Gemini. On
 2026-08-14 the three volumes were combined into manuscript revision r19, the first revision Claude
-took part in, since Claude could manage the manuscript as a zip archive; the cold readers on Claude
-joined from there. **The late stage** began at manuscript revision r46 and consolidates a
+took part in, since Claude could manage the manuscript as a zip archive. **The late stage** began at manuscript revision r46 and consolidates a
 manuscript close to complete; v9 was written for it during r47.
 
 > **[AUTHOR]** *"Everything upto v9 was done, interacted and was tuned to "Gemini 3.1 Pro". v9 and
