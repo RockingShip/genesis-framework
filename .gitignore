@@ -4,3 +4,8 @@
 
 *.bak
 *.gz
+
+# Jekyll, for a local build of the Pages view
+_site/
+.jekyll-cache/
+.jekyll-metadata

@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 23:15:37 Added: the GitHub Pages view on the `RockingShip/moonwalk` theme (`_config.yml`, `_data/home.yml`, favicons); the README serves as the home page.
 2026-10-12 23:07:17 Changed: history rewritten so that no version carries the retracted subject; the version tags are re-pointed to match.
 2026-10-12 23:06:05 Removed: from the paper, the corpus index and the reverse sweep as outstanding work, both belonging to the case study; Appendix B becomes *The corpus*.
 2026-10-12 23:03:19 Fixed: paper §8.1, Claude as cold reader from May and June 2026, as co-author from r19.
