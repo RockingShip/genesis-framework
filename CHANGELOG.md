@@ -9,6 +9,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 ## [Unreleased]
 
 ```
+2026-10-12 19:14:59 Added: `case-study/positiveFraming.md`, the house style's reason in the author's words and the negation method; linked from the case study, the voice template and the paper's §7.2.
 2026-10-12 19:12:13 Added: `case-study/reachingConsensus.md`, one paragraph through fifteen versions to consensus.
 2026-10-12 18:54:50 Added: README section "How this was written", agreed in full with the author.
 2026-10-12 18:44:20 Added: the late install guide covers Claude Code, the Claude API and claude.ai personal preferences.

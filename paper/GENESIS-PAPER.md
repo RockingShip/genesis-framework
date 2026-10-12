@@ -557,7 +557,8 @@ outside quotations and code:
 | 3, operations | 85 | 92.3 |
 
 The r35 counting method is unrecorded `[UNVERIFIED]`, so the columns compare approximately. The
-house method in force at r47 sets a target of about 29 per ten thousand and weighs position above
+house method in force at r47 ([`positiveFraming.md`](../case-study/positiveFraming.md)) counts
+propositional *not* alone, a narrower measure than this table's, and sets a target of about 29 per ten thousand and weighs position above
 rate: a negation that the reader's model needs is kept, one that plants the wrong picture is
 rewritten. Measured by rate alone, the prohibition holds poorly. Measured by its purpose, keeping
 familiar concepts out of new constructs, §4.7 argues it does its work in the drafting rather than

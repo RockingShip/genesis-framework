@@ -39,6 +39,9 @@ incidents behind the rules, the measurements, and the four readers who tested v9
 [`reachingConsensus.md`](reachingConsensus.md) follows one paragraph, the closing lines of a letter
 saying what the work is, through fifteen versions to the one both co-authors agreed on.
 
+[`positiveFraming.md`](positiveFraming.md) holds the house style's reason, in the author's words,
+and the method agents use to apply it.
+
 ## Where to find more
 
 The manuscript is pending public release. Its home is the RockingShip Research site,

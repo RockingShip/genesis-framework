@@ -89,6 +89,9 @@ what was observed, when, and by whom.*
 
 ## 7. Diction
 
+*If your house style asks for positive framing, the case study's
+[`positiveFraming.md`](../../case-study/positiveFraming.md) gives a method to adopt or adapt.*
+
 <Words that are load-bearing and the author's own; words the author declines, each with the reason;
 words still contested.>
 
