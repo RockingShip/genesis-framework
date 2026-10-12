@@ -5,7 +5,7 @@ knowledge sits scattered across sessions, and agents are expected to propose, ex
 overreach so that the author can react. Copy this one folder into your own setup.
 
 Written with, and tuned to, Gemini 3.1 Pro. The full framework is at 8.2.3. The cold reader files
-followed it, as the first late-stage protocols, written for readers on Claude Opus 5.
+followed it, for the middle stage, written for readers on Claude Opus 5.
 
 ## What is here
 

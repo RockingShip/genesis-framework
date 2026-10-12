@@ -74,7 +74,7 @@ holds the four fresh readers' audits of the case study's onboarding, which produ
 
 The framework has been shaped with two models, and each line names the model it was configured for.
 
-* The early line, up to 8.2.3, was written with, and tuned to, Gemini 3.1 Pro. The cold reader files followed 8.2.3, as the first late-stage protocols, for readers on Claude Opus 5.
+* The early line, up to 8.2.3, was written with, and tuned to, Gemini 3.1 Pro. The cold reader files followed 8.2.3, for the middle stage, for readers on Claude Opus 5.
 * The late line, from 9.0.0, is written with, and tuned to, Claude Opus 5.5.
 
 How well a line carries over to other models is an open question, and this repository will record the evidence as it arrives.

@@ -6,7 +6,7 @@ brackets a change in practice, and often an incident. This note says where each 
 what can be read across versions, and what was left out.
 
 **Model.** The framework, Archaeologist, pipeline and role files were written with, and
-tuned to, Gemini 3.1 Pro. The red team and cold-start files followed 8.2.3, as the first late-stage protocols,
+tuned to, Gemini 3.1 Pro. The red team and cold-start files followed 8.2.3, for the middle stage,
 written for cold readers running on Claude Opus 5, the latest Opus at the time.
 
 **Marks.** `[UNVERIFIED]`: stated in an earlier note, with its source expected in the

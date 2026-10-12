@@ -406,8 +406,8 @@ The recovered lineage, with its sources, is in [`case-study/LINEAGE.md`](../case
 | :--- | :--- | :--- |
 | the co-creative framework | sixteen: 3.1, 3.2, 3.3, 3.6, 3.7, 4.0, 5.0, 6.0, 7.1, 7.2, 7.3, 7.4, 7.7, 8.1.0, 8.2.0, 8.2.3 | 2025 to 2026, Gemini 3.1 Pro |
 | the Digital Archaeologist role | ten: 2.1.3 to 5.3.0 | Gemini 3.1 Pro |
-| the cold reader welcome | 1.0.0, 1.1.0, 2.0.0 | after 8.2.3, as late-stage protocols, for Claude Opus 5 readers |
-| the red team standing instructions | 1.0.0 | after 8.2.3, as late-stage protocols, for Claude Opus 5 readers |
+| the cold reader welcome | 1.0.0, 1.1.0, 2.0.0 | after 8.2.3, for the middle stage, for Claude Opus 5 readers |
+| the red team standing instructions | 1.0.0 | after 8.2.3, for the middle stage, for Claude Opus 5 readers |
 | the framework, late stage | v9.0.0 to v9.3.3 | 2026-10-11, Claude Opus 5.5 |
 
 **Growth by accretion.** 3.1 carries four core protocols, six cognitive systems and nine executable
@@ -651,8 +651,9 @@ to produce. n of one.
 ### 8.1 What changed
 
 Every framework from 3.1 to 8.2.3 was written with, and tuned to, Gemini 3.1 Pro, the model that
-co-authored the case study's early and middle stages. The cold reader files followed 8.2.3, as
-the first late-stage protocols, written for readers on Claude Opus 5. On 2026-10-11 the project moved to a new workspace, and its framework was rebuilt
+co-authored the case study's early and middle stages. The cold reader files followed 8.2.3, for
+the middle stage, written for readers on Claude Opus 5. On 2026-10-11 the project moved to a new
+workspace, and its framework was rebuilt
 for Claude Opus 5.5 as **v9**, for the late stage of authoring. The earlier framework stays in
 force for early and middle stages, by the author's ruling.
 
