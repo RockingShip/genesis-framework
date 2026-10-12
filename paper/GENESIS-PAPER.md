@@ -104,8 +104,9 @@ and once.
 
 This is a claim about knowledge, and it produces an unusual architecture: **instruments designed
 to be spent.** A stream of fresh readers in place of one long collaborator, because understanding
-consumes the measurement. The project later named them *disposable agents*. Its sixth generation
-of readers began on 2026-10-11 with the framework this paper calls v9.
+consumes the measurement. The project later named them *disposable agents*. Its fifth generation
+was deprecated, its contributions carried into the sixth, which began on 2026-10-11 with the
+framework this paper calls v9.
 
 > **[READER]** *"You're not measuring the agent's ability to collaborate. You're measuring the
 > reader's first encounter with the manuscript. Agent as collaborator versus agent as measuring

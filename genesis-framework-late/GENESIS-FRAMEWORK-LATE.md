@@ -17,7 +17,8 @@ Successor in turn to the co-creative framework 8.2.3, [redacted], the red-team
 pair and the three role briefings, all of which remain on file as the incident record they are.
 
 **Generation** names the project's maturity level, combining content and framework: how late the
-late stage is. [redacted] The sixth began on
+late stage is. The fifth generation is deprecated; its contributions were carried into the sixth,
+which began on
 2026-10-11, with this framework series and `MANUSCRIPTr47`.
 
 **Fitted to the late stage.** The v9 series, from v9.0.0 on, is intended for **late-stage
@@ -698,7 +699,8 @@ paths.
 - *Intervention* added to the glossary.
 
 *Amended in place, numbering unchanged, on Xyzzy's ruling of 2026-10-13:* M7 kept, its situation
-stated for any volume or paper before the author's read.
+stated for any volume or paper before the author's read; the fifth generation named as deprecated,
+its contributions carried into the sixth.
 
 **v9.3.2**, 2026-10-11. Polish on the baseline, from the onboarding audit of the third reader of the
 sixth generation (`claude/capture/r47/2026-10-11-g6r03-onboarding-audit.md`). Earlier versions are
@@ -764,7 +766,7 @@ onboarding audit of the first reader of the sixth generation
 - 1.12: identification by generation and reader number, in the first reply and the capture file
   name, for archiving.
 - Generation defined, on Xyzzy's ruling: the maturity level, combining content and framework.
-  [redacted]
+  The fifth generation is deprecated.
 - Amended in place, numbering unchanged: the version-update procedure in Part 3, with the
   awakening file's *Current framework* line as the single place the version is named; the brief
   and the handover repointed to the awakening file.

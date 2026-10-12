@@ -59,7 +59,7 @@ An agent can leave the chat's own title to the app and to Xyzzy, who may rename 
 
 | term | meaning |
 | :--- | :--- |
-| **generation** | the project's maturity level, combining content and framework: how late the late stage is. [redacted]; the sixth began on 2026-10-11 with framework v9 and manuscript revision r47 |
+| **generation** | the project's maturity level, combining content and framework: how late the late stage is. The fifth generation is deprecated, its contributions carried into the sixth, which began on 2026-10-11 with framework v9 and manuscript revision r47 |
 | **reader** | one session's agent within a generation, numbered in order |
 | **r47** | manuscript revision 47, the current one |
 | **red** | the cold reader's stance: grounding and challenging, reporting stumbles plainly. Its sense here is the project's own: red is the challenger of the text, which differs from red and blue in security, where they name attacker and defender |
