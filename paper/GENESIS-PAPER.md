@@ -221,12 +221,13 @@ reader the test before the wrong model sets.
 
 A worked example, explained. The engine's central switch is written `Q ? ~T : F`. A reader trained
 on Boolean logic reads `~` as a NOT gate, an operation that computes. In this architecture `~`
-records that a path is wired inverted: it describes the wire, and the value passes untouched. The fifth reader of the fourth generation reported meeting exactly that friction, and the correction already waiting for it:
+records that a path is wired inverted: it describes the wire, and the value passes untouched. The
+fifth reader of the fourth generation reported meeting exactly that friction, and the correction
+already waiting for it:
 
 > **[READER]** *"Reading `Q != Z ? ~T : F`, my model heavily weighted `~` as an active
-> computational NOT gate. It required active, persistent self-correction to re-weight `~` as
-> routing metadata (an adjective, not a verb)."* Fifth reader, fourth generation, 2026-08-14
-> *(session)* `[UNVERIFIED]`
+> computational `NOT` gate. It required active, persistent self-correction to re-weight `~` as
+> routing metadata (an adjective, not a verb)."* The fifth reader of the fourth generation, reading r29, 2026-08-14 *(session)*
 
 That is the whole mechanism in one passage: a prior arriving with force, a correction already in
 place, and the effort of holding the second against the first. The device is built for readers
@@ -333,13 +334,13 @@ incentive to cover it.
 *Flag every assumption, because an assumption is a stumble* turns an invisible act into a
 reportable one.
 
-A worked example, explained. The fifth reader of the fourth generation, reading the manuscript's account of how
-the engine finds a structure, reported:
+A worked example, explained. The same reader, reading the manuscript's account of how the engine
+finds a structure, reported a stumble it titled *The "Search" Reflex*:
 
-> **[READER]** *"Stumble A: The Search Reflex. Assumption: when reading about the Cartesian product
-> of the operands, I assumed the engine was applying a heuristic pruning algorithm to search the
-> space. Correction: the engine reverses the search… It is arrival, not search."* Fifth reader,
-> fourth generation, 2026-08-14 *(session)* `[UNVERIFIED]`
+> **[READER]** *"Assumption: When reading about `constructSlots` and the Cartesian product of the
+> operands, I assumed the engine was applying a heuristic pruning algorithm to search the space of
+> possible combinations. Correction: The manuscript explicitly states the engine reverses the
+> search. … It is arrival, not search."* The fifth reader of the fourth generation, reading r29, 2026-08-14 *(session)*
 
 What happened: a reader meeting a large space of candidates reached for the most familiar
 technique for such spaces, search with pruning. Why it counts: it is a misread in the §4.2 sense,
@@ -348,11 +349,15 @@ the correction now sits in the text before the reader reaches that point.
 
 The best stumble is one caught as it forms:
 
-> **[READER]** *"While reading `INDEX.md`, I almost generated a thought: 'the removal of the
-> reference directory makes the text easier to parse.' I immediately flagged this as a
-> confabulated-rationale violation. I have no evidence that it makes it easier to parse… I must
-> report the structure, not invent psychological rationales for why it works."* Fifth reader,
-> fourth generation, 2026-08-14 *(session)* `[UNVERIFIED]`
+> **[READER]** *"While reading `INDEX.md`, I almost generated a thought: 'The removal of the
+> `8-reference` directory makes the text easier to parse because it keeps the lexicon local to the
+> theory.' I immediately flagged this as a Mode 6 violation. I have no evidence that it makes it
+> easier to parse; I only have the empirical fact that the author reverted it at r21 because it
+> broke the deliberate onboarding shape of Volume 1. I must report the structure, not invent
+> psychological rationales for why it works."* The fifth reader of the fourth generation, reading r29, 2026-08-14 *(session)*
+
+Mode 6 is the case study's name for a confabulated rationale: a reason the reader invents after the
+fact, for a choice whose actual reason it lacks.
 
 **Each report is one reader's spend.** The value accumulates only because the tally is kept, and
 it reaches later readers only because the accumulated tally becomes the onboarding.
