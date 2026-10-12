@@ -89,6 +89,8 @@ This repository was written by AI agents at the sentence level, in co-authorship
 
 So the sentences are generated, and the content is authored. A generative tool produces content from a prompt. Here the content comes from the author, and what the agents contribute is that it holds together. The models involved are named under *Models*. Every commit names xyzzy as its author and Claude as its committer.
 
+[`case-study/reachingConsensus.md`](case-study/reachingConsensus.md) shows the process on a single paragraph: fifteen versions, each a proposal, each move from one to the next the author's response to it.
+
 ## Thanks
 
 The framework grew from two models in two roles. Gemini 3.1 Pro brought the blue team mindset: an

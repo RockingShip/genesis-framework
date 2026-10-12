@@ -34,6 +34,11 @@ understands.
 The [paper](../paper/GENESIS-PAPER.md) gives the account in full: the instruments, the
 incidents behind the rules, the measurements, and the four readers who tested v9 on its first day.
 
+## Reaching consensus, shown
+
+[`reachingConsensus.md`](reachingConsensus.md) follows one paragraph, the closing lines of a letter
+saying what the work is, through fifteen versions to the one both co-authors agreed on.
+
 ## Where to find more
 
 The manuscript is pending public release. Its home is the RockingShip Research site,
