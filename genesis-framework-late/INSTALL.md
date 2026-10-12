@@ -41,7 +41,7 @@ The closest fit: the case study runs this way.
 
 ## Claude, standalone chat
 
-A single chat with no project: everything travels in the first message.
+A single chat outside any project: everything travels in the first message.
 
 1. **First message:** attach `genesisCore.md`, `awakening.md` and `voice0.md`, and write: *Read the
    attached rules and both entry files before anything else.* Then paste your welcome below it.
