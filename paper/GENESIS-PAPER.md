@@ -657,11 +657,12 @@ workspace, and its framework was rebuilt
 for Claude Opus 5.5 as **v9**, for the late stage of authoring. The earlier framework stays in
 force for early and middle stages, by the author's ruling.
 
-The case study passed through three stages. **The early stage** was pure knowledge collection, in
-two phases because of account separation; the second phase introduced the Digital Archaeologist to
-recover the knowledge of the first. **The middle stage** began once most of the knowledge was
-collected, and the work turned to scrubbing, sanitising and organising; the cold readers on Claude
-joined here. **The late stage** began at manuscript revision r46 and consolidates a manuscript close
+The case study passed through three stages. **The early stage**, from June 2025, was pure knowledge
+collection, in two phases because of account separation; the second phase introduced the Digital
+Archaeologist to recover the knowledge of the first. **The middle stage** began around the tenth
+book draft, in late May 2026, once most of the knowledge was collected, and the work turned to
+scrubbing, sanitising and organising; the cold readers on Claude joined here, and on 2026-08-14 the
+three volumes were combined into manuscript revision r19. **The late stage** began at manuscript revision r46 and consolidates a manuscript close
 to complete; v9 was written for it during r47.
 
 > **[AUTHOR]** *"Everything upto v9 was done, interacted and was tuned to "Gemini 3.1 Pro". v9 and
