@@ -45,7 +45,7 @@ so a figure is a reading on a date.
 **One standing principle governs the whole paper:**
 
 > **[AUTHOR]** *"Behind every sentence goes a 'why', and each should be answered in a direct or
-> indirect way. If the answer is 'dunno', then one is either lying or too lazy to think."*
+> indirect way. If the answer is 'dunno', that is where the thinking starts."*
 > *(session)* `[UNVERIFIED]`
 
 ---
