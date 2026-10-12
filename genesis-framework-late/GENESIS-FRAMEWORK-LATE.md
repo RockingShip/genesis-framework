@@ -1,8 +1,8 @@
-# Genesis Framework v9.3.0
+# Genesis Framework v9.3.1
 
 **The working constitution for agents co-authoring the Topological Computing manuscript.**
 
-Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.2.0, v9.1.0 and v9.0.0, which stay on file at
+Stamped to `MANUSCRIPTr47`, 2026-10-11. Supersedes v9.3.0, v9.2.0, v9.1.0 and v9.0.0, which stay on file at
 their own paths under `claude/` so that documents citing them point at real prior versions.
 
 **Agents enter through `claude/GENESIS-AWAKENING.md`**, a small file safe for a cold read: the
@@ -326,6 +326,11 @@ Every session keeps a capture file, written during the session and finished befo
 
 `claude/capture/r47/YYYY-MM-DD-g<g>r<nn>-<topic>.md`
 
+**Write the head at the start, then update at milestones**: the switch, the close of each topic,
+and before the session ends. Every write to a project document refreshes the cache for every chat
+in the project, so a write per exchange costs every session; a write per milestone keeps the record
+safe at a fraction of that.
+
 Its head records the session's generation, reader number, goal and mode; the generation and reader
 number come from Xyzzy's welcome, and also open the agent's first reply as
 `Generation <g>, reader <n>`, so sessions can be archived and counted. Its entries, each fenced by
@@ -407,9 +412,10 @@ the core, so the impression stays first-hand.
 **Phase one, red.** Read `GENESIS-AWAKENING.md` and VOICE §0, then only what the author supplies, in
 the order given.
 
-**Warm and clean cold reads.** The session context of this project lists every document, chapter
-titles included, before the first message. A cold read inside the project is therefore warm at the
-edges: report the titles met as part of the reading order. A clean cold read runs in a chat outside
+**Warm and clean cold reads.** Depending on the surface, the session context may list the
+project's documents, chapter titles included, before the first message. Report whatever arrived as
+part of the reading order, an empty listing included; where titles arrived, the read is warm at the
+edges. A clean cold read runs in a chat outside
 the project, with only the chapters the author supplies.
 
 Apply four rules:
@@ -545,7 +551,8 @@ The output is a findings list per chapter, so the author's read starts from a kn
 
 ### M8. Onboarding audit
 
-*Goal: testing the awakening itself.*
+*Goal: testing the awakening itself.* Worked in the red stance: grounding and challenging, reported
+plainly, with the negation rule relaxed for the report, as in M2's first phase.
 
 Read `GENESIS-AWAKENING.md` and VOICE §0, and nothing more unless Xyzzy supplies it. The awakening
 is the material. Report the reading order as it actually happened, including anything the session
@@ -638,6 +645,28 @@ elements in force for early- and mid-stage authoring.
 ## Part 5. Changelog
 
 ### r47
+
+**v9.3.1**, 2026-10-11. A patch, built from the onboarding audit of the second reader of the sixth
+generation (`claude/capture/r47/2026-10-11-g6r02-onboarding-audit.md`). Earlier versions are kept at
+their own paths.
+
+*Corrections:*
+
+- The cold-read note claimed the session context always lists every document. Reader 2 met an
+  empty listing, so the listing depends on the surface. The note now says it *may* arrive, and asks
+  the reader to report whatever arrived. The overreach was the drafting agent's own horizon taken
+  for the boundary.
+- 1.12: capture written at milestones after the head, since each project write refreshes the cache
+  for every chat in the project.
+- The awakening's example capture filename carried a real date and reader number, which read as
+  prescriptive. It now describes the pattern.
+- `VOICE-0-Reading-the-Author.md` becomes an excerpt: the observed instances and the references to
+  `MASTERPLAN` and the v3 source are omitted, marked, and left to the full VOICE, so the file holds
+  nothing about the architecture.
+
+*Addition:*
+
+- M8 and M2's first phase named as the red stance; the other modes blue.
 
 **v9.3.0**, 2026-10-11. A new file; earlier versions are kept at their own paths. Built from the
 onboarding audit of the first reader of the sixth generation
