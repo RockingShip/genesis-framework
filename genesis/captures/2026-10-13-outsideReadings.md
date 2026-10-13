@@ -21,6 +21,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - The paper's revisions are tagged `paper-rN`, so they are visible beside the file. `paper-r3` sits at `cd0eda0`, r3's final state, placed by hand; from r4 the author's tag script places them from the exact subject `GENESIS-PAPER rN`. [AUTHOR]
 - P7, the Gemini dating, ruled on evidence: *The early frameworks, 3.1 to 8.2.0, were written with Gemini 2.5 Pro. The author moved to Gemini 3 Pro on its release in November 2025, and to Gemini 3.1 Pro by March 2026. Dated from a dump of the session files taken in March 2026 for the archaeologist; later Gemini work is unrecorded.* The author's quote in §8.1 stays verbatim, with a dated note. This replaces the earlier reconstruction from release dates. [AUTHOR]
 - The author's session snapshots of April to June 2026 are private and for internal use only: used for knowledge extraction, cited nowhere public, and deleted from the session once r4 is settled. [AUTHOR]
+- An early onboarding letter told agents to stop doubting the work's foundations. Its reason, in the author's account: agents stalled on topics scheduled for later and declined to continue until those were solved, which drew attention from the authoring needed to get there. A fix for a problem the files should have prevented; the manuscript now states the boundary, storage covered and solving deferred by design. [AUTHOR]
 - The friend's response stays with the author until more responses arrive. [AUTHOR]
 - Genesis was meant to reach the essence and quality of the untangle v2 README, which the author wrote by hand. r4 uses that README as its baseline, with short quotes, a rhythm table, and the summarising reader's loss of form recorded as a stumble. [AUTHOR]
 - The order of the origin: writing stalled first; AI then arrived as a writing tool and disappointed, through poor quality and detail, erosion by summarising, misunderstanding, and a lack of pushback and challenge. Those frustrations formed the basis of the framework. r4 tells this in the third person, near the front, because the background explains motivation, direction and goal. [AUTHOR]
@@ -62,6 +63,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 | this conversation, on the reader's mode | named the fresh paper reading M7, which is the pre-read audit; it is M2's cold read | misread | low |
 | the session files, on Gemini 3.1 Pro | read the end of the dump as the end of the model's use; a horizon error, corrected by the author's account of the dumps | misread | medium |
 | this conversation, after reader 6 | followed each evidence chain on dates and models to its end, deep into case-study detail the paper needed one sentence of; the framework offers no test for where a verified fact belongs | unanticipated | high |
+| an early onboarding letter | read it as flattery that disarmed the reader, a reason supplied where the record was silent (Mode 6); the author gave the real one | misread | medium |
 | capture headers | a scripted header first read "ChatGPT's an assessment"; rewritten before commit | misread | low |
 
 ## Open
