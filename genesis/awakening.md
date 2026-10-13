@@ -55,7 +55,7 @@ Xyzzy's standing instruction, verbatim:
 
 - **File names:** content files in lowerCamelCase, Latin-1, without spaces (`genesisCore.md`).
   Products in capitals (`GENESIS-PAPER.md`, `GENESIS-FRAMEWORK-LATE.md`). Conventional files keep
-  their conventional names (`README.md`, `AGENTS.md`, `SKILL.md`, `LICENSE-MIT.txt`, `LICENSE-CC-BY-4.0.txt`). Files that hold
+  their conventional names (`README.md`, `AGENTS.md`, `SKILL.md`, `LICENSE-MIT.txt`, `LICENSE-CC-BY.txt`). Files that hold
   verbatim history keep their original base names. The case study, which lives outside git, is
   named with its revision: `TOPOLOGICAL-MANUSCRIPT-r47`.
 - **Versions:** one file per artefact; each version is a commit of that file, with the version in

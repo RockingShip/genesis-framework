@@ -108,7 +108,7 @@ Each artefact is one file, and its versions are its commits in git, each named i
 
 ## Licence
 
-* Method and prose, including the rules (`genesisCore.md`, `AGENTS.md`, `SKILL.md`) and both frameworks: Creative Commons Attribution 4.0 International, see [LICENSE-CC-BY-4.0.txt](LICENSE-CC-BY-4.0.txt).
+* Method and prose, including the rules (`genesisCore.md`, `AGENTS.md`, `SKILL.md`) and both frameworks: Creative Commons Attribution 4.0 International, see [LICENSE-CC-BY.txt](LICENSE-CC-BY.txt).
 * Templates and scripts: MIT, see [LICENSE-MIT.txt](LICENSE-MIT.txt).
 
 The software of the Topological case study is a separate project with its own licensing, and lives outside this repository.

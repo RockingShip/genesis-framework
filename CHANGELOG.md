@@ -12,6 +12,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 2026-10-13 01:50:06 Added: a convention for release notes, naming each versioned artefact by its path with the version in brackets; the backlog updated after release 1.1.0.
 2026-10-13 12:25:00 Fixed: the README contents table and tag range brought to the late line 9.4.0; `LICENSE.txt` renamed `LICENSE-MIT.txt`, so GitHub shows both licences rather than MIT alone. Both found by an outside reading of the repository.
 2026-10-13 18:00:00 Fixed: `LICENSE-CC-BY-4.0.txt` replaced by the canonical plain-text legal code, so GitHub recognises it; the earlier copy was a reflowed web version.
+2026-10-13 18:20:00 Fixed: `LICENSE-CC-BY-4.0.txt` renamed `LICENSE-CC-BY.txt`; the dots in "4.0" put the name outside the patterns GitHub uses to find licence files.
 ```
 
 ## [1.1.0] - 2026-10-13

@@ -65,4 +65,4 @@ Where each version came from, and what reads across them, is in the case study's
 
 ## Licence
 
-Method and prose, under CC BY 4.0; see [`LICENSE-CC-BY-4.0.txt`](../LICENSE-CC-BY-4.0.txt).
+Method and prose, under CC BY 4.0; see [`LICENSE-CC-BY.txt`](../LICENSE-CC-BY.txt).

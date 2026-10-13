@@ -72,5 +72,5 @@ remove the author's name, references to a retired framework, and personal detail
 ## Licence
 
 The rules (`genesisCore.md`, `AGENTS.md`, `skills/genesis/SKILL.md`), the full framework and
-`readerAudits.md` are method, under CC BY 4.0; see [`LICENSE-CC-BY-4.0.txt`](../LICENSE-CC-BY-4.0.txt).
+`readerAudits.md` are method, under CC BY 4.0; see [`LICENSE-CC-BY.txt`](../LICENSE-CC-BY.txt).
 The templates are under MIT; see [`LICENSE-MIT.txt`](../LICENSE-MIT.txt).
