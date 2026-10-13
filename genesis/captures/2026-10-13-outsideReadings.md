@@ -35,6 +35,8 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - The untangle v2 README carries `@date` markers from 2020-03-05 to 2021-05-18. Against the paper r3, its sentences average 12.7 words against 17.1, and it uses 9.2 negations per 1,000 words against 0.7 (a rough count). [VERIFIED]
 - A fetch tool's summary of that README kept the content and lost the form: the staircase, the one sentence per line, the purposeful asides. It took the form's traces for filler. [VERIFIED]
 - r3 exists in two states: as released in 1.0.0, and amended in place by `cd0eda0` (the fifth generation named as deprecated) before 1.1.0. Gemini, naming 1.0.0, probably read the first; ChatGPT the second. [VERIFIED]
+- Reader 6 of generation 6 read r3 in M2's red stance, inside the project with the awakening loaded, so warm on its terms. It reported 23 findings and estimated nine tenths of the prose as agent drafted. It placed its two dated inconsistencies, P6 and P7, in passages it took for the author's dictation, and proposed the seams between the two hands as the likeliest site of error. [VERIFIED]
+- Gemini 3.1 Pro arrived on 2026-02-19, so frameworks from June 2025 predate it; the paper's §5.1 and §8.1 date it to 2025. [VERIFIED]
 - Gemini reads in superlatives and ChatGPT in qualifications, the same contrast as the Thanks section's blue and red. [READER]
 
 ## Stumbles
@@ -46,13 +48,13 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 | untangle README, through the fetch tool | a summary stood in for the text; the full read showed the form it had lost | unanticipated | medium |
 | `LICENSE-CC-BY-4.0.txt` | took GitHub's single licence for a detection limit; the author found the file was a reflowed web copy, unmatched by the canonical text; with the text fixed, still unseen, because the dots in "4.0" fall outside licensee's filename patterns, so the file was renamed `LICENSE-CC-BY.txt` | misread | medium |
 | this conversation, on r3's anchor | named `v1.0.0` as r3's frozen state; r3 was amended after that release | misread | medium |
+| this conversation, on the reader's mode | named the fresh paper reading M7, which is the pre-read audit; it is M2's cold read | misread | low |
 | capture headers | a scripted header first read "ChatGPT's an assessment"; rewritten before commit | misread | low |
 
 ## Open
 
 *Carried to `genesis/backlog.md`.*
 
-- The fresh Claude reading of r3 under M7: the prompt is still to be drafted, and it reaches the paper only through its permalink at `paper-r3`. [AUTHOR-VERIFY]
 - Whether the sidebar shows both licences, or each folder needs a licence notice. [AUTHOR-VERIFY]
 - The place of the friend's response. [AUTHOR-VERIFY]
 - The repository's description, homepage link and topics, deferred by the author. [AUTHOR-VERIFY]
