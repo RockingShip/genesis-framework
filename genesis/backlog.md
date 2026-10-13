@@ -20,6 +20,7 @@ resolved only on xyzzy's ruling. This list is paired with the case study's
 | the table width fix carried into the theme itself, for every RockingShip site | the session of 2026-10-13 | author | `RockingShip/moonwalk`, `moonwalk.css` | open, optional |
 | the next release, carrying the changes listed as Unreleased; its notes name each versioned artefact by its path, with the version in brackets | `CHANGELOG.md`; the author's remark on 1.1.0 | author | tag `vX.Y.Z` and a release | open |
 | the tag `paper-r3` at `cd0eda0`, signed, and the tag script extended to place `paper-rN` from r4 | the session of 2026-10-13 | author | tag `paper-r3` | open |
+| delete the unpacked copy of the author's private session snapshots, kept for knowledge extraction only | the author's ruling of 2026-10-13 | agent | the session's scratch space | open, when r4 is settled |
 | the paper r4, drafted on a branch and landed as one commit `GENESIS-PAPER r4` after the author's review in a pull request | the session of 2026-10-13 | agent drafts, author rules | `paper/GENESIS-PAPER.md` | open |
 | r4: a line under the title naming the repository, with permalinks at its tag `paper-rN` and its release | the author, 2026-10-13 | agent drafts, author rules | `paper/GENESIS-PAPER.md` | open |
 | r4: an authorship statement near the front, along three dimensions (drafted prose, ideas, editorial authority), with the three models' estimates as evidence | the authorship readings of 2026-10-13; the author's ruling of 13:25 | agent drafts, author rules | `paper/GENESIS-PAPER.md` | open |
