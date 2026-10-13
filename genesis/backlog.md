@@ -8,7 +8,6 @@ resolved only on xyzzy's ruling. This list is paired with the case study's
 
 | item | source | who acts | destination | status |
 | :--- | :--- | :--- | :--- | :--- |
-| a check that GitHub's sidebar shows both licences; otherwise a licence notice in each folder | the session of 2026-10-13 | author checks, agent writes | the repository page; each folder | open |
 | the repository's description, homepage link and topics, so it reaches GitHub search and the `genesis-framework` topic | the session of 2026-10-13 | author rules, agent sets | the repository settings | open, later |
 | an island and mainland section in the awakening template: what readers will mistake the work for, what it is, and where the comparison ends | Gemini's review, 2026-10-13 | author rules, agent drafts | `genesis-framework-late/templates/awakening.md` | open |
 | a script listing every open `[AUTHOR-VERIFY]` across the captures, to check that each has reached this backlog | Gemini's review, 2026-10-13 | author rules, agent writes | a `scripts/` folder, under MIT | open |
@@ -31,6 +30,7 @@ resolved only on xyzzy's ruling. This list is paired with the case study's
 | r4: the summarising reader that kept the README's content and lost its form, recorded as a stumble | the session of 2026-10-13 | agent drafts, author rules | `paper/GENESIS-PAPER.md` | open |
 | r4: an origin paragraph near the front, in the third person: writing stalled under ideas too large for the page; AI as a writing tool disappointed (quality and detail, erosion by summarising, misunderstanding, a lack of pushback); the framework was built to answer each frustration, with the untangle README as the standard held | the author, 2026-10-13 13:45; ruling of 13:46 | agent drafts, author rules | `paper/GENESIS-PAPER.md`, introduction | open |
 | r4 inputs still to gather: a fresh Claude reading of r3 under M7; the friend's response, once its place is ruled | the session of 2026-10-13 | author, agent | `genesis/captures/` | open |
+| GitHub's sidebar shows both licences: `LICENSE-MIT.txt` and `LICENSE-CC-BY.txt`, the latter as canonical legal code under a name GitHub's patterns accept | the session of 2026-10-13 | author checks, agent writes | the repository page | resolved, 2026-10-13 |
 | framework sessions share the Topological project with the case study, separated by the `GENESIS-` prefix and kept in step through paired files | the framework session, 2026-10-13 | author | the case study's `claude/STANDING-Project-Layout.md` | resolved, 2026-10-13 |
 | release 1.1.0, signed, with `late-9.4.0` tagged | the session of 2026-10-13 | author | tags `v1.1.0`, `late-9.4.0` | resolved, 2026-10-13 |
 | the Pages view on the moonwalk theme, outside the RockingShip showcase | the session of 2026-10-12 | author, agent | `_config.yml`, `assets/genesis.css` | resolved, 2026-10-13 |
