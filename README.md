@@ -104,7 +104,7 @@ had shown.
 
 ## Versioning
 
-Each artefact is one file, and its versions are its commits in git, each named in its commit's subject, such as `GENESIS-FRAMEWORK-LATE 9.3.3` or `GENESIS-PAPER r3`. Every version of the two framework files also carries a tag: `early-3.1` to `early-8.2.3` for the early line, `late-9.0.0` to `late-9.4.0` for the late. The two lines take their own version numbers, so a bump in one leaves the other untouched; the late line's portable rules follow its numbers. Releases of the whole repository are tagged `vX.Y.Z`, starting with `v1.0.0`. See each file's history with `git log --follow <file>`, or its *History* view on GitHub. The [changelog](CHANGELOG.md) summarises every change.
+Each artefact is one file, and its versions are its commits in git, each named in its commit's subject, such as `GENESIS-FRAMEWORK-LATE 9.3.3` or `GENESIS-PAPER r3`. Every version of the two framework files also carries a tag: `early-3.1` to `early-8.2.3` for the early line, `late-9.0.0` to `late-9.4.0` for the late. Each revision of the paper carries a tag `paper-rN`, from `paper-r3` onwards; r3 was amended in place after release 1.0.0, so `paper-r3` marks its final state. The two lines take their own version numbers, so a bump in one leaves the other untouched; the late line's portable rules follow its numbers. Releases of the whole repository are tagged `vX.Y.Z`, starting with `v1.0.0`. See each file's history with `git log --follow <file>`, or its *History* view on GitHub. The [changelog](CHANGELOG.md) summarises every change.
 
 ## Licence
 

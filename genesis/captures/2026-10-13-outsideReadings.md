@@ -18,6 +18,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - The two sides of the coin, co-author and cold reader, are named in r4. So are the three dimensions of authorship and the register of a reader as a property of the measurement. They give depth and an axis to what was thought and poorly voiced. [AUTHOR]
 - The authorship estimates enter r4 where they benefit the paper. [AUTHOR]
 - r4 is drafted on a branch, reviewed in one pull request, and lands as one commit `GENESIS-PAPER r4`. Records and small fixes go to `main` as they happen. [AUTHOR]
+- The paper's revisions are tagged `paper-rN`, so they are visible beside the file. `paper-r3` sits at `cd0eda0`, r3's final state, placed by hand; from r4 the author's tag script places them from the exact subject `GENESIS-PAPER rN`. [AUTHOR]
 - The friend's response stays with the author until more responses arrive. [AUTHOR]
 - Genesis was meant to reach the essence and quality of the untangle v2 README, which the author wrote by hand. r4 uses that README as its baseline, with short quotes, a rhythm table, and the summarising reader's loss of form recorded as a stumble. [AUTHOR]
 - The order of the origin: writing stalled first; AI then arrived as a writing tool and disappointed, through poor quality and detail, erosion by summarising, misunderstanding, and a lack of pushback and challenge. Those frustrations formed the basis of the framework. r4 tells this in the third person, near the front, because the background explains motivation, direction and goal. [AUTHOR]
@@ -33,6 +34,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - Gemini's claim of 100 per cent human ideas meets the author's statement that island and mainland came from Claude. [VERIFIED]
 - The untangle v2 README carries `@date` markers from 2020-03-05 to 2021-05-18. Against the paper r3, its sentences average 12.7 words against 17.1, and it uses 9.2 negations per 1,000 words against 0.7 (a rough count). [VERIFIED]
 - A fetch tool's summary of that README kept the content and lost the form: the staircase, the one sentence per line, the purposeful asides. It took the form's traces for filler. [VERIFIED]
+- r3 exists in two states: as released in 1.0.0, and amended in place by `cd0eda0` (the fifth generation named as deprecated) before 1.1.0. Gemini, naming 1.0.0, probably read the first; ChatGPT the second. [VERIFIED]
 - Gemini reads in superlatives and ChatGPT in qualifications, the same contrast as the Thanks section's blue and red. [READER]
 
 ## Stumbles
@@ -43,13 +45,14 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 | this conversation, after compaction | Gemini's first review lived only in the compressed part; it had to be pasted again | unanticipated | medium |
 | untangle README, through the fetch tool | a summary stood in for the text; the full read showed the form it had lost | unanticipated | medium |
 | `LICENSE-CC-BY-4.0.txt` | took GitHub's single licence for a detection limit; the author found the file was a reflowed web copy, unmatched by the canonical text; with the text fixed, still unseen, because the dots in "4.0" fall outside licensee's filename patterns, so the file was renamed `LICENSE-CC-BY.txt` | misread | medium |
+| this conversation, on r3's anchor | named `v1.0.0` as r3's frozen state; r3 was amended after that release | misread | medium |
 | capture headers | a scripted header first read "ChatGPT's an assessment"; rewritten before commit | misread | low |
 
 ## Open
 
 *Carried to `genesis/backlog.md`.*
 
-- The fresh Claude reading of r3 under M7: the prompt is still to be drafted, and it reaches the paper only through its permalink at `v1.0.0`. [AUTHOR-VERIFY]
+- The fresh Claude reading of r3 under M7: the prompt is still to be drafted, and it reaches the paper only through its permalink at `paper-r3`. [AUTHOR-VERIFY]
 - Whether the sidebar shows both licences, or each folder needs a licence notice. [AUTHOR-VERIFY]
 - The place of the friend's response. [AUTHOR-VERIFY]
 - The repository's description, homepage link and topics, deferred by the author. [AUTHOR-VERIFY]
@@ -57,4 +60,4 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 ## For the next agent
 
 Read `genesis/backlog.md`, the rows beginning *r4*, then the five readings of 2026-10-13 in this
-folder. The paper r3 is frozen at tag `v1.0.0`. Draft r4 on a branch.
+folder. The paper r3 is frozen at tag `paper-r3`, commit `cd0eda0`. Draft r4 on a branch.
