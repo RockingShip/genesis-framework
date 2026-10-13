@@ -42,6 +42,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 | `README.md`, contents table | the 1.1.0 bump updated the status line and left the table and tag range at 9.3.3 | unanticipated | high |
 | this conversation, after compaction | Gemini's first review lived only in the compressed part; it had to be pasted again | unanticipated | medium |
 | untangle README, through the fetch tool | a summary stood in for the text; the full read showed the form it had lost | unanticipated | medium |
+| `LICENSE-CC-BY-4.0.txt` | took GitHub's single licence for a detection limit; the author found the file was a reflowed web copy, unmatched by the canonical text | misread | medium |
 | capture headers | a scripted header first read "ChatGPT's an assessment"; rewritten before commit | misread | low |
 
 ## Open
