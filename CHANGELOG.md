@@ -14,6 +14,7 @@ Each artefact keeps its own versions as commits and tags; this file summarises t
 2026-10-13 18:00:00 Fixed: `LICENSE-CC-BY-4.0.txt` replaced by the canonical plain-text legal code, so GitHub recognises it; the earlier copy was a reflowed web version.
 2026-10-13 18:20:00 Fixed: `LICENSE-CC-BY-4.0.txt` renamed `LICENSE-CC-BY.txt`; the dots in "4.0" put the name outside the patterns GitHub uses to find licence files.
 2026-10-13 18:35:00 Added: the paper's revisions are tagged `paper-rN`; `paper-r3` marks r3's final state, after its amendment in place.
+2026-10-13 22:45:00 Added: link references at the foot of this changelog, comparing each release with the one before.
 ```
 
 ## [1.1.0] - 2026-10-13
@@ -94,3 +95,7 @@ many sessions, with its own history and its case study.
 2026-10-12 18:28:29 Added: `genesis-framework-early/`: `GENESIS-FRAMEWORK-EARLY.md` 3.1 to 8.2.3, with its roles in `roles/`.
 2026-10-12 18:28:29 Added: README with the choice between the lines and how the pieces fit; licences (MIT and CC BY 4.0), `.gitignore` and `.gitattributes`.
 ```
+
+[Unreleased]: https://github.com/RockingShip/genesis-framework/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/RockingShip/genesis-framework/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/RockingShip/genesis-framework/releases/tag/v1.0.0
