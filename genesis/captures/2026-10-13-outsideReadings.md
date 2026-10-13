@@ -46,6 +46,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - The stages, in the author's words: the BOOK files are the early stage, knowledge gathering where anything goes, stumbles and mistakes included; the middle stage fixed mishaps and brought consistency; with Claude able to package ZIP archives came the first bundling, where curation of what to include, seamlessness and editorial choices caused the burst of 2026-08-14; once the first manuscript took form, the author returned to coding. [AUTHOR]
 - The untangle repository's history agrees: heavy coding from 2020 to early 2022, a pause, coding resumed in March 2026, and after the burst of 2026-08-14 the next commit on 2026-08-17. Dated by commit. [VERIFIED]
 - The model timeline belongs to the case study; the paper needs one accurate sentence on it. [AUTHOR]
+- About a year before, the author asked Claude to adapt the early framework; Claude declined, with as one reason that it could supply none of the mechanisms the framework asked it to run. The conversation is lost; the author's account is the only source. The late line keeps every mechanism outside the model. [AUTHOR]
 - Gemini reads in superlatives and ChatGPT in qualifications, the same contrast as the Thanks section's blue and red. [READER]
 
 ## Stumbles
@@ -59,6 +60,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 | this conversation, on r3's anchor | named `v1.0.0` as r3's frozen state; r3 was amended after that release | misread | medium |
 | this conversation, on the reader's mode | named the fresh paper reading M7, which is the pre-read audit; it is M2's cold read | misread | low |
 | the session files, on Gemini 3.1 Pro | read the end of the dump as the end of the model's use; a horizon error, corrected by the author's account of the dumps | misread | medium |
+| this conversation, after reader 6 | followed each evidence chain on dates and models to its end, deep into case-study detail the paper needed one sentence of; the framework offers no test for where a verified fact belongs | unanticipated | high |
 | capture headers | a scripted header first read "ChatGPT's an assessment"; rewritten before commit | misread | low |
 
 ## Open

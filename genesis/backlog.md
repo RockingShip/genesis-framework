@@ -9,6 +9,7 @@ resolved only on xyzzy's ruling. This list is paired with the case study's
 | item | source | who acts | destination | status |
 | :--- | :--- | :--- | :--- | :--- |
 | the repository's description, homepage link and topics, so it reaches GitHub search and the `genesis-framework` topic | the session of 2026-10-13 | author rules, agent sets | the repository settings | open, later |
+| a destination test in the framework: before following a thread, name its destination (framework, paper or case study) and spend effort in proportion to what it needs | the session of 2026-10-13, the drift after reader 6 | author rules, agent drafts | `genesis-framework-late/GENESIS-FRAMEWORK-LATE.md` | open |
 | an island and mainland section in the awakening template: what readers will mistake the work for, what it is, and where the comparison ends | Gemini's review, 2026-10-13 | author rules, agent drafts | `genesis-framework-late/templates/awakening.md` | open |
 | a script listing every open `[AUTHOR-VERIFY]` across the captures, to check that each has reached this backlog | Gemini's review, 2026-10-13 | author rules, agent writes | a `scripts/` folder, under MIT | open |
 | an init script that copies the templates into a new `genesis/` folder and starts a dated capture | Gemini's review, 2026-10-13 | author rules, agent writes | a `scripts/` folder, under MIT | open |
