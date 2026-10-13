@@ -19,6 +19,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - The authorship estimates enter r4 where they benefit the paper. [AUTHOR]
 - r4 is drafted on a branch, reviewed in one pull request, and lands as one commit `GENESIS-PAPER r4`. Records and small fixes go to `main` as they happen. [AUTHOR]
 - The friend's response stays with the author until more responses arrive. [AUTHOR]
+- Genesis was meant to reach the essence and quality of the untangle v2 README, which the author wrote by hand. r4 uses that README as its baseline, with short quotes, a rhythm table, and the summarising reader's loss of form recorded as a stumble. [AUTHOR]
 
 ## Learned
 
@@ -29,6 +30,8 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - The authorship estimates of agent-drafted prose: ChatGPT 60 to 80 per cent, Gemini about 95, the agent's prediction 70 to 90. All three take the substance and the verdicts as human. [VERIFIED]
 - Gemini attributes the sentence "written entirely by agents" to the README. It sits in `GENESIS-FRAMEWORK-LATE.md`, line 92. [VERIFIED]
 - Gemini's claim of 100 per cent human ideas meets the author's statement that island and mainland came from Claude. [VERIFIED]
+- The untangle v2 README carries `@date` markers from 2020-03-05 to 2021-05-18. Against the paper r3, its sentences average 12.7 words against 17.1, and it uses 9.2 negations per 1,000 words against 0.7 (a rough count). [VERIFIED]
+- A fetch tool's summary of that README kept the content and lost the form: the staircase, the one sentence per line, the purposeful asides. It took the form's traces for filler. [VERIFIED]
 - Gemini reads in superlatives and ChatGPT in qualifications, the same contrast as the Thanks section's blue and red. [READER]
 
 ## Stumbles
@@ -37,6 +40,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 | :--- | :--- | :--- | :--- |
 | `README.md`, contents table | the 1.1.0 bump updated the status line and left the table and tag range at 9.3.3 | unanticipated | high |
 | this conversation, after compaction | Gemini's first review lived only in the compressed part; it had to be pasted again | unanticipated | medium |
+| untangle README, through the fetch tool | a summary stood in for the text; the full read showed the form it had lost | unanticipated | medium |
 | capture headers | a scripted header first read "ChatGPT's an assessment"; rewritten before commit | misread | low |
 
 ## Open
