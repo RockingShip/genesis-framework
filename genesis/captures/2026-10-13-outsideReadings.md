@@ -38,6 +38,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - r3 exists in two states: as released in 1.0.0, and amended in place by `cd0eda0` (the fifth generation named as deprecated) before 1.1.0. Gemini, naming 1.0.0, probably read the first; ChatGPT the second. [VERIFIED]
 - Reader 6 of generation 6 read r3 in M2's red stance, inside the project with the awakening loaded, so warm on its terms. It reported 23 findings and estimated nine tenths of the prose as agent drafted. It placed its two dated inconsistencies, P6 and P7, in passages it took for the author's dictation, and proposed the seams between the two hands as the likeliest site of error. [VERIFIED]
 - Gemini 3.1 Pro arrived on 2026-02-19, so frameworks from June 2025 predate it; the paper's §5.1 and §8.1 date it to 2025. [VERIFIED]
+- The author's AI Studio session files (285 with a model field, dated by last modification; the listing deleted after analysis) show: the sessions for the framework versions 3.1 to 8.2.0 ran on Gemini 2.5 Pro, last modified 2025-10-12 to 2025-10-26; Gemini 3 Pro from 2025-11-21, the Digital Archaeologist v3.1.0 among its first sessions; Gemini 3.1 Pro in four sessions only, on 2026-03-09 and 2026-03-10. Modification dates mark the last activity, and branches keep their parent's model. [VERIFIED]
 - Gemini reads in superlatives and ChatGPT in qualifications, the same contrast as the Thanks section's blue and red. [READER]
 
 ## Stumbles
