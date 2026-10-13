@@ -20,6 +20,7 @@ readings of release 1.1.0 and the paper r3, and prepare the paper's r4 from them
 - r4 is drafted on a branch, reviewed in one pull request, and lands as one commit `GENESIS-PAPER r4`. Records and small fixes go to `main` as they happen. [AUTHOR]
 - The friend's response stays with the author until more responses arrive. [AUTHOR]
 - Genesis was meant to reach the essence and quality of the untangle v2 README, which the author wrote by hand. r4 uses that README as its baseline, with short quotes, a rhythm table, and the summarising reader's loss of form recorded as a stumble. [AUTHOR]
+- The order of the origin: writing stalled first; AI then arrived as a writing tool and disappointed, through poor quality and detail, erosion by summarising, misunderstanding, and a lack of pushback and challenge. Those frustrations formed the basis of the framework. r4 tells this in the third person, near the front, because the background explains motivation, direction and goal. [AUTHOR]
 
 ## Learned
 
