@@ -55,7 +55,7 @@ Three of these are easy to confuse. The **standing instructions** sit in your en
 
 | folder | holds | current |
 | :--- | :--- | :--- |
-| [`genesis-framework-late`](genesis-framework-late/) | the late line: rules in three forms, the full framework, seven templates, the reader audit guide | 9.3.3 |
+| [`genesis-framework-late`](genesis-framework-late/) | the late line: rules in three forms, the full framework, seven templates, the reader audit guide | 9.4.0 |
 | [`genesis-framework-early`](genesis-framework-early/) | the early line: the full framework and its roles | 8.2.3 |
 | [`paper`](paper/) | [`GENESIS-PAPER.md`](paper/GENESIS-PAPER.md), *Genesis*: the account of how the method arose, what each stumble taught, and what changed between the lines; beside it, two documents that go deeper, [`reachingConsensus.md`](paper/reachingConsensus.md) and [`positiveFraming.md`](paper/positiveFraming.md) | r3 |
 | [`case-study`](case-study/) | *Topological Computing*, the manuscript the framework grew up with: worked examples and the lineage of every version | r47 |
@@ -104,12 +104,12 @@ had shown.
 
 ## Versioning
 
-Each artefact is one file, and its versions are its commits in git, each named in its commit's subject, such as `GENESIS-FRAMEWORK-LATE 9.3.3` or `GENESIS-PAPER r3`. Every version of the two framework files also carries a tag: `early-3.1` to `early-8.2.3` for the early line, `late-9.0.0` to `late-9.3.3` for the late. The two lines take their own version numbers, so a bump in one leaves the other untouched; the late line's portable rules follow its numbers. Releases of the whole repository are tagged `vX.Y.Z`, starting with `v1.0.0`. See each file's history with `git log --follow <file>`, or its *History* view on GitHub. The [changelog](CHANGELOG.md) summarises every change.
+Each artefact is one file, and its versions are its commits in git, each named in its commit's subject, such as `GENESIS-FRAMEWORK-LATE 9.3.3` or `GENESIS-PAPER r3`. Every version of the two framework files also carries a tag: `early-3.1` to `early-8.2.3` for the early line, `late-9.0.0` to `late-9.4.0` for the late. The two lines take their own version numbers, so a bump in one leaves the other untouched; the late line's portable rules follow its numbers. Releases of the whole repository are tagged `vX.Y.Z`, starting with `v1.0.0`. See each file's history with `git log --follow <file>`, or its *History* view on GitHub. The [changelog](CHANGELOG.md) summarises every change.
 
 ## Licence
 
 * Method and prose, including the rules (`genesisCore.md`, `AGENTS.md`, `SKILL.md`) and both frameworks: Creative Commons Attribution 4.0 International, see [LICENSE-CC-BY-4.0.txt](LICENSE-CC-BY-4.0.txt).
-* Templates and scripts: MIT, see [LICENSE.txt](LICENSE.txt).
+* Templates and scripts: MIT, see [LICENSE-MIT.txt](LICENSE-MIT.txt).
 
 The software of the Topological case study is a separate project with its own licensing, and lives outside this repository.
 
