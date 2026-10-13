@@ -15,7 +15,7 @@ resolved only on xyzzy's ruling. This list is paired with the case study's
 | an init script that copies the templates into a new `genesis/` folder and starts a dated capture | Gemini's review, 2026-10-13 | author rules, agent writes | a `scripts/` folder, under MIT | open |
 | a ChatGPT section in the late install guide | the session of 2026-10-12 | agent drafts, author rules | `genesis-framework-late/INSTALL.md` | open, later |
 | a lean download of the late line, attached to a release | the session of 2026-10-12 | author | the next release | open, later |
-| a genesis image for the Pages view | the session of 2026-10-12 | author | `assets/`, one line in `_config.yml` | open, later |
+| the genesis image: the footprint favicon (32, 180, 192) into `assets/` and `_config.yml`, an SVG link in `_includes/head.html`; the social preview uploaded by the author | the session of 2026-10-14; the author's choice | agent installs, author uploads the preview | `assets/`, `_config.yml`, repository settings | open, with r4 |
 | the late line's first outside test, on a small local model run on Strata | the session of 2026-10-12 | the author's friend, then author | a capture in `captures/` | open, later |
 | the table width fix carried into the theme itself, for every RockingShip site | the session of 2026-10-13 | author | `RockingShip/moonwalk`, `moonwalk.css` | open, optional |
 | the next release, carrying the changes listed as Unreleased; its notes name each versioned artefact by its path, with the version in brackets | `CHANGELOG.md`; the author's remark on 1.1.0 | author | tag `vX.Y.Z` and a release | open |
